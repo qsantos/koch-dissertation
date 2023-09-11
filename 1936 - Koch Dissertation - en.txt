@@ -1,0 +1,726 @@
+From the Psychological Inslitute at the Technical University of Braunschweig
+
+
+Occupational Psychological Investigation of the Activity of Recording Morse Signals
+
+At the same time a new training method for radio operators
+
+From the Technical University Carolo-Wilhelmina at Braunschweig
+
+for the attainment of the dignity of a doctor engineer
+
+approved
+
+Dissertation
+
+presented by
+
+Dipl.-Ing. Ludwig Koch
+
+from Kassel
+
+1936
+Johann Ambrosius Barth / Leipzig
+
+Reporter: Prof. Dr. phil, Bernhard Herwig
+Co-reporter: Prof. Dr.-Ing. Leo Pungs
+
+Submitted on April 25, 1935
+
+This paper appears simultaneously in the
+
+"Journal of Applied Psychology and Character Studies"
+
+Volume 50, Issue 1 and 2 (1936)
+
+Table of Contents
+
+A. Introduction p. 1,
+B. General considerations on the study of radio activity p.2.
+    I. Field of application of radio communication.
+    II. the morse code.
+    III The problem of wholeness and shape in Morse code.
+C. The study of psychological phenomena during Morse code recording p.7.
+    I. The experimental arrangement.
+    II. evaluation of the results of the experiment
+    III. interpretation of the results.
+        a) General principles of the relationship between the Morse code and the tempo of the call.
+        b) Individual design of individual Morse code signals.
+    IV. Summary of the results and conclusion.
+D. The psychological training procedure p.27.
+    I. Investigation and criticism of the previous training procedures.
+    II. development of a new training method.
+        a) Theoretical foundation.
+        b) Practical design of the procedure.
+            1. general structure.
+                α) Sound pattern and rhythm.
+                β) Amplification of the gestalt effect of Morse code. Two-tone procedure.
+                γ) Prayer tempo in the learning procedure.
+            2. special issues.
+                α) Various difficulties in learning single letters.
+                β) Differentiation of similar letters.
+                γ) Practicing groups of letters.
+                δ) Distribution of practice.
+                ε) Practical results of learning.
+E. Question of aptitude p. 59.
+F. Technique of implementation p. 66.
+G. Summary of the main results p. 67.
+
+A. Introduction
+
+The aim of all work-psychological investigations must be to
+to create optimal impact opportunities for human work.
+This goal is achieved through the mutual adjustment between the
+psychological structure of the human being and the design of all working conditions,
+under which the respective work to be investigated takes place. The adaptation
+between man and work can be achieved in two different ways with fundamentally
+different starting points, either the human being or the work,
+but with the same goal.
+
+If one starts from the human being, then the task of work psychology will consist of
+the individual human being in his psychological structure by means of a thorough
+psychological examination (aptitude test), in order to find a job for him that corresponds to his
+find a job for him which corresponds to his aptitudes and for which he is suitable
+the actual meaning of the term occupation, is really "called".
+
+The professional activity, however, is not only conditioned by aptitudes, but it is to a large extent
+is largely made up of certain practicable skills for which the original aptitudes are only
+for which the original aptitudes are only prerequisites. In correct pursuit
+of this way of adapting man to his work, a further task of industrial psychology is to develop
+task of industrial psychology will be the development of psychologically correct
+which will develop the actual occupational skills out of the basic aptitudes determined in the
+the basic aptitudes determined in the aptitude test.
+
+However, this adaptation of man to his work will not yet be able to lead to full
+success for the work, because even the best suited and semi-skilled professional representative
+and semi-skilled professional representative cannot have a full 1 effect on his work, if
+the working conditions themselves are not now in their turn also adapted to the human being in his
+are not adapted to the human being in its entire psychological and physical structure. This leads to the
+second way of work psychology, which has to start from the examination of all working conditions.
+working conditions. This investigation will have to be directed
+not only to the design of the special conditions of the work to be
+conditions of the work to be performed, such as the design of the workplace, the tools, the machine, accident prevention measures
+the machine, accident-preventing measures, working posture, etc., but also on the general
+general working conditions, such as the design of the workspace, working hours, etc.
+working space, working hours, break regulations, etc.
+
+While the aptitude tests are adjusted to the psychological attitude of the individual
+of the individual person in his or her individual character, the investigations of the
+of the working conditions must be based on the normal mental and physical
+of the normal mental and physical constitution of the working man and to create
+conditions in such a way that they are adapted as far as possible to this normal capacity.
+as far as possible.
+
+Only when both paths are followed and complement each other, will there be
+the greatest possible adaptation between man and work is achieved and
+the prerequisite is created for the most favorable possibility for the
+of the working person. Fundamental in both cases will be a thorough
+psychologically directed examination of the working conditions, since also
+aptitude testing and training are also based on this knowledge of the psychological
+psychological processes in the respective occupation.
+
+For this reason, the present work on the activity of the radio operator is also based on a psychological analysis of the work process.
+psychological analysis of the work process and its conditions.
+conditions. Since the essential part of the radio operator's work is the recording of the
+Morse code, this process must first be subjected to an in-depth psychological
+psychological examination. From this, as will be shown in the
+the present work, the essential basic factors which influence the work of the
+which influence the work of the radio operator, from which then the development of a new
+of a new training procedure that corresponds to all psychological conditions
+and certain aspects for the question of aptitude tests for radio operators.
+follow.
+
+B. General considerations on the study of radio activity
+
+I. Field of application of the radio activity
+
+The work of the radio operator consists in its essential content in the recording and
+Morse code; in addition, there must be a certain amount of technical
+operating knowledge must be present. The requirements in related to the tempo,
+i.e. on the quantity of characters per mint when recording and transmitting, are more or less
+the different operating conditions of the radio traffic more or less
+less high according to the different operating conditions of the radio traffic. For example, due to the extraordinary importance of radio for the
+the extraordinary importance of radio for the operation of airplanes, the demands on the radio operator must be
+radio operators must be increased accordingly. For admission to the flag radio operator service
+the conditions of the first-class radio operator's diploma must therefore be fulfilled.
+
+Radio communication in the ship service is subject to the same conditions, i.e. 2,
+perfect mastery of the speed 100 Z/min. Code text. The
+Examination requirements of the shipboard radio operator course are, for example:
+
+    "Keying a telegram of 100 words of 5 letters each in 5 minutes on the
+    Morse code in perfect writing. Recording of a code telegram of
+    100 words and an open text of 125 words of 5 letters each in
+    6 minutes; transcribing the latter on a typewriter¹."
+
+In the case of other applications, it can be generally stated that
+the normal operating speed of the average radio operator is within the limits of 60-90
+Z/min. Within this speed range works e.g. also
+the radio operator with the message troop in the army service. If also with the sea for
+tactical reasons (eavesdropping and eavesdropping activities), the wireless electrical
+transmission is more displaced by the wire-connected telephone,
+the radio will remain important as a means of immediate readiness.
+will remain important.
+
+In the economic and traffic life the wireless hearing reception is no longer
+more efficient devices have replaced the human sensory tools.
+have replaced the human senses. For example, in the postal service, wireless telegraphs are in use,
+which perform up to about 400 Z/min. There is a certain limit to auditory
+by human performance. The international
+agreement, according to which a telegrapher must record 125 letters per min,
+has come about without prior testing of the ability to reach such a high speed (cf.
+(cf. Biegel²).
+
+Although the activity of man as a punker has been pushed back by technical equipment
+the activity of the human being as a punker, the hearing reception will always remain indispensable where
+where, due to special conditions, the human being cannot be replaced.
+
+¹ Plan and examination regulations for the radio operator course I. Class with
+Special regulations for the training of the debeg and transradio service. Berlin
+1925.
+
+² Biegel, An aptitude test for radio telegraphists. PsychotZ, 6th Jg., H.
+2, 1931.
+
+II. The Morse code
+
+According to international agreement, exact proportionality conditions are defined for the
+Morse code, precise proportionality conditions are specified. The characters
+are composed of short and longer tones, the pitch of which may vary according to the type of
+of the transmitter. At different speeds, the ratio of short and
+the ratio of short and long tones and their spacing should always remain the same.
+remain the same. The unit of measure for this proportionality is the short element. In the
+the elements of Morse code shall be designated as dots and dashes, according to the
+according to the common usage among radio operators, which is derived from the optical
+optical symbols for Morse code (-, -~--).
+
+The international agreements on the proportions of the drawing specify
+the following:
+
+    Unit of measurement is the dot length.
+    The stroke has triple dot length.
+    Within the Morse code character, the pause between the individual elements of the character
+    of the character has the duration of one dot length.
+    After each Morse code character, the pause had the duration of one stroke.
+
+These internationally defined proportions of the Morse code character are - as will be shown
+as present investigations will show - only for the auditory recording with
+speeds above about 50 Z/min, however, a speed which is always
+speed which will always be reached in practical radio communication.
+
+The reason for this lies in the fact that the acoustic recording of Morse code
+just like the perceptual contents in other sensory areas, is bound to the general
+the general psychic phenomenon of wholeness and gestalt perception.
+
+III The problem of wholeness and gestalt in Morse code
+
+The results of gestalt-psychological research lead to the fundamental
+statement that the impressions of our sensory world are of a holistic nature.
+Felix Krueger states in his treatise "on psychic wholeness": "In the case of
+mental conditions of any kind, qualitatively and functionally the mental whole
+functionally the psychic whole¹." O. Buss explains the concept of wholeness as
+as follows: "We speak of wholeness when a whole formed by
+
+¹ F., Krueger, on psychic wholeness. NeupsySt 1. 1926.
+
+Life bound primary necessity of unity is present.
+The whole has a primacy of essence before its parts; it is impossible,
+to let the whole constitute itself out of a lawful order of parts.
+20 from a lawful order of parts 3.4
+
+We cannot logically define the concept of wholeness or wholeness, but only wholeness.
+define, but only wholeness can be represented,
+
+A quadrilateral drawn on a sheet of paper, for example, is not to be understood simply as a relationship or sum.
+as a relation or sum of four lines meeting each other,
+rather this quadrangle is perceived as a wholeness, an optical shape which immediately
+which immediately and directly stands out from its surroundings.
+
+The same appearance of gestalt formation occurs in reading. The
+does not read individual letters, but perceives the word as a whole as a shape.
+shape. The practical application of this insight leads to the development
+the well-known whole reading method for learning to read,
+
+The military bugle signal can be seen as an example for the conception of gestalt also in the acoustic field.
+military bugle signal. The meaning of such a signal
+is not understood by grasping individual isolated tones, but rather by the
+the sound complex in its entirety, i.e. as an acoustic shape in its typical
+in its typical overall structure for this signal. Likewise
+every melody is not composed of single tones, but of tone complexes,
+partial shapes.
+
+This lively wholeness of things is not limited to the only momentary
+instantaneous grasp of perceptual contents, but also the retention and reproduction of any
+and reproducing of any impressions of mental events and experiences in the memory
+memory takes place in such forms.
+
+Thus, for example, it is much more difficult to sing individual tone sequences of a melody from memory than to sing the same tone sequences.
+than to repeat the same sequence of notes if it is contained in a melody.
+melody.
+
+Accordingly, gestalts have a higher reproduction ability than ungestalt
+complexes.
+
+¹ O. Buss, Muttersprachliche Gestalten bewerlet unter dem Gesichtspunkt der
+wholeness. ZAngPs 46. 1934.
+
+So, if any content is to be memorized and retained, so that reproducing is
+reproduction is possible quickly and safely,
+thus, the learning methods have to start from such holistically grasped, designed
+contents. Decroly's whole-semetbode, already mentioned, is based on these conditions in the
+is based on these preconditions, because not single letters but whole word pictures are
+individual letters, but rather entire word pictures are imprinted from the beginning.
+just as later the reading process of the literate is based on the shape of the whole word.
+of the whole word². The successes of the whole word semetbode speak for the
+correctness of this method.
+
+Just as rightly and successfully, the application of these considerations in the optical field
+for reading, the same conclusions are drawn for acoustical perception.
+acoustical perception the same conclusions will be drawn for a procedure for learning the
+Morse code.
+
+If also variously - by far not everywhere - approaches in this
+in this direction with the previous and now still usual procedures for learning the
+and giving of Morse signals are present, then it is to be stated nevertheless
+that no procedure covers all points of view, which can be derived from the
+the examination of the Gestalt experience when listening to Morse code.
+for the learning of Morse code.
+
+In order to make this application of gestalt-psychological knowledge possible for a learning procedure
+a detailed psychological investigation of the phenomena during the recording of the
+phenomena during the reception of Morse code, which will be carried out in the following
+will be made in the following.
+
+C. The study of the psychic phenomena during the recording of the Morse signal
+
+It is obvious, that the psychic phenomena during the recording of the Morse code
+Morse code is influenced by the speed with which the signs follow each other.
+follow each other. With increasing tempo not only the difficulty of recording is
+not only the difficulty of the reception because of the increased demand on the
+ability, but also changes in the overall acoustic 0 impression will occur.
+overall acoustic impression will occur, which are closely connected with the factors that form
+factors.
+
+¹ Hamaide, The Decroly Method. Weimar, Böhlaus Nachf. 1928.
+² Kern, Is our reading method correct? Freiburg (Breisgau). 1931.
+
+The most important task will have to be to investigate this dependence on tempo
+in detail, whereby it will also turn out that this is the source of almost all
+almost all anftanching questions are to be clarified.
+
+In this investigation, the first obvious way has not been taken, which is to
+the psychic phenomena during hearing, i.e. during the reception of the signs.
+the signs, has not been taken. An exact experimental
+experimental proof by investigating the processes during hearing, many difficulties would
+difficulties, as will be shown later (p. 19) in the experiments of this kind used for comparison.
+will be shown later (p. 19) in the experiments of this kind used for comparison.
+
+Rather, the investigation was carried out in such a way that practicing at different tempo
+at different tempos in order to determine in which rhythm the individual elements of each
+elements of each Morse code were given at the various speeds by trained radio operators.
+were given by practiced radio operators. This method provides an opportunity to determine the
+obtained for the elements and their intervals within the character and from character to character.
+and from character to character can be examined in detail,
+
+The justification to infer from the way of giving also the way of recording is that the
+lies in the fact that the subject, who hears the sign given by him in the headphones at the same time
+the sign given by her, generally gives the rhythm within the sign.
+rhythm within the sign, which is not only motorically but also acoustically
+not only motorically, but also acoustically most adapted. The
+confirmation of this theoretical assumption will be given later, when the results of the
+later on, when the results of the experiments will be compared with the direct examination of the
+of the processes during the recording of the signs at different speeds.
+and a good agreement will be shown.
+
+For the giving tests only those subjects can be chosen who are
+show good performance in giving due to long practice,
+because only with them the natural adjustment to the acoustic rhythm takes place
+rhythm without being influenced by other disturbing moments.
+Several subjects must be used for these tests.
+several test persons, since, as is well known, each radio operator has his own
+has his own evidence. But if indeed certain general
+connections between the design of the Morse code and the tempo
+and the tempo, then these relations will have to be
+in spite of small individual differences.
+
+I. The experimental arrangement
+
+According to the intention of the experiment, the temporal relations of the
+the timing of Morse code transmission at different speeds.
+the following experimental set-up was used for the temporal
+registration.
+
+An endless paper tape, the surface of which is sooted, is passed over two drums (Hering's loop).
+(Hering's loop). The drive drum can be driven by a motor at any
+motor at any desired, but in each case constant, speed.
+speed. An electromagnetic writing lever and a tuning fork with 100 oscillations write on the paper
+and a tuning fork with 100 oscillations/sec. to mark the passage of time.
+
+The morse key is connected in series with the writing lever.
+At the same time, the radio operator listens in through headphones, so that he can hear the
+acoustic impression of the signal given by him.
+
+The Morse key is located spatially separated from the recording device,
+in order to let the subjects give their signals completely unbiased.
+
+All subjects gave the same sequence of signs at all tested speeds.
+of signs, for which the following grating was selected:
+
+b c v q f l h y z x
+
+II. Evaluation of the test results
+
+The sequence of Morse code signals recorded in this way yields, by measuring the
+the time proportions within the different characters and their distances.
+different characters and their distances.
+
+The relation between the recorded lingen and the corresponding times
+is calculated for each of the tests performed from the following
+experimental data, from which a numerical example shall be singled out.
+
+The length of the whole paper tape was 208 cm, the time for one revolution 35
+seconds.
+
+One centimeter of travel on the paper tape thus corresponds to 0.168
+seconds.
+
+The dimensions for the points, stitches and spaces are denoted by a, b, c, d
+as shown in the following sketch:
+
+  ___ _____ _____ ___
+→|a →|← c →|← b →|← d →|← a →|← c →|
+
+
+Calculation of the giving velocity
+
+The giving speed is intrinsically prescribed to the Vp. in each trial.
+However, the radio operator can only keep a certain prescribed giving speed in a more or
+less approximation, especially when he has to give a low tempo.
+is to be given. For the evaluation of our investigations, therefore, the actual
+speed from the recorded samples must be calculated in the following way
+in the following way:
+
+The total length for the 10 assumed characters = l (cm).
+Time factor:                              1 cm = t (sec.)
+Therefore, time for 10 characters              = l . t
+----------------------------------------------------------
+Speed :                                        = (10⋅60) / (l⋅t) Z/min.
+
+
+It is also to be noted that the magnitude of the giving speed depends on
+which Morse code is used to compose a sequence, since there are longer and shorter Morse codes.
+there are longer and shorter Morse codes.
+
+If one uses as unit of measurement for the character duration of a Morse character
+(i.e., for the time during which the character is sounded) the
+time duration of a "dot length", so behaves for example as an
+extreme case in Morse code according to the international agreement (p.
+5) the character duration of the letter e (-) to ch (----) is 1:15:
+
+  e                        ch
+  _     _____       _____       _____       _____
+→|1|   |← 3 →|← 1 →|← 3 →|← 1 →|← 3 →|← 1 →|← 3 →|
+       |←----------------- 15 ------------------→|
+
+Due to the differences in the character duration of the individual Morse code
+of a sequence of signals is strongly influenced. Therefore, in practice, the speed of the call can only be
+can therefore only be given approximately in practice, because an average character duration, which could
+which could be used as a unit of measurement or relationship for each sequence of signals, is
+is not determined.
+
+In the case of a sequence of commands in plain text, for example, the average character duration was determined by the
+frequency of the letters of this sequence. In the code text the
+average character duration depends on the composition of the encoding. The
+entire alphabet of the letters A-Z has a mean character duration which is a
+time of 8.4 point lengths.
+
+In the present case of our recorded samples, which are composed of
+relatively long Morse code characters, the average character length of the
+character duration of the 10 selected characters is 10.2 dot lengths. In relation to the
+the average character length of the alphabet from A-Z, the tempo of our sequence would be
+of our gege sequence, if calculated to have 25 Z/min. in absolute terms, would be relatively
+
+25 ⋅ 10.2 / 8.4 = 30 Z / min.; instead of 82 2/min. calculated in absolute terms, the tempo
+
+the tempo would grow relatively to 85 ⋅ 10.2 / 8.4 = 100 Z/min,.
+
+After clarification of these relationships, which must always be observed, the
+evaluation of the test results can now take place.
+
+With the recording equipment described, the 10 Morse code signals transmitted by
+4 experienced radio operators with different high speed, were recorded.
+had been recorded. From these 10 Morse signals, for each Vp. for the elements a, b, c,
+d the arithmetic mean values were determined
+
+\left( AM = \frac {\sum_{i=1}^n} n; w_i = measure values of the individual elements \right)
+
+and compiled in each case with the corresponding calculated velocities in the curves
+of Figs. 1 to 4.
+
+Furthermore, the mean variation MV
+
+\left( mean variation: MV = \frac {\sum_{i=1}^n \[AM - W_i\]} n \right)
+
+of the individual values is determined. It is shown that the values for a, b, c, d
+were kept with sufficient constancy by the radio operators. Larger
+uncertainty is partly found for the AM value of d at low speed.
+can be observed. Because of the too long intermediate pans it is very difficult to
+difficult at low speed to keep the distances between two Morse code signals
+to be approximately of the same size. With increasing speed therefore also
+the value for d becomes more constant.
+
+For a better overview of the given values, they are shown in Figs. 1 to 4 in 4
+curves for one Vp. each. The curves show the dependence of the
+temporal relations of the Morse signal to the transmission speed.
+
+The dimensions for a,b, c, d are on the ordinate in mm, the tempo is on the
+abscissa (1 Z/min = 2 mm). These curves therefore illustrate the
+relationships between the lengths of the elements of the subjectively given
+Morse code and the tempo and show already at superficial observation in their basically = usual course, in particular
+their basically = usual course, especially the curves I to III - at
+Vp. IV there are special relations to be clarified later -, that a certain
+law for the dependence between the given tempo and the time ratio of the
+time relation of the individual elements of the Morse code.
+
+Fig. 1. vp. I. The temporal proportions of the subjectively given
+Morse code dependent on the
+Tempo, M.1 Z/min = 2 mm (reduced to ½ size).
+
+Fig. 2. vp. II
+
+Fig. 3. vp. III
+
+In order to penetrate deeper into these relations, it is first of all of importance,
+these temporal dimensions of the subjectively given and heard sign with the
+mathematical dimensions of the Morse code, which is composed according to the proportions of the
+international agreement, at the same high speed.
+compare. This comparison is shown in the graphical representation (Figs. 5
+to 8). At the same high tempo, each time the subjectively given
+and the corresponding Morse code with the internationally fixed proportions.
+proportions.
+
+The elements a, b, c, d of the subjectively given character are so
+in such a way (in mm) that they correspond exactly to the time sequence of this Morse code
+Morse code at the respective tempo.
+
+Fig. 4. VP IV.
+
+In the same duration of this subjectively given character (s), the
+Morse code with the proportions of the international agreement (o) would assume the
+design as it can be seen from the graphical representation.
+
+III Interpretation of the results.
+
+a) General regularities about the relations between the design of the Morse code and the tempo of the call.
+
+The discussion of the curves will provide information about the timing and the
+of the Morse code, at the same time the question of the usefulness
+of the proportions according to the international agreement.
+
+If the designations we have chosen for the elements of Morse code a, b,
+c, d, the proportions of the Morse code character according to the international agreement
+the international agreement:
+
+Unit of measurement for the dot length is a.
+
+b = 3 a, c = a, d = 3 a.
+
+Of the curves Figs. 1 to 4, only the first three of Vpn. I, II,
+III, starting with the lowest speed, approx.
+25 Z/min. It can be seen that the dimensions for a and c do not differ greatly from each other.
+differ from each other.
+
+The stroke length b is 3 to 4 times, in Vp. III even 8 times the
+length of a, while the international agreement prescribes b = 3a.
+
+About the dimensions a, b, c, which due to individual difference of the donor
+more or less closely with the dimensions of the international agreement.
+will be discussed later.
+
+More important for our investigation is first a consideration of the distance d
+between two characters. The international agreement sets this distance d =
+b = 3 a, whereas in our recorded values, the distance d
+is 3 to 4.6 times b.
+
+Therefore, the radio operator does not transmit the character in the prescribed proportions at a slow
+the prescribed proportions, but rather pulls it together more, even if not to the most
+not to the most favorable form (b = 3.5 to 8a instead of 3a). He makes
+the distance d between the individual characters considerably longer.
+
+The subjectively given character is therefore also at low speeds
+to the acoustic unit of a shape by the practiced radio operator.
+
+This crowding together of the individual elements of the Morse code to one
+is very clearly visible when comparing the subjectively given character with the
+character with the dimensions of the character according to the international agreement
+at the same speed (graphical representation Figs. 5 to 8).
+
+The comparison shows how, at the observed speed of 25 Z)min.
+stroke length b of the international dimension is elongated. Particularly
+the length of the line will have a particularly strong effect on the human
+acoustical impression, which such a Morse code with the international
+international dimensions when heard. If one would hear at slow
+proportions at slow speed, the result would be an agonized, pained
+would result in a tortured, long stretching out of the single character, the acoustic
+The acoustic shape of the character would fall apart completely. In the
+example of the subjectively given sign confirms the fact, known from other psychological
+from other psychological investigations, that shapes urge towards
+for unification and completion.
+
+The graphical representation in Figs. 5 to 7 shows that with increasing speeds the
+velocities the conditions become more favorable for the emergence of acoustic
+wholes, shapes, become more favorable. At the same time the proportions of the
+the proportions of the international agreement approach the psychically most favorable
+conditions.
+
+Fig. 5. vp. I. Comparison of the subjectively given Morse code with the
+Morse code according to the international. Proportions of different tempo.
+s = subjective character, o == character according to the international agreement.
+
+Fig 6. vp. II
+
+Fig 7. vp. III
+
+Fig 8. vp. IV
+
+We recognize this fact from the graphical representation Figs. 5 to 7
+in that as the tempo progresses up to the highest human hearing and
+speed an ever greater correspondence between the mathematical proportions and the
+mathematical proportions and the design of the subjectively given sign.
+can be observed. On the curves Fig. 1, 2 and 3 this correspondence is shown by the fact that the b- and
+and 3, this correspondence is shown by the fact that the b- and d-lines, with increasing tempo
+more and more, and finally almost merge into each other. The curves
+prove in general that Morse code must always take on a shape independent of the tempo, because it is
+shape independent of the tempo, because it is impossible to "constitute the whole from a lawful order of parts".
+order of parts" ¹. The curves prove in general that Morse must always take on a shape independent of the tempo. ¹.
+
+In our case, this is the case when the parts can no longer merge into a single unit due to the wide
+The parts can no longer merge to form a single unit as a result of the wide separation.
+
+It can therefore be concluded from the illustrations in Figs. 5 to 7 that
+the proportions of the international agreement at low speed do not correspond to the
+the psychic disposition of the human being, but only from a speed of about
+tempo of about 50 Z/min. from this disposition.
+
+We have drawn this conclusion first of all on the basis of the investigations which
+of giving, whereby we presuppose (cf. 5. 8) that the kind of giving is
+of giving will generally adapt itself to the psychic conditions of hearing.
+will adapt. In order to prove this premise, experiments were also
+were carried out to clarify the conditions during hearing.
+
+For these experimental purposes a number of arbitrarily arranged
+Morse code (30 characters) were combined to form a dictation and given and recorded at various
+and recorded at different speeds.
+
+The Morse code was composed according to the proportions of the international agreement.
+agreement and their temporal relations could be changed at any speed by an automatic
+time ratios could be precisely maintained at each speed by means of an automatic
+by means of an automatic transmitter (see p. 66).
+
+Since the international proportions were thus automatically maintained for each tempo
+were thus created, which in their temporal proportions were as
+as the characters o
+
+¹ O. Buss, Muttersprachliches Gestalten bewertet unter dem Gesichtspunkt der Ganzheit. ZAngPs 46. 1934.
+
+Journal of Applied Psychology and Character Studies 50
+
+in figs. 5 to 8. For the experiments, a number of radio operators were available
+available who could professionally record and give speed 100 Z/min. To these
+were given the signs at the various speeds, starting from approx. 25
+Z/min, starting from about 25 Z/min.
+
+The control of the usability of the signs for the recording was done by
+counting the incorrect and omitted signs in the recorded dictation.
+
+At low speed, it turned out that our subjects had very little confidence in recording the
+was very low in our subjects. At a speed of 25 Z/min. only 5 to 8 characters out of
+only 5 to 8 characters out of 30 given Morse code signals were correctly
+were correctly picked up. With increasing speed, the audio pickup was
+to finally achieve sufficient reliability in the speed range 40 to 50 Z/min.
+to attain sufficient certainty. The results of the listening tests are shown in the curves Fig. 9.
+Each curve represents the certainty of auditory perception of a single Vp. On
+the ordinate is plotted the recording reliability S in percent. The 30
+characters of the dictation have been recorded by the radio operator with zero errors.
+with zero errors. The measurement "one hundred percent S" corresponds to the 30 error-free
+recorded Morse code.
+
+Fig. 9: Reliability of Morse code recording according to the international agreement depending on the speed.
+of tempo. 1 Z/min = 1.5 mm, 1 % = 1 mm (reduced to ½ size).
+
+From the findings of these listening tests, the agreement with the
+obtained results of the listening tests Figs. 5 to 7.
+
+Here too, in agreement with the earlier experiments, the fact emerges,
+that the international proportions only begin to adapt from the speed range of about 50
+%/min., the international proportions begin to adapt to the psychic disposition of the human being. At
+at a lower speed, when the mathematical dimensions of the international
+international agreement, the shape of the character begins to decay, which causes the low
+low reliability of reception.
+
+Therefore, if the Morse code is to correspond to the psychic disposition, it must always be
+must always have a gestalt character, regardless of the speed.
+
+That this conclusion is correct, is proven by another experiment, which we conducted
+with the same subjects who were available to us for the preceding listening tests.
+the same subjects who were available to us for the preceding auditory tests, in order to
+to verify.
+
+At the same low speed at which we had previously maintained the mathematical
+dimensions automatically, we now emitted characters whose
+distance d was increased (twofold). Since now also at low speed
+the acoustic shape of the sign was already clearly visible, this recording did not make any
+our subjects no difficulty at all, whereas the safety of the previous experiment with the
+the previous experiment with the mathematical dimensions was so low.
+
+The acoustic impression of these "designed" signs corresponds to the design,
+as it occurs with the subjectively given character of our Gebe samples (fig. 5 to 7
+character s) at low speed.
+
+In both cases, the distance d is noticeably larger than the mathematical
+dimension at the same tempo and the character itself is more compressed.
+crowded together.
+
+This correspondence of the subjectively given sign of the giving samples (Figs. 1
+to 3, Vp. I, II, III) with the "designed" acoustic impression of the sign
+of our auditory experiment provides further evidence that the way to conduct the
+the investigations about the way of giving, can also give information about the
+psychic processes in hearing and was therefore justified.
+
+The necessity for this procedure arose from the fact that the
+the only way to measure the number of errors (safety of recording).
+(certainty of recording). However, this measure is rather coarse and does
+into the subtleties of the individual relations as the exact recording of the
+even if it is sufficient for this purpose to prove the correctness of our method and the
+of our methodical pretence and the drawn conclusions.
+
+On the other hand, however, the investigation of listening still offers eternal
+possibilities to draw further conclusions from the interpretation of self-observations and observations by
+conclusions, which at the same time can be secured by the exact derivations during the
+Gbeversuchen can be secured.
+
+These interpretations will give the opportunity to go even further into the psychic
+psychic processes during the recording of the Morse code.
+
+First of all the reasons must be explained in this way still more near, which to
+the extraordinarily strong failure of the practiced radio operators, if the Morse signals are
+Morse code at a low speed according to the proportions of the international
+international agreement.
+
+With the appropriate will setting each radio operator will finally
+will be able to translate the thus acoustically decomposed Morse code. The pause
+d between two characters is sufficiently long that it is possible to reassemble the
+to reassemble the character, which has been separated, by thinking about it.
+is to be reassembled. The test persons, who were used for these investigations, are, as already mentioned
+already mentioned, professional radio operators, who have become accustomed to the rhythm of the
+the rhythm of the 100 Z/min. tempo and the sound pattern of the sign. The patients.
+could not easily adapt to the tortured disassembly of the signal and the reassembly
+and the necessary reassembly. If the analytical
+acoustic presentation of the sign, as shown, is generally contrary to the psycho-physical predisposition.
+psycho-physical disposition, then the thereby occurring decay of the form will prove to be particularly
+will prove to be particularly disturbing, if, as is the case with our
+If, as is the case with our patients, a firmly accustomed rhythmic setting is present.
+This probably explains the great uncertainty of our subjects during the examinations of hearing with low speeds.
+the investigations of hearing at low speeds.
+
+translated until “den Untersuchungen des Hörens mit geringen Geschwindigkeiten.”
