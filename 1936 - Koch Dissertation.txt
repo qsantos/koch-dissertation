@@ -42,7 +42,7 @@ B. Allgemeine Betrachtungen zur Untersuchung der Funkertätigkeit S.2.
     I. Anwendungsgebiet des Funkwesens.
     II. Das Morsezeichen.
     III. Das Problem der Ganzheit und der Gestalt beim Morsezeichen.
-C. Die Untersuchung der psyehischeu Erscheinungen beim Aufnehmen des Morsezeichens S.7.
+C. Die Untersuchung der psychischen Erscheinungen beim Aufnehmen des Morsezeichens S.7.
     I. Die Versuchsanordnung.
     II. Auswertung der Versuchsergebnisse.
     III. Deutung der Ergebnisse.
@@ -130,8 +130,7 @@ vorliegenden Arbeit gezeigt werden wird, die wesentlichen Grundfaktoren
 ergeben, die die Arbeit des Funkers beeinflussen, woraus dann die Entwicklung
 eines neuen, allen psychologischen Bedingungen entsprechenden Anlernverfahrens
 und gewisse Gesichtspunkte für die Frage der Eignungsuntersuchungen für Funker
-folgen,
-
+folgen.
 
 B. Allgemeine Betrachtungen zur Untersuchung der Funkertätigkeit
 
@@ -215,8 +214,7 @@ Der Grund hierfür liegt darin, daß die akustische Aufnahme des Morsezeichens
 genau wie die Wahrnehmungsinhalte auf anderen Sinnesgebieten gebunden ist an
 die allgemeine psychische Erscheinung der Ganzheit- und Gestaltauffassung.
 
-
-II. Das Problem der Ganzheit und der Gestalt beim Morsezeichen
+III. Das Problem der Ganzheit und der Gestalt beim Morsezeichen
 
 Die Ergebnisse gestaltpsychologischer Forschung führen zu der grundsätzlichen
 Feststellung, daß die Eindrücke unserer Sinneswelt ganzheitlicher Art sind.
@@ -265,19 +263,17 @@ Melodie enthalten ist.
 Gestalten besitzen demnach eine höhere Reproduktionsfähigkeit als ungestaltete
 Komplexe.
 
-Sollen also irgendwelche Inhalte eingeprägt und behalten werden, so daß das
-Reproduzieren schnell und sicher mölich ist,
-
 ¹ O. Buss, Muttersprachliche Gestalten bewerlet unter dem Gesichtspunkt der
 Ganzheit. ZAngPs 46. 1934.
 
-so müssen die Lernmethoden von derart ganzheitlich erfaßten, gestalteten
-Inhalten ausgehen. So beruht die schon erwähnte Ganzlesemetbode von Decroly¹ im
-Anfangsschulunterricht auf diesen Voraussetzungen, denn es werden nicht
-einzelne Buchstaben, sondern von Anfang au ganze Wortbilder eingeprägt, genan
-so wie ja auch später beim lesekundigen der Leseprozeß sich auf die Gestalt des
-ganzen Wortes stützt². Die Erfolge der Ganzlesemetbode sprechen für die
-Richtigkeit dieses Verfahrens.
+Sollen also irgendwelche Inhalte eingeprägt und behalten werden, so daß das
+Reproduzieren schnell und sicher mölich ist, so müssen die Lernmethoden von
+derart ganzheitlich erfaßten, gestalteten Inhalten ausgehen. So beruht die
+schon erwähnte Ganzlesemetbode von Decroly¹ im Anfangsschulunterricht auf
+diesen Voraussetzungen, denn es werden nicht einzelne Buchstaben, sondern von
+Anfang au ganze Wortbilder eingeprägt, genan so wie ja auch später beim
+lesekundigen der Leseprozeß sich auf die Gestalt des ganzen Wortes stützt². Die
+Erfolge der Ganzlesemetbode sprechen für die Richtigkeit dieses Verfahrens.
 
 Ebenso wie mit Recht und Erfolg die Anwendung dieser Überlegungen auf optischem
 Gebiet zu einem Anlernverfahren für das Lesen führt, so werden auch für
