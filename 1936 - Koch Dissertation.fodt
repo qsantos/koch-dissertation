@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-12T21:00:45.938472819</dc:date><meta:editing-duration>PT2H34M20S</meta:editing-duration><meta:editing-cycles>28</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="5" meta:image-count="16" meta:object-count="4" meta:page-count="55" meta:paragraph-count="606" meta:word-count="20249" meta:character-count="144714" meta:non-whitespace-character-count="124903"/></office:meta>
+ <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-12T21:04:31.258167465</dc:date><meta:editing-duration>PT2H38M4S</meta:editing-duration><meta:editing-cycles>30</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="18" meta:object-count="4" meta:page-count="55" meta:paragraph-count="606" meta:word-count="20205" meta:character-count="144316" meta:non-whitespace-character-count="124706"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">265599</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">253510</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">34907</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">14855</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">19766</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">275057</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8659</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">260518</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">265599</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">253510</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">34906</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">280453</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">268363</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -567,6 +567,24 @@
   <style:style style:name="Table4.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
   </style:style>
+  <style:style style:name="Table5" style:family="table">
+   <style:table-properties style:width="17.59cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table5.A" style:family="table-column">
+   <style:table-column-properties style:column-width="5.863cm" style:rel-column-width="3324*"/>
+  </style:style>
+  <style:style style:name="Table5.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.246cm" style:rel-column-width="1840*"/>
+  </style:style>
+  <style:style style:name="Table5.C" style:family="table-column">
+   <style:table-column-properties style:column-width="8.481cm" style:rel-column-width="4808*"/>
+  </style:style>
+  <style:style style:name="Table5.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table5.A3" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.049cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.05pt solid #000000" style:writing-mode="page"/>
+  </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
@@ -761,32 +779,36 @@
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
    <style:text-properties fo:font-size="16pt" fo:language="de" fo:country="DE" officeooo:paragraph-rsid="0012949c" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Tabelle">
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="16pt" fo:language="de" fo:country="DE" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Tabelle">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:keep-with-next="always"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
-  </style:style>
   <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
   <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
   <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="00135da4" officeooo:paragraph-rsid="00135da4"/>
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
   <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="00135da4" officeooo:paragraph-rsid="00135da4"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="00135da4" officeooo:paragraph-rsid="00135da4"/>
   </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Table_20_Heading">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Table_20_Heading">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
@@ -1472,28 +1494,470 @@
    <text:p text:style-name="P18">Ein Zentimeter zurückgelegter Weg auf dem Papierband entspricht demnach 0,168 Sekunden.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Die Abmessungen für die Punkte, Stiche und Zwischenräume seien mit a, b, c, d bezeichnet, wie folgende Skizze zeigt:</text:p>
-   <text:p text:style-name="P18"><text:s text:c="2"/>___ <text:s text:c="6"/>_____ <text:s text:c="6"/>_____ <text:s text:c="6"/>___</text:p>
-   <text:p text:style-name="P18">→|a →|← c →|← b →|← d →|← a →|← c →|</text:p>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Berechnung der Gebegeschwindigkeit</text:p>
+   <text:p text:style-name="P13"><draw:frame draw:style-name="fr2" draw:name="Image18" text:anchor-type="as-char" svg:width="11.113cm" svg:height="1.296cm" draw:z-index="33"><draw:image draw:mime-type="image/png">
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P53">Berechnung der Gebegeschwindigkeit</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Die Gebegeschwindigkeit ist an sich der Vp. bei jedem Versuch vorgeschrieben. Der Funker kann aber ein bestimmtes vorgeschriebenes Gebetempo nur in mehr oder weniger großer Annäherung einbalten, besonders wenn er niedriges Tempo geben soll. Für die Auswertung unserer Untersuchungen muß daher das tatsächlich eingehaltene Gebetempo aus den aufgezeichneten Gebeproben in folgender Weise errechnet werden:</text:p>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18"><text:soft-page-break/>Die Gesamtlänge für die 10 angenommenen Zeichen = l (cm)</text:p>
-   <text:p text:style-name="P18">Zeitfaktor: <text:s text:c="31"/>1 cm = t (sec.)</text:p>
-   <text:p text:style-name="P18">Daher Zeit für 10 Zeichen <text:s text:c="22"/>= l . t</text:p>
-   <text:p text:style-name="P18">----------------------------------------------------------</text:p>
-   <text:p text:style-name="P18">Geschwindigkeit : <text:s text:c="30"/>= (10⋅60) / (l⋅t) Z/min.</text:p>
-   <text:p text:style-name="P18"/>
+   <table:table table:name="Table5" table:style-name="Table5">
+    <table:table-column table:style-name="Table5.A"/>
+    <table:table-column table:style-name="Table5.B"/>
+    <table:table-column table:style-name="Table5.C"/>
+    <text:soft-page-break/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table5.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:p text:style-name="P48">Die Gesamtlänge für die 10 angenommenen Zeichen</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
+      <text:p text:style-name="P48">= l (cm)</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
+      <text:p text:style-name="P48">Zeitfaktor:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
+      <text:p text:style-name="P51">1 cm </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
+      <text:p text:style-name="P48"><text:span text:style-name="T12">= </text:span>t (sec.)</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table5.A3" office:value-type="string">
+      <text:p text:style-name="P48">Daher Zeit für 10 Zeichen</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A3" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A3" office:value-type="string">
+      <text:p text:style-name="P48">= l . t</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
+      <text:p text:style-name="P48">Geschwindigkeit :</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
+      <text:p text:style-name="P48">= (10⋅60) / (l⋅t) Z/min.</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Es ist außerdem noch zu beachten, daß die Größe der Gebegeschwindigkeit davon abhingt, aus welchem Morsezeichen eine Gebefolge zusammengestellt ist, da es längere und kürzere Morsezeichen gibt.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P27">Wenn man als Maßeinheit für die Zeichendauer eines Morsezeichens (d. h. für die Zeit, während der das Zeichen tönt) die Zeitdauer einer „Punktlänge“ bestimmt, so verhält sich beispielsweise als Extremfall im Morsealphabet entsprechend der internationalen Vereinbarung (S. 5) die Zeichendauer des Buchstaben e (<text:span text:style-name="Morse_20_Code">▄</text:span>) zu ch (<text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span>) wie 1:15:</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18"><text:s text:c="2"/>e <text:s text:c="23"/>ch</text:p>
-   <text:p text:style-name="P18"><text:s text:c="2"/>_ <text:s text:c="4"/>_____ <text:s text:c="6"/>_____ <text:s text:c="6"/>_____ <text:s text:c="6"/>_____</text:p>
-   <text:p text:style-name="P18">→|1| <text:s text:c="2"/>|← 3 →|← 1 →|← 3 →|← 1 →|← 3 →|← 1 →|← 3 →|</text:p>
-   <text:p text:style-name="P18"><text:s text:c="7"/>|←----------------- 15 ------------------→|</text:p>
+   <text:p text:style-name="P13"><draw:frame draw:style-name="fr2" draw:name="Image17" text:anchor-type="as-char" svg:width="14.579cm" svg:height="1.852cm" draw:z-index="32"><draw:image draw:mime-type="image/png">
+      <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAicAAABGCAIAAACYBaNcAAAxX0lEQVR4nO2deZgU1fX3qwfz
+       U9G4sYiAMC4oIAIquAREIgqCoFERUXHDKIiK4gKRKIa4oKiAgKgRiOAal6CggokbKC64ABJU
+       XJFdIMiicUmcfj9Pf986z53q6p5ipqebgfr+0U911a17T90692z33FvbJZNJL0aMGNs2Djro
+       oPXr1w8aNKh///6FpiXGVo7tCk1AjBgxCo+FCxfWqlWrpKSk0ITE2PpRGK2zcuXK1atXt2jR
+       oiCtx4gRIxRx5CNGHlAArXPXXXfJpJo9e3a/fv3yT0CMGNs42rZt27179yuvvDJwPvZ1YuQB
+       +dY6Z5xxBo7OE088UadOnXr16v3888/prB8jRozKAMNt8ODBL7300rx58/jbo0cPLL/ly5fr
+       asOGDdeuXfvTTz917Nhx/fr1K1asoGQckIiRc+RV63z//few+6JFi/SXMXDLLbc0adKkU6dO
+       +SQjRoxtEx988MGkSZPQNKFXJ0yYcNxxx/Xs2XPmzJmM00suuYS/a9asyTORMbZ65FXrYGet
+       W7eOgwULFnz44Yf5bDpGjBhFRUWeE0YbMmTIhg0bQku2bNmycePGn3/+ef6Ii7HNIK9aR0wP
+       ZsyYMXz48MmTJ3PmtddeO/744+1SjBgx8oNmzZq5f/FsrrnmmjikFqOyUZgctquvvvqqq66q
+       Vq0ax48//vgvv/wSa50YMSobiUTCi5yo1rZt2+nTp1cyRTG2ReRV64wcOfKll17q0KHDyy+/
+       rDMrVqyoU6eOBkOMGDEqFcXFxccff/zw4cP/+te/6sxll102duxYK/D888/36NFjn3324fjC
+       Cy+88cYbC0NojK0a+fZ1Bg0adMsttwwePPiSSy6pUaPGgw8+2Ldv3+22ixerxohR6ahVq9bB
+       Bx88YsQI/WXoPf30067W+fjjj9euXSutwwj9+eefUUJPPPFEYciNsZUi3+K+V69etWvXPvvs
+       s6dOnVqzZs0pU6bsvvvueaYhRoxtFteloKzRoqKi1atX26WjjjqK31//+tf626hRo3bt2nHw
+       3HPPde3atRDExtg6UQAno2PHjnE6ZowYBcSLL76YfhJD0P17VQr5oijGNoQ4tBUjRowYMfKH
+       WOvEiBEjRoz8IdY6MWLEiBEjf4i1TowYMWLEyB9irRMjRowYMfKHWOvEiBEjRoz8IdY6MWLE
+       iBEjf4i1TowYMWLEyB9irRMjRowYMfKHXGqdjRs36tMd/GpfW/urX/evFQiU0W/9+vV33nnn
+       HNIWI8ZmYcmSJZmYs0zerjj/Z7+9efPmjRs3zmt3xIiRO+RS6+y33365qmry5MmdO3fOVW3b
+       DkaOHDlmzBgvmozLP6rQTkiHHXZYoUnIiBtuuKHqap199913y2ROMHr06DPPPLNQrW8unnrq
+       qbVr14aaJgGrJd2yoUC5TaIoTUycODEL5bnUOg888IA+k6PfRCJhfy+66KIffvihzBpGjBhR
+       s2bNc889N4dUbVOoXbu2PtVlPR94I+kn7deuZirjvtDyNZHPrqggnnzyyc3qis3tLuuo8ePH
+       jx079l//+peVadq0aShJd911V/fu3Rs2bFhAuVxxwJ9Ruusf//hHlNq6detWvXp1em/hwoXp
+       V0877TSE49///veItFWtjr3//vvnzZtXaCrKg1xqnd/97neZLn399dfRP6JThSziLQ1np1Bo
+       KrYGtG/fPj8N3ZiCeyY7/1f10RHYYzQTHnroIS+zSeT5+rtz587bb7/9okWLPvvss/Qy7dq1
+       Q+v06NEjotVVXFyc+weuNPzzn/8sNAnlRC61zoYNGxYsWNCqVasddtghcCn+bts2jiuuuGLI
+       kCE1atQoNCGR8MYbb/z0008dOnQoNCFBDB8+fODAgYWmIh8455xzohc+MIVMV6O8x40bN+6y
+       yy7RWyws4M+2bdsWmoryI5daZ/78+bi07777bkVMhu+///7JJ588//zzc0ZWjC0A2JJVKHyB
+       87F69WpMqEITEsSECROqrta59dZbx4wZs3LlykITEoL99tuvCjmR8Kd9jnmLwqxZs/A9unXr
+       lr1YLrVO69ate/bsWUHhgo35/vvvx1onRgGB3VNoEsJRtebGAmjfvv2PP/5YaCq2BmyxBtwP
+       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
+       TkSuQmCC
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P29">Durch die Unterschiede in der Zeichendauer der einzelnen Morsezeichen ist das Tempo einer Gebefolge stark beeinflußt. Die Gebegeschwindigkeit kann daher in der Praxis nur annähernd angegeben werden, weil eine mittlere Zeichendauer, die als Maßeinheit oder Beziehungsgröße für jede Gebefolge gelten konnte, praktisch nicht bestimmt wird.</text:p>
    <text:p text:style-name="P18"/>
@@ -1609,7 +2073,7 @@
    <text:p text:style-name="P18">Nach Klarstellung dieser stets zu beachtenden Beziehungen kann nun die Auswertung der Versuchsergebnisse erfolgen.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P45">Mit der beschriebenen Registriereinrichtung waren die 10 Morsezeichen, die von 4 geübten Funkern mit verschieden hohem Tempo gegeben wurden, aufgenommen worden. Aus diesen 10 Morsezeichen sind bei jeder Vp. für die Elemente a, b, c, d die arithmetischen Mittelwerte bestimmt</text:p>
-   <text:p text:style-name="P41"><text:soft-page-break/><draw:frame draw:style-name="fr8" draw:name="Object1" text:anchor-type="as-char" svg:y="-1.378cm" svg:width="9.46cm" svg:height="1.84cm" draw:z-index="0"><draw:object>
+   <text:p text:style-name="P41"><draw:frame draw:style-name="fr8" draw:name="Object1" text:anchor-type="as-char" svg:y="-1.378cm" svg:width="9.46cm" svg:height="1.84cm" draw:z-index="0"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -1730,7 +2194,7 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">und jeweils mit den dazugehörigen errechneten Geschwindigkeiten in den Kurven der Abb. 1 bis 4 zusammengestellt.</text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/>und jeweils mit den dazugehörigen errechneten Geschwindigkeiten in den Kurven der Abb. 1 bis 4 zusammengestellt.</text:p>
    <text:p text:style-name="P30"/>
    <text:p text:style-name="P18">Ferner wurde die mittlere Streuung MV</text:p>
    <text:p text:style-name="P18"/>
@@ -2560,8 +3024,8 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P13"/>
-   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P13"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" svg:width="10.821cm" draw:z-index="2">
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P13"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" svg:width="10.821cm" draw:z-index="2">
      <draw:text-box fo:min-height="8.07cm">
       <text:p text:style-name="P31"><draw:frame draw:style-name="fr4" draw:name="Image2" text:anchor-type="paragraph" svg:width="9.846cm" style:rel-width="91%" svg:height="7.341cm" style:rel-height="scale" draw:z-index="3"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAZkAAAExCAIAAAAhiEgaAAAAA3NCSVQICAjb4U/gAAAgAElE
@@ -4510,13 +4974,13 @@
     <table:table-column table:style-name="Table4.A" table:number-columns-repeated="3"/>
     <table:table-row>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P58">b = 3 a,</text:p>
+      <text:p text:style-name="P59">b = 3 a,</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P58">c = a,</text:p>
+      <text:p text:style-name="P59">c = a,</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P58">d = 3 a.</text:p>
+      <text:p text:style-name="P59">d = 3 a.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -6371,8 +6835,8 @@
        </draw:frame>Abb. <text:sequence text:ref-name="refAbb.5" text:name="Abb." text:formula="ooow:Abb.+1" style:num-format="1">6</text:sequence>. Vp. II</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P13"><draw:frame draw:style-name="fr1" draw:name="Frame7" text:anchor-type="as-char" svg:width="9.851cm" draw:z-index="14">
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P13"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Frame7" text:anchor-type="as-char" svg:width="9.851cm" draw:z-index="14">
      <draw:text-box fo:min-height="10.664cm">
       <text:p text:style-name="P31"><draw:frame draw:style-name="fr4" draw:name="Image7" text:anchor-type="paragraph" svg:width="9.851cm" style:rel-width="100%" svg:height="11.268cm" style:rel-height="scale" draw:z-index="15"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAhcAAAJkCAIAAAAtDZRwAAC1k0lEQVR4nO29eZwkRbU2HNkz
@@ -7954,8 +8418,8 @@
        </draw:frame>Abb. <text:sequence text:ref-name="refAbb.7" text:name="Abb." text:formula="ooow:Abb.+1" style:num-format="1">8</text:sequence>. Vp. IV</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P18">Wir erkennen diese Tatsache an der graphischen Darstellung Abb. 5 bis 7 insofern, als mit fortschreitendem Tempo bis zur höchsten menschlichen Hör- und Gebegeschwindigkeit eine immer größere Übereinstimmung zwischen den mathematischen Proportionen und der Gestaltung des subjektiv gegebenen Zeichens festzustellen ist. An den Kurven Abb. 1, 2 und 3 zeigt sich diese Übereinstimmung daran, daß die b- und d-Linien mit zunehmendem Tempo einander mehr und mehr nähern, um schließlich fast ineinander überzugehen. Die Kurven beweisen ganz allgemein, daß das Morsezeichen unabhängig vom Tempo immer eine Gestalt annehmen muß, weil es unmöglich ist, „das Ganze aus einer gesetzmäßigen Ordnung von Teilen sich konstituieren zu lassen“<text:note text:id="ftn7" text:note-class="footnote"><text:note-citation>7</text:note-citation><text:note-body>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18">Wir erkennen diese Tatsache an der graphischen Darstellung Abb. 5 bis 7 insofern, als mit fortschreitendem Tempo bis zur höchsten menschlichen Hör- und Gebegeschwindigkeit eine immer größere Übereinstimmung zwischen den mathematischen Proportionen und der Gestaltung des <text:soft-page-break/>subjektiv gegebenen Zeichens festzustellen ist. An den Kurven Abb. 1, 2 und 3 zeigt sich diese Übereinstimmung daran, daß die b- und d-Linien mit zunehmendem Tempo einander mehr und mehr nähern, um schließlich fast ineinander überzugehen. Die Kurven beweisen ganz allgemein, daß das Morsezeichen unabhängig vom Tempo immer eine Gestalt annehmen muß, weil es unmöglich ist, „das Ganze aus einer gesetzmäßigen Ordnung von Teilen sich konstituieren zu lassen“<text:note text:id="ftn7" text:note-class="footnote"><text:note-citation>7</text:note-citation><text:note-body>
       <text:p text:style-name="P12">. Buss, Muttersprachliches Gestalten bewertet unter dem Gesichtspunkt der Ganzheit. ZAngPs 46. 1934.</text:p></text:note-body></text:note>.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Das gilt in unserem Falle, wenn bei langsamem Tempo durch das weite Auseinanderziehen die Teile nicht mehr zu einer Einheit verschmelzen können.</text:p>
@@ -7972,8 +8436,8 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Die Kontrolle der Brauchbarkeit der Gebeart für die Aufnahme geschah durch Auszählung der falschen und ausgelassenen Zeichen in dem aufgenommenen Diktat.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Bei niedrigem Tempo stellte es sich heraus, daß die Sicherheit im Aufnehmen der Hörfolge bei unseren Vpn. sehr gering war. Bei Tempo 25 Z/Min. waren von diesen geübten Funkern nur 5 bis 8 Zeichen von 30 gegebenen Morsezeichen richtig aufgenommen worden. Mit zunehmender Geschwindigkeit wurde die Höraufnahme besser, um schließlich im Tempobereich 40 bis 50 Z/Min. ausreichende Sicherheit zu erlangen. Die Ergebnisse der Hörversuche sind in den Kurven Abb. 9 gezeigt. Jede Kurve stellt die Sicherheit der Höraufnahme einer einzelnen Vp. dar. Auf der Ordinate ist die Aufnahmesicherheit S in <text:soft-page-break/>Prozenten aufgetragen. Die 30 Zeichen des Gebediktates sind also bei null Fehlern hundertprozentig vom Funker aufgenommen worden. Das Maß „hundert Prozent S“ entspricht den 30 fehlerfrei aufgenommenen Morsezeichen.</text:p>
-   <text:p text:style-name="P13"><draw:frame draw:style-name="fr1" draw:name="Frame9" text:anchor-type="as-char" svg:width="6.747cm" draw:z-index="18">
+   <text:p text:style-name="P18">Bei niedrigem Tempo stellte es sich heraus, daß die Sicherheit im Aufnehmen der Hörfolge bei unseren Vpn. sehr gering war. Bei Tempo 25 Z/Min. waren von diesen geübten Funkern nur 5 bis 8 Zeichen von 30 gegebenen Morsezeichen richtig aufgenommen worden. Mit zunehmender Geschwindigkeit wurde die Höraufnahme besser, um schließlich im Tempobereich 40 bis 50 Z/Min. ausreichende Sicherheit zu erlangen. Die Ergebnisse der Hörversuche sind in den Kurven Abb. 9 gezeigt. Jede Kurve stellt die Sicherheit der Höraufnahme einer einzelnen Vp. dar. Auf der Ordinate ist die Aufnahmesicherheit S in Prozenten aufgetragen. Die 30 Zeichen des Gebediktates sind also bei null Fehlern hundertprozentig vom Funker aufgenommen worden. Das Maß „hundert Prozent S“ entspricht den 30 fehlerfrei aufgenommenen Morsezeichen.</text:p>
+   <text:p text:style-name="P13"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Frame9" text:anchor-type="as-char" svg:width="6.747cm" draw:z-index="18">
      <draw:text-box fo:min-height="8.969cm">
       <text:p text:style-name="P31"><draw:frame draw:style-name="fr4" draw:name="Image9" text:anchor-type="paragraph" svg:width="6.747cm" style:rel-width="100%" svg:height="8.969cm" style:rel-height="scale" draw:z-index="19"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAP8AAAFTCAIAAAB5w028AABxhUlEQVR4nO29d3wUVRc+PkFf
@@ -8531,8 +8995,8 @@
    <text:p text:style-name="P18">Daß diese Schlußfolgerung richtig ist, beweist ein weiterer Versuch, den wir mit denselben Vpn., die uns für die vorausgegangenen Hörversuche zur Verfügung standen, durchführten, um die Bedeutung der akustischen Gestaltwirkung nachzuprüfen.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Mit derselben niedrigen Geschwindigkeit, bei der wir vorher die mathematischen Abmessungen automatisch eingehalten hatten, gaben wir nun Zeichen, deren Abstand d (zweifach) vergrößert wurde. Da nunmehr auch bei niedrigem Tempo bereits deutlich die akustische Gestalt des Zeichens hervortrat, machte diese Aufnahme unseren Vpn. überhaupt keine Schwierigkeit, wahrend die Sicherheit bei dem vorangegangenen Versuch mit den mathematischen Abmessungen so gering war.</text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P18">Der akustische Eindruck dieser „gestalteten“ Zeichen entspricht der Gestaltung, wie sie bei dem subjektiv gegebenen Zeichen unserer Gebeproben (Abb. 5 bis 7 Zeichen s) bei niedrigem Tempo auftritt.</text:p>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"><text:soft-page-break/>Der akustische Eindruck dieser „gestalteten“ Zeichen entspricht der Gestaltung, wie sie bei dem subjektiv gegebenen Zeichen unserer Gebeproben (Abb. 5 bis 7 Zeichen s) bei niedrigem Tempo auftritt.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">In beiden Fällen ist der Abstand d merkbar größer als die mathematische Abmessung bei gleichem Tempo vorschreibt und das Zeichen selbst ist mehr in sich zusammendrängt.</text:p>
    <text:p text:style-name="P18"/>
@@ -8590,25 +9054,25 @@
    <text:p text:style-name="P18"><text:soft-page-break/></text:p>
    <text:p text:style-name="P18">Aus den so erzielten Ergebnissen seien einige besonders charakteristische Beispiele herausgegriffen. Um die Unterschiede der beiden Gestaltbildungen, d. h. der individuellen und der entsprechenden mathematischen Gestaltung zu erkennen, sind sie in Tabelle 1 mit ihren optischen Symbolen gegenübergestellt. Dabei entsprechen die Abstände zwischen Punkten und Strichen den zeitlichen Intervallen in den Klangbildern.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P53">Tabelle <text:sequence text:ref-name="refTabelle0" text:name="Tabelle" text:formula="ooow:Tabelle+1" style:num-format="1">1</text:sequence></text:p>
+   <text:p text:style-name="P54">Tabelle <text:sequence text:ref-name="refTabelle0" text:name="Tabelle" text:formula="ooow:Tabelle+1" style:num-format="1">1</text:sequence></text:p>
    <table:table table:name="Tabelle1" table:style-name="Tabelle1">
     <table:table-column table:style-name="Tabelle1.A"/>
     <table:table-column table:style-name="Tabelle1.B"/>
     <table:table-column table:style-name="Tabelle1.C"/>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A1" office:value-type="string">
-      <text:p text:style-name="P59">Zeichen</text:p>
+      <text:p text:style-name="P60">Zeichen</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B1" office:value-type="string">
-      <text:p text:style-name="P60">Mathem. Form</text:p>
+      <text:p text:style-name="P61">Mathem. Form</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B1" office:value-type="string">
-      <text:p text:style-name="P60">Individ. Form</text:p>
+      <text:p text:style-name="P61">Individ. Form</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P55">l</text:p>
+      <text:p text:style-name="P56">l</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P47"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11"> ▄▄▄ ▄ </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄</text:span></text:span></text:p>
@@ -8619,7 +9083,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P55">f</text:p>
+      <text:p text:style-name="P56">f</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P47"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄ ▄ ▄▄▄ ▄</text:span></text:span></text:p>
@@ -8630,7 +9094,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P55">c</text:p>
+      <text:p text:style-name="P56">c</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P47"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄ ▄▄▄ ▄</text:span></text:span></text:p>
@@ -8641,7 +9105,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P55">q</text:p>
+      <text:p text:style-name="P56">q</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P47"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄▄▄ ▄ ▄▄▄</text:span></text:span></text:p>
@@ -8652,7 +9116,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P55">x</text:p>
+      <text:p text:style-name="P56">x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P47"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄ ▄ ▄▄▄</text:span></text:span></text:p>
@@ -8663,7 +9127,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P55">y</text:p>
+      <text:p text:style-name="P56">y</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P47"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄ ▄▄▄ ▄▄▄</text:span></text:span></text:p>
@@ -8674,7 +9138,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P55">k</text:p>
+      <text:p text:style-name="P56">k</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P47"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄ ▄▄▄</text:span></text:span></text:p>
@@ -8685,7 +9149,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A9" office:value-type="string">
-      <text:p text:style-name="P55">d</text:p>
+      <text:p text:style-name="P56">d</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B9" office:value-type="string">
       <text:p text:style-name="P47"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄ ▄</text:span></text:span></text:p>
@@ -8874,13 +9338,13 @@
       <text:p text:style-name="P51"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P58">a</text:p>
+      <text:p text:style-name="P59">a</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P48"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P57">a</text:p>
+      <text:p text:style-name="P58">a</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -8889,13 +9353,13 @@
       <text:p text:style-name="P48"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P58">n</text:p>
+      <text:p text:style-name="P59">n</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P48"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P57">n</text:p>
+      <text:p text:style-name="P58">n</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -8903,13 +9367,13 @@
       <text:p text:style-name="P51"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P58">u</text:p>
+      <text:p text:style-name="P59">u</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P48"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄▄▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P57">w</text:p>
+      <text:p text:style-name="P58">w</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -8918,13 +9382,13 @@
       <text:p text:style-name="P48"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P58">d</text:p>
+      <text:p text:style-name="P59">d</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P48"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄▄▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P57">g</text:p>
+      <text:p text:style-name="P58">g</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -8932,13 +9396,13 @@
       <text:p text:style-name="P51"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P58">v</text:p>
+      <text:p text:style-name="P59">v</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P48"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄▄▄ ▄▄▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P57">j</text:p>
+      <text:p text:style-name="P58">j</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -8947,7 +9411,7 @@
       <text:p text:style-name="P48"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄ ▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P58">b</text:p>
+      <text:p text:style-name="P59">b</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P48"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄▄▄ ▄▄▄ ▄</text:span></text:span></text:p>
@@ -9801,35 +10265,35 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">a)</text:p>
+      <text:p text:style-name="P55">a)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">U<text:span text:style-name="T2">mweg Über das optische Symbol I₁ II₁</text:span></text:p>
+      <text:p text:style-name="P55">U<text:span text:style-name="T2">mweg Über das optische Symbol I₁ II₁</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54"><text:span text:style-name="T2">Ausschalten der optischen Symbole.</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table2.1">
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">b)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">Z<text:span text:style-name="T2">erfall der akustischen Gestalt des Zeichens I₃</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">Z<text:span text:style-name="T2">eichen in Form des Klangbildes geben.</text:span></text:p>
+      <text:p text:style-name="P55"><text:span text:style-name="T2">Ausschalten der optischen Symbole.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">c)</text:p>
+      <text:p text:style-name="P55">b)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">U<text:span text:style-name="T2">mstellung vom Hören des zerlegten Zeichens auf Horen des Klangbildes I₄</text:span></text:p>
+      <text:p text:style-name="P55">Z<text:span text:style-name="T2">erfall der akustischen Gestalt des Zeichens I₃</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">K<text:span text:style-name="T2">langbild sofort bei Beginn der Anlernung geben.</text:span></text:p>
+      <text:p text:style-name="P55">Z<text:span text:style-name="T2">eichen in Form des Klangbildes geben.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P55">c)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P55">U<text:span text:style-name="T2">mstellung vom Hören des zerlegten Zeichens auf Horen des Klangbildes I₄</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P55">K<text:span text:style-name="T2">langbild sofort bei Beginn der Anlernung geben.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
@@ -9854,46 +10318,46 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">a)</text:p>
+      <text:p text:style-name="P55">a)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">R<text:span text:style-name="T2">aten, welches Zeichen kommen könnte I₂</text:span></text:p>
+      <text:p text:style-name="P55">R<text:span text:style-name="T2">aten, welches Zeichen kommen könnte I₂</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">G<text:span text:style-name="T2">eben des Zeichens als Klangbild.</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table2.1">
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">b)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">N<text:span text:style-name="T2">achdenken über das Zeichen während der laugen Pausen II₂</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">G<text:span text:style-name="T2">eben in höherem Tempo.</text:span></text:p>
+      <text:p text:style-name="P55">G<text:span text:style-name="T2">eben des Zeichens als Klangbild.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">c)</text:p>
+      <text:p text:style-name="P55">b)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">U<text:span text:style-name="T2">mstellen vom Nachdenken und Übersetzen auf Bedeutungseinheit zwischen akustischem Zeichen und Buchstaben I₅, II₃</text:span></text:p>
+      <text:p text:style-name="P55">N<text:span text:style-name="T2">achdenken über das Zeichen während der laugen Pausen II₂</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">S<text:span text:style-name="T2">chon bei Beginn der Anlernung hohes Tempo.</text:span></text:p>
+      <text:p text:style-name="P55">G<text:span text:style-name="T2">eben in höherem Tempo.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">d)</text:p>
+      <text:p text:style-name="P55">c)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">U<text:span text:style-name="T2">mstellung im Gesamtrhythmus I₆, II₃,</text:span></text:p>
+      <text:p text:style-name="P55">U<text:span text:style-name="T2">mstellen vom Nachdenken und Übersetzen auf Bedeutungseinheit zwischen akustischem Zeichen und Buchstaben I₅, II₃</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P54">M<text:span text:style-name="T2">it hohem Tempo beginnen und dies beibehalten.</text:span></text:p>
+      <text:p text:style-name="P55">S<text:span text:style-name="T2">chon bei Beginn der Anlernung hohes Tempo.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P55">d)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P55">U<text:span text:style-name="T2">mstellung im Gesamtrhythmus I₆, II₃,</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P55">M<text:span text:style-name="T2">it hohem Tempo beginnen und dies beibehalten.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -10337,22 +10801,22 @@
     <table:table-column table:style-name="Table1.G"/>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P55">auf</text:p>
+      <text:p text:style-name="P56">auf</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P56">3</text:p>
+      <text:p text:style-name="P57">3</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P55">Tage</text:p>
+      <text:p text:style-name="P56">Tage</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P55">zu</text:p>
+      <text:p text:style-name="P56">zu</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P55">je</text:p>
+      <text:p text:style-name="P56">je</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P56">8</text:p>
+      <text:p text:style-name="P57">8</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P42">Wiederholungen</text:p>
@@ -10363,7 +10827,7 @@
       <text:p text:style-name="P42">„</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P56">6</text:p>
+      <text:p text:style-name="P57">6</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P42">„</text:p>
@@ -10375,7 +10839,7 @@
       <text:p text:style-name="P42">„</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P56">4</text:p>
+      <text:p text:style-name="P57">4</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P42">„</text:p>
@@ -10386,7 +10850,7 @@
       <text:p text:style-name="P42">„</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P56">12</text:p>
+      <text:p text:style-name="P57">12</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P42">„</text:p>
@@ -10398,7 +10862,7 @@
       <text:p text:style-name="P42">„</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P56">2</text:p>
+      <text:p text:style-name="P57">2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P42">„</text:p>
