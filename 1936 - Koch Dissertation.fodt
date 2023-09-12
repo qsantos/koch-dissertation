@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-12T20:35:17.282031245</dc:date><meta:editing-duration>PT2H19M7S</meta:editing-duration><meta:editing-cycles>22</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="16" meta:object-count="2" meta:page-count="56" meta:paragraph-count="557" meta:word-count="20273" meta:character-count="144905" meta:non-whitespace-character-count="124957"/></office:meta>
+ <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-12T20:47:08.577284885</dc:date><meta:editing-duration>PT2H20M45S</meta:editing-duration><meta:editing-cycles>23</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="3" meta:image-count="16" meta:object-count="2" meta:page-count="55" meta:paragraph-count="582" meta:word-count="20266" meta:character-count="144848" meta:non-whitespace-character-count="124943"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">628121</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">372639</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">51442</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21893</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">48870</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">20798</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">27972</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">638450</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">28825</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">384891</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">628121</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">51440</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">650012</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">372639</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">48869</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">393435</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">95</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
@@ -90,7 +90,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1217692</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1269156</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -480,6 +480,51 @@
   <style:style style:name="Tabelle1.B9" style:family="table-cell">
    <style:table-cell-properties fo:padding-left="0.3cm" fo:padding-right="0.3cm" fo:padding-top="0.101cm" fo:padding-bottom="0.101cm" fo:border-left="0.05pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="none" style:writing-mode="page"/>
   </style:style>
+  <style:style style:name="Table1" style:family="table">
+   <style:table-properties style:width="8.297cm" table:align="center"/>
+  </style:style>
+  <style:style style:name="Table1.A" style:family="table-column">
+   <style:table-column-properties style:column-width="1.021cm"/>
+  </style:style>
+  <style:style style:name="Table1.B" style:family="table-column">
+   <style:table-column-properties style:column-width="0.51cm"/>
+  </style:style>
+  <style:style style:name="Table1.C" style:family="table-column">
+   <style:table-column-properties style:column-width="1.36cm"/>
+  </style:style>
+  <style:style style:name="Table1.D" style:family="table-column">
+   <style:table-column-properties style:column-width="0.605cm"/>
+  </style:style>
+  <style:style style:name="Table1.E" style:family="table-column">
+   <style:table-column-properties style:column-width="0.813cm"/>
+  </style:style>
+  <style:style style:name="Table1.F" style:family="table-column">
+   <style:table-column-properties style:column-width="0.49cm"/>
+  </style:style>
+  <style:style style:name="Table1.G" style:family="table-column">
+   <style:table-column-properties style:column-width="3.498cm"/>
+  </style:style>
+  <style:style style:name="Table1.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0cm" fo:border="none" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table2" style:family="table">
+   <style:table-properties style:width="17.59cm" table:align="margins" style:may-break-between-rows="false"/>
+  </style:style>
+  <style:style style:name="Table2.A" style:family="table-column">
+   <style:table-column-properties style:column-width="0.388cm" style:rel-column-width="220*"/>
+  </style:style>
+  <style:style style:name="Table2.B" style:family="table-column">
+   <style:table-column-properties style:column-width="7.997cm" style:rel-column-width="4535*"/>
+  </style:style>
+  <style:style style:name="Table2.C" style:family="table-column">
+   <style:table-column-properties style:column-width="9.204cm" style:rel-column-width="5220*"/>
+  </style:style>
+  <style:style style:name="Table2.1" style:family="table-row">
+   <style:table-row-properties fo:keep-together="always"/>
+  </style:style>
+  <style:style style:name="Table2.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0cm" fo:border="none" style:writing-mode="page"/>
+  </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
@@ -666,24 +711,31 @@
    <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
   <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="00135da4"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
    <style:text-properties fo:font-size="16pt" fo:language="de" fo:country="DE" officeooo:paragraph-rsid="0012949c" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Tabelle">
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Tabelle">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:keep-with-next="always"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
-  </style:style>
   <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Table_20_Heading">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
@@ -8315,25 +8367,25 @@
    <text:p text:style-name="P18"><text:soft-page-break/></text:p>
    <text:p text:style-name="P18">Aus den so erzielten Ergebnissen seien einige besonders charakteristische Beispiele herausgegriffen. Um die Unterschiede der beiden Gestaltbildungen, d. h. der individuellen und der entsprechenden mathematischen Gestaltung zu erkennen, sind sie in Tabelle 1 mit ihren optischen Symbolen gegenübergestellt. Dabei entsprechen die Abstände zwischen Punkten und Strichen den zeitlichen Intervallen in den Klangbildern.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P52">Tabelle <text:sequence text:ref-name="refTabelle0" text:name="Tabelle" text:formula="ooow:Tabelle+1" style:num-format="1">1</text:sequence></text:p>
+   <text:p text:style-name="P53">Tabelle <text:sequence text:ref-name="refTabelle0" text:name="Tabelle" text:formula="ooow:Tabelle+1" style:num-format="1">1</text:sequence></text:p>
    <table:table table:name="Tabelle1" table:style-name="Tabelle1">
     <table:table-column table:style-name="Tabelle1.A"/>
     <table:table-column table:style-name="Tabelle1.B"/>
     <table:table-column table:style-name="Tabelle1.C"/>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A1" office:value-type="string">
-      <text:p text:style-name="P55">Zeichen</text:p>
+      <text:p text:style-name="P57">Zeichen</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B1" office:value-type="string">
-      <text:p text:style-name="P56">Mathem. Form</text:p>
+      <text:p text:style-name="P58">Mathem. Form</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B1" office:value-type="string">
-      <text:p text:style-name="P56">Individ. Form</text:p>
+      <text:p text:style-name="P58">Individ. Form</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P53">l</text:p>
+      <text:p text:style-name="P55">l</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P50"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11"> ▄▄▄ ▄ </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄</text:span></text:span></text:p>
@@ -8344,7 +8396,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P53">f</text:p>
+      <text:p text:style-name="P55">f</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P50"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄ ▄ ▄▄▄ ▄</text:span></text:span></text:p>
@@ -8355,7 +8407,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P53">c</text:p>
+      <text:p text:style-name="P55">c</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P50"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄ ▄▄▄ ▄</text:span></text:span></text:p>
@@ -8366,7 +8418,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P53">q</text:p>
+      <text:p text:style-name="P55">q</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P50"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄▄▄ ▄ ▄▄▄</text:span></text:span></text:p>
@@ -8377,7 +8429,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P53">x</text:p>
+      <text:p text:style-name="P55">x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P50"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄ ▄ ▄▄▄</text:span></text:span></text:p>
@@ -8388,7 +8440,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P53">y</text:p>
+      <text:p text:style-name="P55">y</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P50"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄ ▄▄▄ ▄▄▄</text:span></text:span></text:p>
@@ -8399,7 +8451,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P53">k</text:p>
+      <text:p text:style-name="P55">k</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P50"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄ ▄▄▄</text:span></text:span></text:p>
@@ -8410,7 +8462,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A9" office:value-type="string">
-      <text:p text:style-name="P53">d</text:p>
+      <text:p text:style-name="P55">d</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B9" office:value-type="string">
       <text:p text:style-name="P50"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T11">▄▄▄ ▄ ▄</text:span></text:span></text:p>
@@ -9344,74 +9396,131 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Wenn also all diese mit der Umstellung verbundenen Nachtelle vermieden werden sollen, so muß das Ausbildungstempo von Anfang an oberhalb dieser kritischen Geschwindigkeit legen.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Von diesem grundsätzlichen Gesichtspunkt geht das neue Verfahren aus und bestimmt es in seinen wesentlichsten Teilen. Ehe auf die Einzelheiten des neuen Verfahrens eingegangen wird, seien die bisher festgestellten Fehler nochmals kurz zusammengestellt, um aus ihnen und den sich ergebenden Verbesserungsmöglichkeiten die Grundsätze für das neue Verfahren entwickeln zu können. (Die mit I bzw. I bezeichneten Fehler betreffen das analytische Verfahren (I) bzw. das Klangbildverfahren (II), die Indizes die auf S. 29 u. 32 angeführten Punkte.)</text:p>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">1. Fehler, die die Bildung von akustischer Ganzheit (Gestalt, Klangbild) verhindern</text:p>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Fehler:</text:p>
-   <text:p text:style-name="P18"/>
-   <text:list text:style-name="Numbering_20_abc">
-    <text:list-item>
-     <text:p text:style-name="P39">Umweg Über das optische Symbol I₁ II₁</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P39">Zerfall der akustischen Gestalt des Zeichens I₃</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P39">Umstellung vom Hören des zerlegten Zeichens auf Horen des Klangbildes I₄</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Verbesserung:</text:p>
-   <text:p text:style-name="P18"/>
-   <text:list text:style-name="L1">
-    <text:list-item>
-     <text:p text:style-name="P40">Ausschalten der optischen Symbole.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P40">Zeichen in Form des Klangbildes geben.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P40">Klangbild sofort bei Beginn der Anlernung geben.</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18"><text:soft-page-break/>2 Fehler, die die Entstehung der Bedeutungseinheit zwischen akustischem Eindruck und Buchstaben beeinträchtigen</text:p>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Fehler:</text:p>
-   <text:p text:style-name="P18"/>
-   <text:list text:style-name="L2">
-    <text:list-item>
-     <text:p text:style-name="P41">Raten, welches Zeichen kommen könnte I₂</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P41">Nachdenken über das Zeichen während der laugen Pausen II₂</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P41">Umstellen vom Nachdenken und Übersetzen auf Bedeutungseinheit zwischen akustischem Zeichen und Buchstaben I₅, II₃</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P41">Umstellung im Gesamtrhythmus I₆, II₃,</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Verbesserung:</text:p>
-   <text:p text:style-name="P18"/>
-   <text:list text:style-name="L3">
-    <text:list-item>
-     <text:p text:style-name="P42">Geben des Zeichens als Klangbild.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P42">Geben in höherem Tempo.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P42">Schon bei Beginn der Anlernung hohes Tempo.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P42">Mit hohem Tempo beginnen und dies beibehalten.</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P18"/>
+   <table:table table:name="Table2" table:style-name="Table2">
+    <table:table-column table:style-name="Table2.A"/>
+    <table:table-column table:style-name="Table2.B"/>
+    <table:table-column table:style-name="Table2.C"/>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:p text:style-name="P46">1. Fehler, die die Bildung von akustischer Ganzheit (Gestalt, Klangbild) verhindern</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P46">Fehler:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P46">Verbesserung:</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">a)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">U<text:span text:style-name="T2">mweg Über das optische Symbol I₁ II₁</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54"><text:span text:style-name="T2">Ausschalten der optischen Symbole.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">b)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">Z<text:span text:style-name="T2">erfall der akustischen Gestalt des Zeichens I₃</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">Z<text:span text:style-name="T2">eichen in Form des Klangbildes geben.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">c)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">U<text:span text:style-name="T2">mstellung vom Hören des zerlegten Zeichens auf Horen des Klangbildes I₄</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">K<text:span text:style-name="T2">langbild sofort bei Beginn der Anlernung geben.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:p text:style-name="P49">2 Fehler, die die Entstehung der Bedeutungseinheit zwischen akustischem Eindruck und Buchstaben beeinträchtigen</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P46">Fehler:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P46">Verbesserung:</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">a)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">R<text:span text:style-name="T2">aten, welches Zeichen kommen könnte I₂</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">G<text:span text:style-name="T2">eben des Zeichens als Klangbild.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">b)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">N<text:span text:style-name="T2">achdenken über das Zeichen während der laugen Pausen II₂</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">G<text:span text:style-name="T2">eben in höherem Tempo.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">c)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">U<text:span text:style-name="T2">mstellen vom Nachdenken und Übersetzen auf Bedeutungseinheit zwischen akustischem Zeichen und Buchstaben I₅, II₃</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">S<text:span text:style-name="T2">chon bei Beginn der Anlernung hohes Tempo.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">d)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">U<text:span text:style-name="T2">mstellung im Gesamtrhythmus I₆, II₃,</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P54">M<text:span text:style-name="T2">it hohem Tempo beginnen und dies beibehalten.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P51"/>
+   <text:p text:style-name="P51">Von diesem grundsätzlichen Gesichtspunkt geht das neue Verfahren aus und bestimmt es in seinen wesentlichsten Teilen. Ehe auf die Einzelheiten des neuen Verfahrens eingegangen wird, seien die bisher festgestellten Fehler nochmals kurz zusammengestellt, um aus ihnen und den sich ergebenden Verbesserungsmöglichkeiten die Grundsätze für das neue Verfahren entwickeln zu können. (Die mit I <text:soft-page-break/>bzw. I bezeichneten Fehler betreffen das analytische Verfahren (I) bzw. das Klangbildverfahren (II), die Indizes die auf S. 29 u. 32 angeführten Punkte.)</text:p>
+   <text:p text:style-name="P51"/>
    <text:p text:style-name="P18">Von diesen Gesichtspunkten aus soll nun ein neues Anlernverfahren entwickelt werden.</text:p>
    <text:p text:style-name="P18"/>
    <text:h text:style-name="P23" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc245_2461086041"/>II. Entwicklung eines neuen Anlernverfahrens.<text:bookmark-end text:name="__RefHeading___Toc245_2461086041"/></text:h>
@@ -9421,10 +9530,10 @@
    <text:h text:style-name="P24" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc247_2461086041"/>a) Theoretische Grundlegung<text:bookmark-end text:name="__RefHeading___Toc247_2461086041"/></text:h>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Das Morsezeichen muß selbstverständlich auch bei diesem Ausbildungsverfahren in seinem Charakter als Ganzes, als Klangbild, unverändert erhalten bleiben. Es ist auch schon ein Fehler, wenn dem Lernenden bereits vor dem eigentlichen Hören die optischen Symbole der Morsezeichen eingeprägt werden. Das bereits bekannte optische Symbol des Morsezeichens wird die Neigung des Lernenden zum Zerlegen des Klangbildes in Punkte und Striche während der Pause d unbedingt anregen oder verstärkend beeinflussen. Außerdem bringt die Tatsache, daß das Symbol bereits beherrscht wird, den Nachteil, daß} eine Übersetzung vom Klangbild über das optische Symbol zum Bedeutungswert erfolgt und nicht direkt vom akustischen Eindruck 2am Buchstaben. Zweifelsohne wird demnach das in der Ausbildung angestrebte unmittelbare Erfassen des Klangbildes ohne Nachdenken, also das Bilden einer sofortigen Bedeutungseinheit zwischen Klangbild und Buchstaben durch das Beherrschen des optischen Symbols erschwert. Erst bei fortgeschrittenem Übungsstand, wenn der Lernende sofort automatisch die Bedeutung des gehörten Morsezeichens niederzuschreiben vermag, werden auch die dann erst eingeführten optischen Symbole in dem Übungsfortschritt keinen Schaden mehr anrichten können. Die bisherigen Malnahmen sollen erreichen, daß der Lernende von Anfang an auf den akustischen Ganzheitseindruck des Zeichens eingestellt wird, ohne durch Störungen abgelenkt zu werden. Es ist daher die weitere Überlegung berechtigt, ob diese Erzielung des gestalteten akustischen Eindrucks durch besondere Maßnahmen erhöht werden kann. Zu diesem Zwecke ist das Zweitonverfahren eingeführt worden.</text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Das Zweitonausbildungsverfahren besteht darin, da Punkte und Striche in zwei verschiedenen, aber nahe beieinanderliegenden Tonhöhen gegeben werden. Dadurch gewinnt das Morsezeichen noch stärker einen typisch melodischen Charakter und damit noch größere Gestaltwirkung. Etwa von der Mitte der Ausbildung ab werden dann die beiden Töne allmählich wieder genähert, bis die Zeichen mit einem Ton gegeben werden, in welchen dann subjektiv die charakteristische Melodie der einzelnen Zeichen hineingehört wird. Mit diesen Maßnahmen werden also alle Fehler der Gruppe 1 (S. 33) vermieden, die der notwendigen Gestaltwirkung des akustischen Eindrucks des Morsezeichens entgegenwirken und zu hemmenden Umstellungen während der Ausbildung führen. Die Benntzung des Zweitonverfahrens ist dabei nicht unbedingt notwendig, es ergibt jedoch eine weitere Erleichterung. Es sind nunmehr also noch Maßnahmen nötig, die die Fehler der Gruppe 2 (S. 33) ausschalten sollen, also solche, die das Entstehen der Bedeutungseinheit: Morsezeichen — Buchstabe, beeinträchtigen.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Die Plateaubildung der Hörkurve bei etwa 50 Z/Min., die für die Ausbildung einen größeren Zeitverlust bringt, entsteht, wie vorhergehend ausgeführt wurde, durch eine allmähliche und mühselige Umstellung des Lernenden. Diese Umstellungshemmung muß vermieden werden, um für den Lernenden von vornherein die sofortige Bedeutungseinheit von Klangbild und Buchstaben herzustellen, die bei höherem Hörtempo unbedingt notwendige Voraussetzung ist. Daraus ergibt sich die Folgerung, die Ausbildung sofort mit dem Tempo 60 Z/Min. zu beginnen, also oberhalb dieses kritischen Tempos und der Lage des Plateaus der Ausbildungskurve. Auf diese Weise werden alle Nachteile und der langwierige Weg der Ausbildung von langsamem bis zu höherem Tempo mit den damit zusammenhängenden Umstellungen überwunden. Entschließt man sich dazu, die Ausbildung gleich mit hohem Tempo zu beginnen, so folgt daraus die Notwendigkeit für eine weitere Umstellung des Ausbildungsganges gegenüber den bisherigen Verfahren. Bei diesen wird nämlich im allgemeinen schnell zum Lernen aller Zeichen vorgeschritten. Würde man das gleiche bei hohem Tempo tun, so wäre sehr schnell der normale Auffassungsumfang überschritten. Daher kann die Ausbildung dem Tempo entsprechend nur mit zwei Zeichen beginnen, die solange geübt werden, bis der Lernende diese sicher mechanisch niederzuschreiben vermag. In der gleichen Weise wird allmählich Buchstabe für Buchstabe dazugeschaltet.</text:p>
+   <text:p text:style-name="P18">Die Plateaubildung der Hörkurve bei etwa 50 Z/Min., die für die Ausbildung einen größeren Zeitverlust bringt, entsteht, wie vorhergehend ausgeführt wurde, durch eine allmähliche und mühselige Umstellung <text:soft-page-break/>des Lernenden. Diese Umstellungshemmung muß vermieden werden, um für den Lernenden von vornherein die sofortige Bedeutungseinheit von Klangbild und Buchstaben herzustellen, die bei höherem Hörtempo unbedingt notwendige Voraussetzung ist. Daraus ergibt sich die Folgerung, die Ausbildung sofort mit dem Tempo 60 Z/Min. zu beginnen, also oberhalb dieses kritischen Tempos und der Lage des Plateaus der Ausbildungskurve. Auf diese Weise werden alle Nachteile und der langwierige Weg der Ausbildung von langsamem bis zu höherem Tempo mit den damit zusammenhängenden Umstellungen überwunden. Entschließt man sich dazu, die Ausbildung gleich mit hohem Tempo zu beginnen, so folgt daraus die Notwendigkeit für eine weitere Umstellung des Ausbildungsganges gegenüber den bisherigen Verfahren. Bei diesen wird nämlich im allgemeinen schnell zum Lernen aller Zeichen vorgeschritten. Würde man das gleiche bei hohem Tempo tun, so wäre sehr schnell der normale Auffassungsumfang überschritten. Daher kann die Ausbildung dem Tempo entsprechend nur mit zwei Zeichen beginnen, die solange geübt werden, bis der Lernende diese sicher mechanisch niederzuschreiben vermag. In der gleichen Weise wird allmählich Buchstabe für Buchstabe dazugeschaltet.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Der bisherige Weg geht also vom schnellen Erlernen aller Zeichen zur Steigerung des Tempos, der neue Weg dagegen von hohem Tempo zum ganz allmählichen Erlernen aller Zeichen.</text:p>
    <text:p text:style-name="P18"/>
@@ -9434,7 +9543,7 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Die Festigung dieser Beziehung zwischen Zeichen und Buchstaben kann natürlich nur durch intensive Übung erreicht werden ; daher wird immer nur ein einziger Buchstabe neu zu den bisher bekannten zuzuschalten und solange zu üben sein, bis diese enge Verknüpfung erreicht wird, so daß die Übertragung vom Zeichen auf den Buchstaben ohne Nachdenken und Umwege stattfindet. Der Vorgang wird also automatisiert, indem das Nachdenken schon bei der Anlernung durch unbewußt arbeitende Einstellungen abgelöst und damit auch entlastet wird.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18"><text:soft-page-break/>Man denke vergleichsweise an das Beispiel vom Soldaten, der seine Griffe lernt.</text:p>
+   <text:p text:style-name="P18">Man denke vergleichsweise an das Beispiel vom Soldaten, der seine Griffe lernt.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Ehrenstein beschreibt diesen Übungsvorgang in seiner „Einführung in die Ganzheitspsychologie“¹ wie folgt:</text:p>
    <text:p text:style-name="P18"/>
@@ -9442,7 +9551,7 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">¹ Ehrenstein, Einführung in die Ganzheitspsychologie. Leipzig 1934.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Ähnlich verhält es sich auch beim Erwerb der Fertigkeit im Gebrauch einer fremden Sprache. Anfänglich setzt man mühsam im Gedächtnis die Vokabeln zusammen und übersetzt dann in die fremde Sprache. Durch anhaltende Übung der Vokabeln, Ausdrücke usw. kommt man schließlich auf den richtigen Weg, sofort in der fremden Sprache zu denken und zu sprechen.</text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/>Ähnlich verhält es sich auch beim Erwerb der Fertigkeit im Gebrauch einer fremden Sprache. Anfänglich setzt man mühsam im Gedächtnis die Vokabeln zusammen und übersetzt dann in die fremde Sprache. Durch anhaltende Übung der Vokabeln, Ausdrücke usw. kommt man schließlich auf den richtigen Weg, sofort in der fremden Sprache zu denken und zu sprechen.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">In der gleichen Weise wird nun bei der vorgeschlagenen Methode zunächst bei zwei Zeichen durch dauerndes Üben im Tempo 60 Z/Min. eine enge Verbindung zwischen dem akustischen Zeichen und seiner Bedeutung geschaffen, die dann stets automatisch ohne Nachdenken abläuft. Daher kann auch immer nur ein Zeichen neu hinzugeschaltet werden, damit auch für dieses von vornherein die Bedeutungseinheit zwischen Klangbild und Buchstabe eindeutig entsteht. Würde man gleichzeitig mehrere Zeichen neu einführen, so wurde dies den Auffassungsumfang zu leicht überschreiten und die Bildung dieser testen Beziehung verhindert werden.</text:p>
    <text:p text:style-name="P18"/>
@@ -9453,10 +9562,10 @@
    <text:p text:style-name="P18">¹ Bücher, Arbeit und Rhythmus. Leipzig 1924.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Bei dem neuen Verfahren wird das Tempo und damit auch der Rhythmus über die ganze Ausbildung gleich gehalten, so daß diese Umstellungshemmungen fortfallen.</text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Man wird auch darüber hinaus versuchen müssen, durch besondere Maßnahmen den Lernenden gleich zu Beginn auf diesen Rhythmus einzustellen. Dali und wie dies möglich ist, wird noch in dem Abschnitt über die praktische Gestaltung des Verfahrens auszuführen sein. Die Maßnahme, die Ausbildung sofort mit dem Tempo 60 Z/Min. zu beginnen, erweist sich daher nach allen Richtungen hin als äußerst zweckmäßig, denn es wird dadurch einwal zwangsläufig die Gestaltung des Morsezeichens als akustische Ganzheit, Gestalt, Klangbild erreicht, ferner wird dadurch das Umstellen vom Raten und Nachdenken auf das unmittelbare Erfassen des Bedeutungsinhaltes und das Umstellen im Rhythmus vermieden. Aus all diesen Umständen erklärt sich die später nachzuweisende Überlegenheit der Verfahrens gegenüber den bisherigen.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Eine Frage bleibt jedoch noch zu klaren; das Tempo 60 Z/Min. stellt ja noch nicht das für den praktischen Betrieb ausreichende Tempo dar. Man könnte also zunächst daran denken, das Tempo von vornherein noch höher zu wählen, evtl. gleich so hoch, wie es für den beabsichtigten Zweck gefordert wird. Dieser Versuch ist auch tatsächlich gemacht worden, indem bei einem Ausbildungskursus das Tempo 100 Z/Min. gewählt wurde. Dazu ist festzustellen, daß es durchaus möglich ist, auch von der ersten Stunde ab in diesem Tempo das Beherrschen der ersten Buchstaben ohne weiteres zu erreichen. Im Verlaufe des Kursus zeigte es sich jedoch, falls es sich nicht um Personen besonders guter Eignung handelte, daß der Auffassungsumfang sehr stark angespannt wird, so daß das Zuschalten immer neuerer Buchstaben mit größerer Schwierigkeit verbunden ist. Es erscheint daher für die allgemeinen Verhältnisse zweckmäßiger, mit Tempo 60 Z/Min. zu beginnen.</text:p>
+   <text:p text:style-name="P18">Eine Frage bleibt jedoch noch zu klaren; das Tempo 60 Z/Min. stellt ja noch nicht das für den praktischen Betrieb ausreichende Tempo dar. Man könnte also zunächst daran denken, das Tempo von vornherein noch höher zu wählen, evtl. gleich so hoch, wie es für den beabsichtigten Zweck gefordert <text:soft-page-break/>wird. Dieser Versuch ist auch tatsächlich gemacht worden, indem bei einem Ausbildungskursus das Tempo 100 Z/Min. gewählt wurde. Dazu ist festzustellen, daß es durchaus möglich ist, auch von der ersten Stunde ab in diesem Tempo das Beherrschen der ersten Buchstaben ohne weiteres zu erreichen. Im Verlaufe des Kursus zeigte es sich jedoch, falls es sich nicht um Personen besonders guter Eignung handelte, daß der Auffassungsumfang sehr stark angespannt wird, so daß das Zuschalten immer neuerer Buchstaben mit größerer Schwierigkeit verbunden ist. Es erscheint daher für die allgemeinen Verhältnisse zweckmäßiger, mit Tempo 60 Z/Min. zu beginnen.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Es zeigt sich nämlich auch, daß das Fortschreiten zu höherem Tempo vom Tempo 60 Z/Min. aus keine grundsätzlichen Schwierigkeiten mehr macht. Dies beweist schon die Tatsache, daß ohne weiteres auch Tempo 70 Z/Min. bis 80 Z/Min. ohne jede weitere Übung aufgenommen wird. Auch die früheren theoretischen Ableitungen weisen darauf hin, daß nach dem Tempo 60 Z/Min. keine grundsätzlichen Umstellungen im gesamtpsychischen Verhalten mehr notwendig sind, wie dies etwa um das Tempo 50 Z Min. herum eintrat. Die Richtigkeit dieser Annahme geht ans dem Verlauf der Übungskurven in Abb. 10 hervor, die nach dem ‘Tempo 50 Z/Min. einen stetigen Anstieg ohne weitere Plateaubildungen zeigen.</text:p>
    <text:p text:style-name="P18"/>
@@ -9466,13 +9575,13 @@
    <text:p text:style-name="P18"/>
    <text:h text:style-name="P24" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc249_2461086041"/>b) Praktische Gestaltung des Verfahrens<text:bookmark-end text:name="__RefHeading___Toc249_2461086041"/></text:h>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Die aus den bisherigen Untersuchungen und theoretischen Überlegungen gezogenen Schlüsse müssen auf ihre praktische Brauchbarkeit erprobt werden, um die Wirkungsweise eines solchen Verfahrens — <text:soft-page-break/>gegenüber den bisherigen — zu erweisen. Aus dem Verlaute der Anlernung werden sich dann weitere Gesichtspunkte für den speziellen Aufbau des Verfahrens gewinnen lassen.</text:p>
+   <text:p text:style-name="P18">Die aus den bisherigen Untersuchungen und theoretischen Überlegungen gezogenen Schlüsse müssen auf ihre praktische Brauchbarkeit erprobt werden, um die Wirkungsweise eines solchen Verfahrens — gegenüber den bisherigen — zu erweisen. Aus dem Verlaute der Anlernung werden sich dann weitere Gesichtspunkte für den speziellen Aufbau des Verfahrens gewinnen lassen.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Zu diesem Zwecke wurde im Psychologischen Institut ein Funkraum mit den entsprechenden Gebe- und Höranlagen eingerichtet. Hier wurden mehrere Kurse durchgeführt, die nach den gemachten Erfahrungen in verschiedener Weise eingerichtet wurden, um Unterlagen für die Klärung der verschiedenen auftauchenden Fragen zu gewinnen.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Es ergeben sich also für die weitere Behandlung zwei Fragen, nämlich einmal die Schlüsse, die aus den praktischen Anlernverfahren für die Gestaltung dieses Verfahrens zu ziehen sind und ferner der Nachweis der guten Leistungsfähigkeit des Verfahrens durch die praktischen Ergebnisse der Anlernung (II, c, S, 52).</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Die Schlüsse für die praktische Gestaltung des Verfahrens werden einmal den allgemeinen Aufbau betreffen, bei dem die Fragen über die Gestaltwirkung des Klangbildes, den Rhythmus und das ‘Tempo zu klaren sind und ferner spezielle Fragen, die die verschiedene Schwierigkeit bei der Erlernung einzelner Buchstaben, die Unterscheidung ähnlicher Buchstaben usw. behandeln. Im folgenden sollen zunächst die allgemeinen Probleme geklärt werden, um dann anschließend die praktischen Erfolge nachzuweisen.</text:p>
+   <text:p text:style-name="P18">Die Schlüsse für die praktische Gestaltung des Verfahrens werden einmal den allgemeinen Aufbau betreffen, bei dem die Fragen über die Gestaltwirkung des Klangbildes, den Rhythmus und das ‘Tempo <text:soft-page-break/>zu klaren sind und ferner spezielle Fragen, die die verschiedene Schwierigkeit bei der Erlernung einzelner Buchstaben, die Unterscheidung ähnlicher Buchstaben usw. behandeln. Im folgenden sollen zunächst die allgemeinen Probleme geklärt werden, um dann anschließend die praktischen Erfolge nachzuweisen.</text:p>
    <text:p text:style-name="P18"/>
    <text:h text:style-name="P25" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc251_2461086041"/>1. Allgemeiner Aufbau<text:bookmark-end text:name="__RefHeading___Toc251_2461086041"/></text:h>
    <text:p text:style-name="P18"/>
@@ -9486,7 +9595,7 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Das Ausbildungsverfahren verwendet einen Vordruck “um Niederschreiben der Buchstaben nach folgender Anordnung:</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P13"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Image14" text:anchor-type="as-char" svg:width="17.59cm" svg:height="5.495cm" draw:z-index="27"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P13"><draw:frame draw:style-name="fr3" draw:name="Image14" text:anchor-type="as-char" svg:width="17.59cm" svg:height="5.495cm" draw:z-index="27"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAq0AAADWCAIAAAB0RCzXAAAyv0lEQVR4nO2deXgUxdr26xCy
        yBIRiBFIBE8UWVQEWRQv8QJcQDwgkKN4IgQQAhh4WRUUUUDBg+IFAooIUeCAhkVBJSCb2wEx
        BAKJ4QiibIEACchmQghJ/OpNv8w3Z6anZ6a7puu5J/X7gytTTNfcc1c9VU9Xd/VU/fPPP5lC
@@ -9733,7 +9842,7 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Um den Lernenden zunächst in den Rhythmus einzuführen, soll er in die freien Felder des Vordruckes jedesmal einen Punkt setzen, wenn er aus der Hörfolge die akustische Gestalt eines Zeichens heraushört. Er reiht auf diese Weise Punkt an Punkt in die Felder des Schemas und wird so allmählich in den aufgezwungenen Rhythmus eingeführt. Das Einsetzen der Punkte bei Beginn der Übung bat außerdem die Bedeutung, daß dadurch ein Einspielen entsteht zwischen dem akustisch aufgenommenen Rhythmus und dem Rhythmus der schreibenden Hand. Vor allen Dingen aber bewirkt auch diese Schulung auf den Rhythmus, da der Lernende zwangsläufige auf das Heraushören des unzerlegten Klangbildes geführt wird. Das optische Symbol wird daher, wie schon vorhergehend erwähnt, dem Lernenden völlig ferngehalten.</text:p>
+   <text:p text:style-name="P18">Um den Lernenden zunächst in den Rhythmus einzuführen, soll er in die freien Felder des Vordruckes jedesmal einen Punkt setzen, wenn er aus der Hörfolge die akustische Gestalt eines Zeichens heraushört. Er reiht auf diese Weise Punkt an Punkt in die Felder des Schemas und wird so allmählich <text:soft-page-break/>in den aufgezwungenen Rhythmus eingeführt. Das Einsetzen der Punkte bei Beginn der Übung bat außerdem die Bedeutung, daß dadurch ein Einspielen entsteht zwischen dem akustisch aufgenommenen Rhythmus und dem Rhythmus der schreibenden Hand. Vor allen Dingen aber bewirkt auch diese Schulung auf den Rhythmus, da der Lernende zwangsläufige auf das Heraushören des unzerlegten Klangbildes geführt wird. Das optische Symbol wird daher, wie schon vorhergehend erwähnt, dem Lernenden völlig ferngehalten.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Erst nachdem die ersten beiden Klangbilder als verschieden herausgehört werden und der Lernende sich auf den Rhythmus eingestellt hat, werden die zu den Klangbildern gehörenden Buchstaben genannt. Das Niederschreiben dieser Buchstaben bereitet dann im allgemeinen keine Schwierigkeit. Selbstverständlich kommt es aber auch weiterhin ab und zu vor, daß der Lernende in dieser ersten Ausbildungszeit ein soeben verklingendes Zeichen nicht sofort automatisch erfaßt hat. Er wird daher versuchen wollen, in der allerdings viel zu kurzen Pause bis zum Ertönen des nächsten Zeichens darüber nachzudenken, welches Zeichen soeben verklang.</text:p>
    <text:p text:style-name="P18"/>
@@ -9743,7 +9852,7 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Nach kurzer Übungsdauer (etwa 10 Minuten) sind die Beziehungen zwischen dem akustischen Eindruck und den dargestellten Buchstaben der beiden ersten Zeichen so fest geknüpft, daß eine unmittelbare Übertragung vom akustischen Klangbild auf den Buchstaben erfolgt. Erst wenn dieses erreicht ist, darf das nächste Morsezeichen zu den beiden Klangbildern hinzugenommen werden. Das geschieht zweckmäßig auf folgende Weise.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18"><text:soft-page-break/>Die Hörenden werden darauf aufmerksam gemacht, daß von jetzt an ein neues Klangbild in der Gebefolge auftritt. In der Reihenfolge des Gebens kommen zuerst die beiden bekannten Morsezeichen, das dritte Morsezeichen ist das neue unbekannte Klangbild. Für dieses neue Klangbild ist in das freie Feld des Schemas ein Punkt zu setzen. In dieser Gebefolge tritt das neue Klangbild regellos noch mehrere Male auf, und der Lernende muß demnach jedesmal in das betreffende Feld des Vordrucks den Punkt setzen. Der Funklehrer überzeugt sich durch Kontrolle der Hörprotokolle, ob die Lernenden tatsächlich den Punkt an die richtigen Stellen gesetzt haben. Ist dies schließlich der Fall, so kann der Buchstabe für dieses neue Klangbild genannt werden Durch mehrere Übungsreihen werden die drei ersten Klangbilder gefestigt. Bei jedem Zuschalten neuer Buchstaben muß besonders darauf geachtet werden, daß der Auffassungsumfang des Lernenden nicht überschritten wird, d. h. es braucht und darf nicht übertrieben schnell mit der Zuschaltung neuer Buchstaben vorwärtsgegangen werden. Dies gilt besonders für den Beginn der Anlernung, es genügt also, wenn in der ersten Übungshalbstunde nur drei Klangbilder eingeübt werden, obwohl Geeignete noch mehr zu leisten vermögen. Die weitere Anlernung geschieht nun so, daß allmählich Buchstabe für Buchstabe eingeführt wird. Die Einführung der weiteren Buchstaben erfolgt auf die Weise, daß in der Gebefolge der neue Buchstabe zweimal am Anfang und dann regellos verstreut unter den anderen Buchstaben gegeben wird (vgl. Buchstabenanordnungen [S. 56 u. 57]). Dadurch, daß immer wieder der neue Buchstabe zunächst durch einen Punkt bezeichnet wird, erreicht man außerdem, daß die Einstellung, unverstandenen Zeichen nicht hinterherzudenken, sondern durch einen Punkt zu markieren, immer wieder geübt wird.</text:p>
+   <text:p text:style-name="P18">Die Hörenden werden darauf aufmerksam gemacht, daß von jetzt an ein neues Klangbild in der Gebefolge auftritt. In der Reihenfolge des Gebens kommen zuerst die beiden bekannten Morsezeichen, das dritte Morsezeichen ist das neue unbekannte Klangbild. Für dieses neue Klangbild ist in das freie Feld des Schemas ein Punkt zu setzen. In dieser Gebefolge tritt das neue Klangbild regellos noch mehrere Male auf, und der Lernende muß demnach jedesmal in das betreffende Feld des Vordrucks den Punkt setzen. Der Funklehrer überzeugt sich durch Kontrolle der Hörprotokolle, ob die Lernenden tatsächlich den Punkt an die richtigen Stellen gesetzt haben. Ist dies schließlich der Fall, so kann der Buchstabe für dieses neue Klangbild genannt werden Durch mehrere Übungsreihen werden die drei ersten Klangbilder gefestigt. Bei jedem Zuschalten neuer Buchstaben muß besonders darauf geachtet werden, daß der Auffassungsumfang des Lernenden nicht überschritten wird, d. h. es braucht und darf nicht übertrieben schnell mit der Zuschaltung neuer Buchstaben vorwärtsgegangen werden. Dies gilt besonders für den Beginn der Anlernung, es genügt also, wenn in der ersten Übungshalbstunde nur drei Klangbilder eingeübt werden, obwohl Geeignete noch mehr zu leisten vermögen. Die weitere Anlernung geschieht nun so, daß allmählich Buchstabe für Buchstabe eingeführt wird. Die Einführung der weiteren Buchstaben erfolgt auf die Weise, daß in der Gebefolge der neue Buchstabe zweimal am Anfang und dann regellos verstreut unter den anderen Buchstaben gegeben wird (vgl. <text:soft-page-break/>Buchstabenanordnungen [S. 56 u. 57]). Dadurch, daß immer wieder der neue Buchstabe zunächst durch einen Punkt bezeichnet wird, erreicht man außerdem, daß die Einstellung, unverstandenen Zeichen nicht hinterherzudenken, sondern durch einen Punkt zu markieren, immer wieder geübt wird.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Wichtigste Voraussetzung bei dem jedesmaligen Einführen eines neuen Buchstabens ist aber, daß diese Zuschaltung immer erst dann erfolgen darf, wenn der Übungsstand für die Aufnahme der bisherigen Zeichen eine ausreichende Festigung erfahren hat, da sonst bei Zuschaltung neuer Buchstaben sofort der Auffassungsumfang überschritten wird.</text:p>
    <text:p text:style-name="P18"/>
@@ -9753,13 +9862,13 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Während der Lernende in den Rhythmus des Tempos 60 Z Min. eingeführt und an diesen gewöhnt wird, stellt er sich auf die Unterscheidung der beiden ersten Klangbilder ein. Das erfordert für ihn nicht unerhebliche Konzentration, besonders, wenn später bei fortschreitender Übung bereits mehrere Klangbilder bei dem hohen Tempo bekannt sind und immer neue Zeichen hinzugeschaltet werden.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Diese Konzentration suchten wir zu entlasten durch weitere Anpassung der Klangwirkungen des Zeichens an die psychische Veranlagung. Im Sinne dieser Anpassung untersuchten wir die Frage, ob die akustische Gestaltwirkung des Morsezeichens nicht noch weiter durch Hervorheben der <text:soft-page-break/>charakteristischen Merkmale des Klangbildes verstärkt werden könnte. Die Anregung zu dieser Frage gab folgende Beobachtung.,</text:p>
+   <text:p text:style-name="P18">Diese Konzentration suchten wir zu entlasten durch weitere Anpassung der Klangwirkungen des Zeichens an die psychische Veranlagung. Im Sinne dieser Anpassung untersuchten wir die Frage, ob die akustische Gestaltwirkung des Morsezeichens nicht noch weiter durch Hervorheben der charakteristischen Merkmale des Klangbildes verstärkt werden könnte. Die Anregung zu dieser Frage gab folgende Beobachtung.,</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Es gibt Funklehrer, die — allerdings mehr oder weniger bewußt — ihren Schülern das Klangbild sehr charakteristisch verständlich machen. Der Funklehrer formt die Klangbilder des Morsezeichens zu einer kleinen Melodie, d. h. Punkte und Striche werden in zwei verschiedenen Tonhöhen von ihm gesungen oder lautiert, das Klangbild wird dadurch plastischer gestaltet. In der ja allgemein bekannten Weise wird die Strichlänge durch daa, die Punktlänge durch ditt akustisch in verschiedenen Tonhöhen dargestellt, so daß z. B. das Zeichen für „l“ klanglich dargestellt wird als: ditt daa ditt ditt oder „q“ als: daa daa ditt daa.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Es ist zu erkennen, daß die akustische Gestalt des Klangbildes durch diese Tonverschiedenheit von Punkt und Strich besonders hervorgehoben wird. Damit wird sowobl die Unterscheidung der verschiedenen Klangbilder erleichtert, wie auch gleichzeitig die Bildung der sofortigen Bedeutungseinheit zwischen akustischen Zeichen und Buchstaben (Zahl, Interpunktion) gefördert.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Diese Überlegungen führten zu dem Versuch, nicht erst auf dem Umweg über das Lautieren diese charakteristische Formung des Morsezeichens zu erreichen, sondern dadurch, daß das Zeichen selbst melodiehaft gestaltet wurde, indem Punkte und Striche in verschiedenen Tonhöhen gegeben werden¹. Das Geben in zwei verschiedenen Tonhöhen wurde durch eine mechanische Gebeeinrichtung erreicht, die weiter unten (S. 67) beschrieben wird. Der Strich wird dabei in etwas höherem Ton gegeben als der Punkt, jedoch darf der Tonunterschied nur klein sein, um das Klangbild nicht zu stark zu verändern und die spätere Überführung auf einen Ton nicht zu erschweren.</text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/>Diese Überlegungen führten zu dem Versuch, nicht erst auf dem Umweg über das Lautieren diese charakteristische Formung des Morsezeichens zu erreichen, sondern dadurch, daß das Zeichen selbst melodiehaft gestaltet wurde, indem Punkte und Striche in verschiedenen Tonhöhen gegeben werden¹. Das Geben in zwei verschiedenen Tonhöhen wurde durch eine mechanische Gebeeinrichtung erreicht, die weiter unten (S. 67) beschrieben wird. Der Strich wird dabei in etwas höherem Ton gegeben als der Punkt, jedoch darf der Tonunterschied nur klein sein, um das Klangbild nicht zu stark zu verändern und die spätere Überführung auf einen Ton nicht zu erschweren.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">¹ Die Anregung zu diesem Versuch wurde von Herrn Dr. Ing. Hanenberg gegeben,</text:p>
    <text:p text:style-name="P18"/>
@@ -9769,13 +9878,13 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Die internationale Vereinbarung setzt fest, daß der Funker im Klartext 125 Z/Min., im Codetext 100 Z/Min. aufnehmen muß. Bis zu dieser international verlangten höchsten Hörgeschwindigkeit muß also jede Ausbildung fortgeführt werden.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Nachdem unsere Ausbildung das einmal fest eingeführte Hörtempo von 60 Z/Min. im Codetext bis zur Beherrschung aller Zeichen beibehalten hat, müßte die Steigerung bis zur verlangten höchsten Hörgeschwindigkeit durch weiteres Schulen von 70 auf 80, 90, 100 Z/Min. durchgeführt werden. Wie <text:soft-page-break/>schon in den alleemeinen theoretischen Erörterungen ausgeführt wurde, könnte man sich nun fragen, ob nicht die Ausbildung für irgendein gefordertes Betriebstempo von 80 oder 100 Z/Min. durch sofortiges Schulen auf diese Geschwindigkeit durchzuführen wäre.</text:p>
+   <text:p text:style-name="P18">Nachdem unsere Ausbildung das einmal fest eingeführte Hörtempo von 60 Z/Min. im Codetext bis zur Beherrschung aller Zeichen beibehalten hat, müßte die Steigerung bis zur verlangten höchsten Hörgeschwindigkeit durch weiteres Schulen von 70 auf 80, 90, 100 Z/Min. durchgeführt werden. Wie schon in den alleemeinen theoretischen Erörterungen ausgeführt wurde, könnte man sich nun fragen, ob nicht die Ausbildung für irgendein gefordertes Betriebstempo von 80 oder 100 Z/Min. durch sofortiges Schulen auf diese Geschwindigkeit durchzuführen wäre.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Genau so wie man bei dem Ausbildungstempo 60 Z/Min. die Beziehung «zwischen Klangbild und Buchstaben automatisiert, müßte dieses Verfahren auch z. B. bei Tempo 100 Z/Min. anzuwenden sein. Wir haben einen solchen Versuch gemacht. Dabei hat sich herausgestellt, daß sich die Anforderungen an die Konzentration des Lernenden bei diesen Tempo 100 Z/Min. bedeutend steigern, besonders, wenn im Laufe des Verfahrens bereits mehrere Zeichen beherrscht und neue Klangbilder hinzugeschaltet werden. Diese Art der Ausbildung ist also zu anstrengend und erschöpft den auszubildenden Menschen nach kurzer Übungszeit ziemlich stark, wenn er nicht ausnahmsweise über ganz besonders gute Eignung verfügt. Nach allen Erfahrungen kann daher festgestellt werden:</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Das Hörtempo 60 Z/Min. ist für die Ausbildung zum Funker eine optimale Anlerngeschwindigkeit.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Der Lernende, der erst einmal bei diesem Tempo 60 Z/Min. im Aufnehmen sicher ist, vermag auch ohne Schwierigkeit und ohne besondere Schulung das Tempo 70 Z/Min. zu beherrschen. Die weitere Steigerung des Tempos auf 80, 90, 100 Z/Min. geht bei entsprechender Übung und Ausdauer ohne Schwierigkeit vor sich. Wie schon in den theoretischen Besprechungen entwickelt wurde, treten oberhalb des Tempos 60 Z/Min. keine neuen prinzipiellen Schwierigkeiten oder Umstellungen im psychischen Verhalten auf. Wir haben uns daher bei der Entwicklung des neuen Anlernverfahrens darauf beschränkt, die Untersuchungen bei dem gleichbleibenden Tempo 60 Z/Min. durchzuführen.</text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/>Der Lernende, der erst einmal bei diesem Tempo 60 Z/Min. im Aufnehmen sicher ist, vermag auch ohne Schwierigkeit und ohne besondere Schulung das Tempo 70 Z/Min. zu beherrschen. Die weitere Steigerung des Tempos auf 80, 90, 100 Z/Min. geht bei entsprechender Übung und Ausdauer ohne Schwierigkeit vor sich. Wie schon in den theoretischen Besprechungen entwickelt wurde, treten oberhalb des Tempos 60 Z/Min. keine neuen prinzipiellen Schwierigkeiten oder Umstellungen im psychischen Verhalten auf. Wir haben uns daher bei der Entwicklung des neuen Anlernverfahrens darauf beschränkt, die Untersuchungen bei dem gleichbleibenden Tempo 60 Z/Min. durchzuführen.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18"/>
    <text:h text:style-name="P25" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc259_2461086041"/>2. Spezielle Fragen<text:bookmark-end text:name="__RefHeading___Toc259_2461086041"/></text:h>
@@ -9788,11 +9897,11 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Die Leistungskurve zeigt für einen solchen Fall besonderer Schwierigkeit eines Buchstabens eine, wenn auch nur geringe Plateaubildung. Diese Buchstabenschwierigkeit ist bei jeder Lernenden verschieden, der eine erfaßt schlecht das Klangbild des Buchstaben v, bei einen anderen tritt die Schwierigkeit bei dem Klangbild des d oder irgendeines anderen Buchstaben auf.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18"><text:soft-page-break/>Neben solchen individuellen Besonderheiten haben wir aber im Verlaufe unserer Untersuchung festgestellt, daß zwar nicht bei allen Lernenden gleichmäßig, aber doch sehr häufig die Klangbilder für x, y, p, q verhältnismäßig schwer aufzufassen waren. Daher wird es angebracht sein, diese ziemlich allgemein gültigen Umstände bei dem Aufbau des Verfahrens 2u_ berücksichtigen, Wenn man diese Gruppe schwieriger Buchstaben an den Anfang der Ausbildung verlegen würde, so würde infolge der auftretenden Hemmungen die Lernfreudigkeit des Anfängers ungünstig beeinträchtigt werden. Zweckmäßiger verlegt man die schwierigen Buchstaben in oder anschließend an das erste Drittel der Ausbildung. Dadurch kommen diese Klangbilder, dem Aufbau des Verfahrens entsprechend, immer wieder in den Gebefolgen bis zum Ende der Ausbildung vor und es wird erreicht, da sie dauernd geübt und gefestigt werden. Würde man diese Buchstabengruppen wegen ihrer Schwierigkeit erst an das Ende der Ausbildung legen, so fielen die dauernden Übungswirkungen fort, die Ausbildung würde verlängert werden, da man dann am Schloß diese schwierigen Buchstaben länger üben müßte.</text:p>
+   <text:p text:style-name="P18">Neben solchen individuellen Besonderheiten haben wir aber im Verlaufe unserer Untersuchung festgestellt, daß zwar nicht bei allen Lernenden gleichmäßig, aber doch sehr häufig die Klangbilder für x, y, p, q verhältnismäßig schwer aufzufassen waren. Daher wird es angebracht sein, diese ziemlich allgemein gültigen Umstände bei dem Aufbau des Verfahrens 2u_ berücksichtigen, Wenn man diese Gruppe schwieriger Buchstaben an den Anfang der Ausbildung verlegen würde, so würde infolge der auftretenden Hemmungen die Lernfreudigkeit des Anfängers ungünstig beeinträchtigt werden. Zweckmäßiger verlegt man die schwierigen Buchstaben in oder anschließend an das erste Drittel der Ausbildung. Dadurch kommen diese Klangbilder, dem Aufbau des Verfahrens entsprechend, immer wieder in den Gebefolgen bis zum Ende der Ausbildung vor und es wird erreicht, da sie dauernd geübt und gefestigt werden. Würde man diese Buchstabengruppen wegen ihrer Schwierigkeit erst an das Ende der Ausbildung legen, so fielen die dauernden Übungswirkungen fort, die Ausbildung würde verlängert werden, da man dann am Schloß diese schwierigen Buchstaben länger üben müßte.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Die auf Grund dieser Überlegungen und sonstigen praktischen Erfahrungen für unser Verfahren gewählte Reihenfolge der Buchstaben ist auf S. 56 gegeben.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Tritt in der Reibe der so nacheinander einzuführenden Buchstaben nur ein solcher auf, der größere Schwierigkeiten bereitet, so wird dadurch das Tempo der Ausbildung an dieser Stelle verlangsamt, da längere Zeit bis zur völligen Festigung des Zcichens benötigt wird. Aus diesem Grunde werden in den Leistungskurven der Ausbildung an diesen Stellen kleine Plateaubildungen auftreten (vgl. Abb. 11). Diese beruhen aber nicht wie bei den bisherigen Verfahren auf grundsätzlichen Schwierigkeiten der Umstellung und ähnlichen früher schon behandelten Faktoren. Sie haben ihren Grund nur in den Schwierigkeiten bei der Erfassung schwierigerer Buchstaben, die in der Natur der Sache hegen und nicht zu vermeiden, höchstens in ihrem Auswirkungsumfang entsprechend den vorher erwähnten Maßnahmen zu beeinflussen sind.</text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/>Tritt in der Reibe der so nacheinander einzuführenden Buchstaben nur ein solcher auf, der größere Schwierigkeiten bereitet, so wird dadurch das Tempo der Ausbildung an dieser Stelle verlangsamt, da längere Zeit bis zur völligen Festigung des Zcichens benötigt wird. Aus diesem Grunde werden in den Leistungskurven der Ausbildung an diesen Stellen kleine Plateaubildungen auftreten (vgl. Abb. 11). Diese beruhen aber nicht wie bei den bisherigen Verfahren auf grundsätzlichen Schwierigkeiten der Umstellung und ähnlichen früher schon behandelten Faktoren. Sie haben ihren Grund nur in den Schwierigkeiten bei der Erfassung schwierigerer Buchstaben, die in der Natur der Sache hegen und nicht zu vermeiden, höchstens in ihrem Auswirkungsumfang entsprechend den vorher erwähnten Maßnahmen zu beeinflussen sind.</text:p>
    <text:p text:style-name="P18"/>
    <text:h text:style-name="P26" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc263_2461086041"/>β) Unterscheidung ähnlicher Buchstaben.<text:bookmark-end text:name="__RefHeading___Toc263_2461086041"/></text:h>
    <text:p text:style-name="P18"/>
@@ -9802,13 +9911,13 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Es handelt sich bei diesen Zeichen um akustische Gestalten, deren optische Symbole so zusammengesetzt sind, daß vor oder nach dem Strich die Punkte — wie ersichtlich — sozusagen als Vor- oder Nachsilben wirken.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Die akustische Gestalt zweier solcher verwechselbarer Zeichen ist in ihrer Gesamtwirkung wenig geändert, weil der Zeitunterschied, in dem die zwei oder drei Punkte als Vor- oder Nachsilbe gehört <text:soft-page-break/>werden, bei hohem Tempo sehr gering ist. Das Gehör muß also für die Unterscheidung dieser Ähnlichkeiten schon geschult sein.</text:p>
+   <text:p text:style-name="P18">Die akustische Gestalt zweier solcher verwechselbarer Zeichen ist in ihrer Gesamtwirkung wenig geändert, weil der Zeitunterschied, in dem die zwei oder drei Punkte als Vor- oder Nachsilbe gehört werden, bei hohem Tempo sehr gering ist. Das Gehör muß also für die Unterscheidung dieser Ähnlichkeiten schon geschult sein.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P28">Weniger große Schwierigkeiten bei höherem Tempo bereitet das Auseinanderhalten der Zeichen, deren optische Symbole aus Strichlängen zusammengesetzt sind, z. B. o <text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄▄▄ ▄▄▄</text:span></text:span> und ch <text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄▄▄ ▄▄▄ ▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9">▄</text:span></text:span><text:span text:style-name="T9">.</text:span></text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P28">Der Strich ertönt ja dreifach länger als der Punkt, so daß auch die Unterscheidung von drei und vier Strichen bei hohem Tempo leichter möglich ist, als bei drei und vier Punkten. Aus dein gleichen Grunde entstehen auch weniger Schwierigkeiten beim Auseinanderhalten der Klangbilder z. B. für die Buchstaben g <text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄▄▄ ▄</text:span></text:span> und 6 <text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄ ▄ ▄ ▄</text:span></text:span> oder w <text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄▄▄ ▄▄▄</text:span></text:span> und j <text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄▄▄ ▄▄▄ ▄▄▄</text:span></text:span>. Solche Zeichen, deren optisches Symbol Spiegelbilder sind, geben trotz ihrer optischen Ähnlichkeit als akustische Gestalten nur wenig Verwechslungsmöglichkeit. Zeichen wie v <text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄ ▄ ▄▄▄</text:span></text:span> und b <text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T9"> ▄ ▄ ▄</text:span></text:span> sind in ihren Klangbildern zu sehr unterschiedlich, als daß sie verwechselt werden könnten,</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Wenn daher gelegentlich geschlossen wird, da diese ähnlich und daher schwer zu unterscheiden wären¹, so verfällt man wieder in den Fehler, vom optischen Symbol, statt von der akustischen Gestalt auszugehen,</text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/>Wenn daher gelegentlich geschlossen wird, da diese ähnlich und daher schwer zu unterscheiden wären¹, so verfällt man wieder in den Fehler, vom optischen Symbol, statt von der akustischen Gestalt auszugehen,</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">¹ Biegel, Eine Eignungsprüfung für Funkentelegraphisten, PsychotechnZ, Jg. 6, H. 2 1931</text:p>
    <text:p text:style-name="P18"/>
@@ -9820,7 +9929,7 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Wie bereits vorübergehend erwähnt, ist es für das Fortschreiten des Übungsstandes eines Lehrganges wichtig zu beachten, daß nur bei ausreichender Sicherheit im Aufnehmen der jeweils bereits erlernten Zeichen ein neues, unbekanntes Morsezeichen hinzugeschaltet werden darf. Auf diese Weise vermeidet der Funklehrer die Störungen, die das Überschreiten des Auffassungsumfanges für den Lernenden mit sich bringen würde. Wie leicht der Auffassungsumfang des Lernenden überschritten werden kann, zeigten Versuche, bei denen wir 1m Verlaute eines Ausbildungslehrganges immer Gruppen von Buchstaben übten und dann die ganze Gruppe zu den vorher geübten Zeichen zuschalteten.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18"><text:soft-page-break/>Wir begannen die Ausbildung bei einem Tempo von 90 bis 100 Z/Min, mit solchen Klangbildern, deren optische Symbole nur aus Strichen zusammengesetzt sind, t, m, o, ch (1—4 Striche). Nach entsprechender Übungsdauer und ausreichender Sicherheit der Vpn. im Aufnehmen dieser Buchstabengruppe, die nach unserem neuen Verfahren eingeübt wurde, stellten wir die Übung dieser Gruppe wieder ein. Vielmehr würde nun 1D gleicher Weise eine neue Gruppe von Buchstaben geübt, deren optische Symbole nur aus Punkten besteht: e, i, 5, b (1-4 Punkte). Als diese beiden Gruppen gemischt zusammengebracht wurden, war die Sicherheit des Aufnehmens bei unseren Vpn. sehr gering. Wir mußten gewissermaßen die Ausbildung dieser acht Zeichen fast von Anfang an wieder beginnen, bis diese beiden Gruppen zusammen beherrscht wurden, An sich wird das hohe Ausbildungstempo eine gewisse Schuld an der Störung tragen, weil die Anforderung an die Konzentration dadurch besonders hoch ist. Außerdem wirkt sich in diesem Falle das Zusammentreffen ähnlicher Klangbilder, besonders der Zeichen von s und b, aus, die bei dem hohen Tempo von 100 Z/Min. ungemein schwer zu unterscheiden sind, wie schon ausgeführt wurde. Da vorher jede Gruppe für sich einwandire beherrscht wurde, können aber diese angeführten Gründe nicht allen an dem Versagen der Vpn. schuld tragen. Erst durch das Zusammenlegen beider Gruppen wird der Auffassungsumfang plötzlich so erweitert, daß die Aufnahme nicht mehr gelingt und dann lange Übung nötig wird.</text:p>
+   <text:p text:style-name="P18">Wir begannen die Ausbildung bei einem Tempo von 90 bis 100 Z/Min, mit solchen Klangbildern, deren optische Symbole nur aus Strichen zusammengesetzt sind, t, m, o, ch (1—4 Striche). Nach entsprechender Übungsdauer und ausreichender Sicherheit der Vpn. im Aufnehmen dieser Buchstabengruppe, die nach unserem neuen Verfahren eingeübt wurde, stellten wir die Übung dieser Gruppe wieder ein. Vielmehr würde nun 1D gleicher Weise eine neue Gruppe von Buchstaben geübt, deren optische Symbole nur aus Punkten besteht: e, i, 5, b (1-4 Punkte). Als diese beiden Gruppen gemischt zusammengebracht wurden, war die Sicherheit des Aufnehmens bei unseren Vpn. sehr gering. Wir mußten gewissermaßen die Ausbildung dieser acht Zeichen fast von Anfang an wieder beginnen, bis diese beiden Gruppen zusammen beherrscht wurden, An sich wird das hohe Ausbildungstempo eine gewisse Schuld an der Störung tragen, weil die Anforderung an die Konzentration dadurch besonders hoch ist. Außerdem wirkt sich in diesem Falle das Zusammentreffen ähnlicher Klangbilder, besonders der Zeichen von s und b, aus, die bei dem hohen Tempo von 100 Z/Min. ungemein schwer zu unterscheiden sind, wie schon ausgeführt wurde. Da vorher jede Gruppe für sich einwandire beherrscht wurde, können aber diese angeführten Gründe nicht allen an dem Versagen der Vpn. schuld tragen. Erst <text:soft-page-break/>durch das Zusammenlegen beider Gruppen wird der Auffassungsumfang plötzlich so erweitert, daß die Aufnahme nicht mehr gelingt und dann lange Übung nötig wird.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Nachdem die genanuten acht Zeichen einigermaßen sicher aufgenommen wurden, stellten wir wie vorher das weitere Üben dieser Gruppe ein.</text:p>
    <text:p text:style-name="P18"/>
@@ -9839,16 +9948,90 @@
    <text:p text:style-name="P18">„Je mehr man eine Anzahl von Wiederholungen verteilt, zeitlich auseinanderzieht, desto schneller erlernt man und desto besser behält man.“</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Es können z. B. jeweils 24 Wiederholungen auf verschiedene Weise folgendermaßen verteilt werden:</text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P18">auf 3 Tage zu je 8 Wiederholungen</text:p>
-   <text:p text:style-name="P18"><text:s/>„ <text:s/>6 <text:s/>„ <text:s text:c="2"/>„ <text:s/>„ <text:s/>4 <text:s text:c="6"/>„</text:p>
-   <text:p text:style-name="P18"><text:s/>„ 12 <text:s/>„ <text:s text:c="2"/>„ <text:s/>„ <text:s/>2 <text:s text:c="6"/>„</text:p>
+   <table:table table:name="Table1" table:style-name="Table1">
+    <table:table-column table:style-name="Table1.A"/>
+    <table:table-column table:style-name="Table1.B"/>
+    <table:table-column table:style-name="Table1.C"/>
+    <table:table-column table:style-name="Table1.D"/>
+    <table:table-column table:style-name="Table1.E"/>
+    <table:table-column table:style-name="Table1.F"/>
+    <table:table-column table:style-name="Table1.G"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P55">auf</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P56">3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P55">Tage</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P55">zu</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P55">je</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P56">8</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">Wiederholungen</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">„</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P56">6</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">„</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">„</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">„</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P56">4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">„</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">„</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P56">12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">„</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">„</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">„</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P56">2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P46">„</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">¹ Jost, Die Assoziationsfähigkeit in ihrer Abhängigkeit von der Verteilung der Wiederholungen. ZPsyehol 14. 1897.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Bei der Nachprüfung der Menge des Behaltenen nach der Wiedererkennungsmethode fand Jost bei diesen drei Einprägungsarten 7, 31 bzw. 55 Treffer; d. h. die gleiche Zahl von Wiederholungen hatte um so stärkere Wirkung auf das Behalten, je mehr die Wiederholungen verteilt wurden. Im 3. Fable war beim gleichen Aufwand nur durch die Art der Verteilung fast das 8-fache an Lerneffekt gegenüber der ersten Verteilungsart erreicht worden.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Nach diesen Ergebnissen wird also auch bei der Gestaltung des gesamten Ausbildungsganges die Lage und zeitliche Verteilung der Übungsstunden auf das Ausbildungsergebnis nicht unerheblichen Einfluß ausüben.</text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/>Nach diesen Ergebnissen wird also auch bei der Gestaltung des gesamten Ausbildungsganges die Lage und zeitliche Verteilung der Übungsstunden auf das Ausbildungsergebnis nicht unerheblichen Einfluß ausüben.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Die Wiederholung des jeweils erreichten Übungsumfanges an beherrschten Morsezeichen sollte demnach zeitlich nicht allzusehr zusammengedrängt werden. Man soll nicht an einem Tage morgens stundenlang mit entsprechenden Erholungspausen und nachmittags im selben Sinne fortfahrend üben. Der Wert eines solchen Übens ist nur gering, da einmal schon die starke Belastung durch die notwendige hohe Konzentration viel zu schnell ermüdend wirkt und ferner die für das Behalten so wichtige Verteilung der Wiederholungen nicht erreicht wird.</text:p>
    <text:p text:style-name="P18"/>
@@ -9863,8 +10046,8 @@
    <text:p text:style-name="P18">Nach Klarstellung der allgemeinen Richtlinien für die praktische Gestaltung des Verfahrens soll nun der Nachweis seiner Leistungsfähigkeit durch die praktischen Ergebnisse der Anlernung erbracht werden. Wir haben mehrere Kurse nach dem neuen Verfahren durchgeführt, über deren Ergebnisse im folgenden berichtet werden soll.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Hierzu sind zunächst einige allgemeine Vorbemerkungen über die Art unserer Vpn. und die Kurse notwendig, da sie für die Beurteilung der Leistungsfähigkeit des Verfahrens wichtig sind.</text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P18">Bei der Ausbildung zum berufsmäßigen Funker (Marine, Flieger, Heer usw.) werden die Lernenden in irgendeiner Form (Kaserne, Lager, Schule) zusammengehalten und stehen dem Funklehrer regelmäßig zu einer bestimmten Zeit zur Ausbildung zur Verfügung. Mit dieser an sich selbstverständlichen Voraussetzung konnten wir bei unserer Ausbildung nicht rechnen, denn für unsere praktisehe Erprobung des neuen Verfahrens kamen lediglich Vpn. in rage, die außerberuflich ausgebildet werden konnten. Die Vpn. waren Studenten, Studentinnen, Handwerker und Kaufleute. Abgesehen davon, daß bei diesen Vpn. Antriebe wie Berufsinteresse, Ehrgeiz, Schulzwang, Lerneiter oder dergleichen fehlten oder erst im Laufe der Anlernung angeregt wurden, mußten die Übungsstunden außerdem darunter leiden, daß sie sehr unregelmäßig und unbeständig aufeinanderfolgten. Die Kurse konnten nur an zwei oder höchstens zeitweilig an drei Wochenabenden stattfinden. Nachteilig wirkte sieh noch der Umstand aus, daß die Übungen häufiger zuzeiten abgehalten wurden, in denen die Vpn. von ihrer Tagesarbeit abgespannt und müde waren, Aus allen diesen Ursachen konnten wir nicht den Wert und die Auswirkung einer Verteilung der Übungen wie sie folgerichtig nach den früher angeführten Gesichtspunkten durchzuführen wären, in systematischer Weise beobachten. Natürlich mußte das Aus bildungsergebnis unter diesen ungünstigen Umstanden leiden. Wahrscheinlich würde man unter günstigeren Verhältnissen zu noch besseren Ergebnissen auch in bezug auf die Zahl der notwendigen Übungsstunden kommen.</text:p>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18">Bei der Ausbildung zum berufsmäßigen Funker (Marine, Flieger, Heer usw.) werden die Lernenden in irgendeiner Form (Kaserne, Lager, Schule) zusammengehalten und stehen dem Funklehrer regelmäßig zu einer bestimmten Zeit zur Ausbildung zur Verfügung. Mit dieser an sich selbstverständlichen Voraussetzung konnten wir bei unserer Ausbildung nicht rechnen, denn für unsere praktisehe Erprobung des neuen Verfahrens kamen lediglich Vpn. in rage, die außerberuflich ausgebildet werden konnten. Die Vpn. waren Studenten, Studentinnen, Handwerker und Kaufleute. Abgesehen davon, daß bei diesen Vpn. Antriebe wie Berufsinteresse, Ehrgeiz, Schulzwang, Lerneiter oder dergleichen fehlten oder erst im Laufe der Anlernung angeregt wurden, mußten die Übungsstunden außerdem darunter leiden, daß sie sehr unregelmäßig und unbeständig aufeinanderfolgten. Die Kurse konnten nur an zwei oder höchstens zeitweilig an drei Wochenabenden stattfinden. Nachteilig wirkte sieh noch der Umstand aus, daß die Übungen häufiger zuzeiten abgehalten wurden, in denen die Vpn. von ihrer Tagesarbeit abgespannt und müde waren, Aus allen diesen Ursachen konnten wir nicht den Wert und die Auswirkung einer Verteilung der Übungen wie sie folgerichtig nach den früher angeführten <text:soft-page-break/>Gesichtspunkten durchzuführen wären, in systematischer Weise beobachten. Natürlich mußte das Aus bildungsergebnis unter diesen ungünstigen Umstanden leiden. Wahrscheinlich würde man unter günstigeren Verhältnissen zu noch besseren Ergebnissen auch in bezug auf die Zahl der notwendigen Übungsstunden kommen.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Allgemein zeigte sich bei allen Kursen, daß das Automatisieren der Beziehungen von Klangbild und Buchstaben bei dem Ausbildungstempo 60 Z/Min. ohne Schwierigkeiten vor sich geht. Von den Geeigneten konnten in der ersten Übungshalbstunde vier oder teilweise sogar fünf Zeichen bei diesem Tempo sicher aufgenommen werden.</text:p>
    <text:p text:style-name="P18"/>
@@ -9879,7 +10062,7 @@
    <text:p text:style-name="P18">So wurde dann auch jedesmal der Zeitpunkt bestimmt, an dem die Zuschaltung eines neuen Zeichens erfolgen konnte, als unteren Grenzwert setzen wir bei den Kursen fest, daß die Zahl der Fehler für die ganze Gruppe höchstens 10% der Zahl der gegebenen Zeichen betragen durfte.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Damit wird nun auch gleichzeitig ein Maßstab für die Schnelligkeit des Fortschreitens der Anlernung gewonnen, der für die Beurteilung der Leistungsfähigkeit des Verfahrens wesentlich ist.</text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Zunächst ist allgemein in bezug auf die Zeitdauer der Ausbildung festzustellen, da bei unseren Kursen für die Beherrschung des gesamten Morsealpbabets bei Tempo 60 Z/Min. eine Zeit beansprucht wurde, die in den Grenzen von 24 bis zu 28 Übungshalbstunden lag. Die Ausbildung nahm einen solchen Verlauf, wie sie grundsätzlich den theoretischen Erwägungen der Methode entsprach.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Bemerkenswert sind insbesondere zwei Ausbildungskurse, die wir gleichzeitig durchführten.</text:p>
@@ -9888,7 +10071,7 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Sie unterschieden sich nur insofern, als der eine Lehrgang nach dem Eintonverfahren, der andere nach dem Zweitonverfahren erfolgte.</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">Die Ergebnisse der beiden Kurse sind in Leistungskurven (Abb. 11) dargestellt, die auch gleich allgemein ein Bild über den Verlauf der Anlernung geben. Die Kurve zeigt die Leistung der gesamten Gruppe des betreffenden Ausbildungslehrganges, ist also eine Darstellung der Durchschnittsleistung.</text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/>Die Ergebnisse der beiden Kurse sind in Leistungskurven (Abb. 11) dargestellt, die auch gleich allgemein ein Bild über den Verlauf der Anlernung geben. Die Kurve zeigt die Leistung der gesamten Gruppe des betreffenden Ausbildungslehrganges, ist also eine Darstellung der Durchschnittsleistung.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Auf der Abszisse ist die Zeitdauer der gesamten Ausbildung aufgetragen, die durch die Zahl der zur Ausbildung <text:s/>benötigten Übungshalbstundengegebenist.</text:p>
    <text:p text:style-name="P18"/>
@@ -10860,13 +11043,13 @@
     </draw:frame></text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Auf der Ordinate ist die Zahl der jeweils beherrschten Zeichen angegeben, wobei die Schnelligkeit des Fortschreitens durch die eben für die Kontrollen gegebenen Bestimmungen festgestellt ist.</text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Die Anordnung dieser 26 Zeichen bei den beiden Lehrgängen ist auf S. 57 gegeben.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P18">Aus dem Verlauf der Kurven ist zu ersehen, daß die Ausbildung bei dem Zweitonverfahren 24 Halbstunden, bei dem parallellaufenden Eintonverfahren 27 Halbstunden beanspruchte. Die Vpn. waren in bezug auf Eignung annähernd gleichwertig.</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P49">Wenn man die Leistungskurven beider parallellaufender Lehrgänge vergleicht, so ist festzustellen, du die Kurve für die Zweitonausbildung vor allem im Anfang steiler ansteigt, als die für das Eintonverfahren. Dieser Anstieg erklärt sich aus der Konzentrationsentlastung des Lernenden durch die verstärkte Klang: bildwirkung des Morsezeichens nach dem Zweitonverfahren, die sich ja auch besonders beim Beginn der Ausbildung auswirkte.</text:p>
-   <text:p text:style-name="P51">Buchstabenfolge im Anlernversuch</text:p>
+   <text:p text:style-name="P52">Buchstabenfolge im Anlernversuch</text:p>
    <text:p text:style-name="P13"><draw:frame draw:style-name="fr2" draw:name="Image15" text:anchor-type="as-char" svg:width="14.87cm" svg:height="21.544cm" draw:z-index="28"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAjIAAAOJCAIAAACI1F8MAAKdIklEQVR4nOyddXhbx/a1dduG
        mRrmpEnDzAwNc8MMDjMzMzPHYWZmcNBhZmZwmMFtv/d35rn6FEtnzsiWbKX3rD/yyO1oNLD3
@@ -14046,7 +14229,7 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P51">Buchstabenfolge</text:p>
+   <text:p text:style-name="P52">Buchstabenfolge</text:p>
    <text:p text:style-name="P46">beim Anlernkursus I (s. Abb. 11)</text:p>
    <text:p text:style-name="P13"><draw:frame draw:style-name="fr2" draw:name="Image16" text:anchor-type="as-char" svg:width="10.821cm" svg:height="8.625cm" draw:z-index="29"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAZkAAAFGCAIAAAA3r3VjAACYsElEQVR4nO29dXwUSffGO/su
