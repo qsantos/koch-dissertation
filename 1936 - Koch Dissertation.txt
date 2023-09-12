@@ -1,6 +1,6 @@
 https://archive.org/details/morse-code-teaching-research/KochDissertation/page/n7/mode/2up
 
-Aus dem psychologischen Inslitut an der Techn. Hochschule Braunschweig
+Aus dem psychologischen Institut an der Techn. Hochschule Braunschweig
 
 
 Arbeitspsychologische Untersuchung der Tätigkeit bei der Aufnahme von Morsezeichen
@@ -15,7 +15,7 @@ genehmigte
 
 Dissertation
 
-vorgelegl von
+vorgelegt von
 
 Dipl.-Ing. Ludwig Koch
 
@@ -76,11 +76,11 @@ Dieses Ziel wird erreicht durch die wechselseitige Anpassung zwischen der
 psychischen Struktur des Menschen und der Gestaltung aller Arbeitsbedingungen,
 unter denen die jeweilig zu untersuchende Arbeit abläuft. Die Anpassung
 zwischen Mensch und Arbeit kann auf zwei verschiedenen Wegen mit grundsätzlich
-verschiedenen Ausgangspunkten, nämlieb entweder dem Menschen oder der Arbeit,
+verschiedenen Ausgangspunkten, nämlich entweder dem Menschen oder der Arbeit,
 aber gleichem Ziel erreicht werden.
 
 Wenn man vom Menschen ausgeht, so wird die arbeitspsychologische Aufgabe darin
-bestebeu, den einzelnen Menschen in seiner psychischen Struktur durch eingehende
+bestehen, den einzelnen Menschen in seiner psychischen Struktur durch eingehende
 psychologische Untersuchung (Eignungsuntersuchung) zu erkennen, um für ihn ein
 Arbeit zu finden, die seinen Anlagen entspricht, für die er also, entsprechend
 dem eigentlichen Sinne des Begriffes Beruf, wirklich „berufen ist“.
@@ -124,7 +124,7 @@ Vorgänge in dem betreffenden Berufe aufbauen müssen.
 Daher wird auch in der vorliegenden Arbeit über die Tätigkeit des Funkers von
 der psychologischen Analyse des Arbeitsvorganges und seiner Bedingungen
 ausgegangen. Da das Wesentliche bei der Arbeit des Funkers in der Aufnahme der
-Morsezeichen besteht, muß dieser Vorgang zuuächst einer eingehenden
+Morsezeichen besteht, muß dieser Vorgang zunächst einer eingehenden
 psychologischen Untersuchung unterzogen werden. Hieraus werden sich, wie in der
 vorliegenden Arbeit gezeigt werden wird, die wesentlichen Grundfaktoren
 ergeben, die die Arbeit des Funkers beeinflussen, woraus dann die Entwicklung
@@ -139,11 +139,11 @@ I. Anwendungsgebiet des Funkwesens
 Die Arbeit des Funkers besteht in ihrem wesentlichen Gehalt im Aufnehmen und
 Geben der Morsezeichen; außerdem müssen noch gewisse technische
 Betriebskenntnisse vorhanden sein. Die Anforderungen in bezog auf das Tempo,
-d.b. auf die Menge der Zeichen pro Minnte beim Aufnehmen und Geben, sind den
+d.b. auf die Menge der Zeichen pro Minute beim Aufnehmen und Geben, sind den
 verschiedenen Betriebsbedingungen des Funkverkehrs entsprechend mehr oder
 weniger hoch gestellt. So müssen z. B. infolge der außerordentlichen Bedeutung
-des Funkwesens für die Fübrung von Flugzeugen, auch die Anforderungen an den
-Bordfunker entsprechend gesteigert sein. Für die Zulassung zum Flagfunkerdienst
+des Funkwesens für die Führung von Flugzeugen, auch die Anforderungen an den
+Bordfunker entsprechend gesteigert sein. Für die Zulassung zum Flugfunkerdienst
 müssen daher die Bedingungen des Funkerdiploms l. Klasse erfüllt sein.
 
 Der Funkverkehr im Schiffsdienst steht unter gleichgearteten Bedingungen, 2. h,
@@ -166,7 +166,7 @@ wichtig bleiben.
 
 Im Wirtschafts- und Verkehrsleben ist der drahtlose Hörempfang nicht mehr
 gebräuchlich, da leistungsfähigere Apparate die menschlichen Sinneswerkzeuge
-abgelöst haben. So sind beute im Postbetrieb Schuelltelegrapben gebräuchlich,
+abgelöst haben. So sind beute im Postbetrieb Schnelltelegraphen gebräuchlich,
 die bis etwa 400 Z/Min. leisten. Der Höraufnahme ist durch die menschliche
 Leistungsfähigkeit eine bestimmte Grenze gesetzt. Die internationale
 Vereinbarung, nach der ein Telegraphist 125 Buchstaben pro Min. aufnehmen muß,
