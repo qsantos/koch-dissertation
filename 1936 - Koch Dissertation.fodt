@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-12T23:13:00.192617973</dc:date><meta:editing-duration>PT4H25M52S</meta:editing-duration><meta:editing-cycles>49</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="18" meta:object-count="4" meta:page-count="55" meta:paragraph-count="604" meta:word-count="20020" meta:character-count="143233" meta:non-whitespace-character-count="123782"/></office:meta>
+ <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-13T07:54:32.760107279</dc:date><meta:editing-duration>PT4H52M17S</meta:editing-duration><meta:editing-cycles>54</meta:editing-cycles><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="18" meta:object-count="4" meta:page-count="55" meta:paragraph-count="604" meta:word-count="20020" meta:character-count="143228" meta:non-whitespace-character-count="123777"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">377119</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">2</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">40726</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">17332</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">37594</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15205</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">19784</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">385378</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">20655</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">377119</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">40725</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">394450</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">2</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">37592</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">15205</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">120</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">130</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
@@ -90,7 +90,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1556760</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1831674</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -158,7 +158,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -740,52 +740,52 @@
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="00135da4"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="00135da4"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
    <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="00135da4"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Footnote">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Footnote">
    <style:text-properties officeooo:paragraph-rsid="00135da4"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
    <style:text-properties fo:font-size="16pt" fo:language="de" fo:country="DE" officeooo:paragraph-rsid="0012949c" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="16pt" fo:language="de" fo:country="DE" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Table_20_Heading">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
   <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
   <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Table_20_Heading">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
   <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="00135da4" officeooo:paragraph-rsid="00135da4"/>
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00135da4" officeooo:paragraph-rsid="00135da4"/>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Footnote">
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="00135da4"/>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="00135da4" officeooo:paragraph-rsid="00135da4"/>
   </style:style>
   <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="0012949c" officeooo:paragraph-rsid="0012949c"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00135da4" officeooo:paragraph-rsid="00135da4"/>
   </style:style>
   <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
@@ -811,10 +811,6 @@
   </style:style>
   <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
    <style:text-properties fo:language="de" fo:country="DE"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="16pt" fo:language="de" fo:country="DE" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="000b49e0"/>
@@ -864,7 +860,16 @@
   <style:style style:name="T16" style:family="text">
    <style:text-properties officeooo:rsid="0017c118"/>
   </style:style>
-  <style:style style:name="T17" style:family="text"/>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties officeooo:rsid="00198dac"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="001ad717"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties officeooo:rsid="001bf2fa"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text"/>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none"/>
   </style:style>
@@ -1082,7 +1087,7 @@
    <text:p text:style-name="P16"/>
    <text:p text:style-name="P16"/>
    <text:p text:style-name="P16"/>
-   <text:p text:style-name="P16">Berichter: Prof. Dr. phil, Bernhard Herwig</text:p>
+   <text:p text:style-name="P16">Berichter: Prof. Dr. phil. Bernhard Herwig</text:p>
    <text:p text:style-name="P16"/>
    <text:p text:style-name="P16">Mitberichter: Prof. Dr.-Ing. Leo Pungs</text:p>
    <text:p text:style-name="P16"/>
@@ -1248,11 +1253,11 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Die Berufstätigkeit wird aber nicht nur durch Anlagen bedingt, sondern sie setzt sich zum großen Teil ans bestimmten übbaren Fertigkeiten zusammen, für die die ursprünglichen Anlagen nur Voraussetzung sind. In richtiger Verfolgung dieses Arbeitsweges zur Anpassung des Menschen an seine Arbeit wird als weitere Aufgabe der Arbeitspsychologie die Entwicklung von psychologisch richtigen Anlernverfahren entstehen, die aus der in der Eignungsuntersuchung festgelegten Grundanlagen die eigentlichen Berufsfertigkeiten entwickeln sollen.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Jedoch wird diese Anpassung des Menschen an seine Arbeit noch nicht zum vollen Erfolg für die Arbeit führen können, da eben auch der best geeignete und angelernte Berufsvertreter sich nicht voll 1 seiner Arbeit auswirken kann, wenn die Arbeitsbedingungen selbst nicht nun ihrerseits auch dem Menschen in seiner gesamten psychischen und physischen Struktur angepaßt sind. Dies führt zu dem zweiten arbeitspsychologischen Weg, der von der Untersuchung aller Arbeitsbedingungen auszugehen hat. Diese Untersuchung wird sich zu richten haben nicht nur auf die Gestaltung der speziellen Bedingungen der auszuführenden Arbeit, wie die Gestaltung des Arbeitsplatzes, des Werkzeuges, der Maschine, unfallverbütender Maßnahmen, Arbeitshaltung usw., sondern ebenso auch auf die allgemeinen Arbeitsbedingungen wie die Gestaltung des Arbeitsraumes, der Arbeitszeiten, Pausenregelung usw.</text:p>
+   <text:p text:style-name="P24">Jedoch wird diese Anpassung des Menschen an seine Arbeit noch nicht zum vollen Erfolg für die Arbeit führen können, da eben auch der best geeignete und angelernte Berufsvertreter sich nicht voll 1 seiner Arbeit auswirken kann, wenn die Arbeitsbedingungen selbst nicht nun ihrerseits auch dem Menschen in seiner gesamten psychischen und physischen Struktur angepaßt sind. Dies führt zu dem zweiten arbeitspsychologischen Weg, der von der Untersuchung aller Arbeitsbedingungen auszugehen hat. Diese Untersuchung wird sich zu richten haben nicht nur auf die Gestaltung der speziellen Bedingungen der auszuführenden Arbeit, wie die Gestaltung des Arbeitsplatzes, des Werkzeuges, der Maschine, unfallver<text:span text:style-name="T19">h</text:span>ütende<text:span text:style-name="T19">n</text:span> Maßnahmen, Arbeitshaltung usw., sondern ebenso auch auf die allgemeinen Arbeitsbedingungen wie die Gestaltung des Arbeitsraumes, der Arbeitszeiten, Pausenregelung usw.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Während die Eignungsuntersuchungen sich einstellen auf die psychische Haltung des einzelnen Menschen in seiner individuellen Eigenart, müssen naturgemäß die Untersuchungen der Arbeitsbedingungen von der normalen psychischen und physischen Konstitution des arbeitenden Menschen ausgeben und für diese die Bedingungen so gestalten, daß sie dieser normalen Leistungsfähigkeit möglichst weitgehend angepaßt sind.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Erst wenn beide Wege beschritten werden und sich gegenseitig ergänzen, wird eine möglichst weitgehende Anpassung zwischen Mensch und Arbeit erreicht und damit die Voraussetzung geschaffen für die günstigste Answirkungsmöglichkeit des arbeitenden Menschen. Grundlegend wird in beiden Fällen eine eingehende psychologisch gerichtete Untersuchung der Arbeitsverhältnisse sein müssen, da auch Eignungsuntersuchung und Anlernung auf dieser Kenntnis der psychischen Vorgänge in dem betreffenden Berufe aufbauen müssen.</text:p>
+   <text:p text:style-name="P24">Erst wenn beide Wege beschritten werden und sich gegenseitig ergänzen, wird eine möglichst weitgehende Anpassung zwischen Mensch und Arbeit erreicht und damit die Voraussetzung geschaffen für die günstigste A<text:span text:style-name="T19">u</text:span>swirkungsmöglichkeit des arbeitenden Menschen. Grundlegend wird in beiden Fällen eine eingehende psychologisch gerichtete Untersuchung der Arbeitsverhältnisse sein müssen, da auch Eignungsuntersuchung und Anlernung auf dieser Kenntnis der psychischen Vorgänge in dem betreffenden Berufe aufbauen müssen.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24"><text:soft-page-break/>Daher wird auch in der vorliegenden Arbeit über die Tätigkeit des Funkers von der psychologischen Analyse des Arbeitsvorganges und seiner Bedingungen ausgegangen. Da das Wesentliche bei der Arbeit des Funkers in der Aufnahme der Morsezeichen besteht, muß dieser Vorgang zu<text:span text:style-name="T6">n</text:span>ächst einer eingehenden psychologischen Untersuchung unterzogen werden. Hieraus werden sich, wie in der vorliegenden Arbeit gezeigt werden wird, die wesentlichen Grundfaktoren ergeben, die die Arbeit des Funkers beeinflussen, woraus dann die Entwicklung eines neuen, allen psychologischen Bedingungen entsprechenden Anlernverfahrens und gewisse Gesichtspunkte für die Frage der Eignungsuntersuchungen für Funker folgen.</text:p>
    <text:p text:style-name="P24"/>
@@ -1289,7 +1294,7 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Die Ergebnisse gestaltpsychologischer Forschung führen zu der grundsätzlichen Feststellung, daß die Eindrücke unserer Sinneswelt ganzheitlicher Art sind. Felix Krueger stellt in seiner Abhandlung „über psychische Ganzheit“ fest: „Bei psychischen Gegebenheiten jeder Art überwiegt regelmäßig qualitativ und funktional das psychische Ganze<text:note text:id="ftn3" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
       <text:p text:style-name="P13">F., Krueger, über psychische Ganzheit. NeupsySt 1. 1926.</text:p></text:note-body></text:note>.“ O. Buss erläutert den Ganzheitsbegriff wie folgt: „Von Ganzheit reden wir dann, wenn eine durch Leben gebundene primäre Notwendigkeit der Einheit vorliegt. Das Ganze hat einen Wesensprimat vor seinen Teilen; es ist unmöglich, das Ganze aus einer gesetzmäßigen Ordnung von Teilen sich konstituieren <text:span text:style-name="T1">zu</text:span> lassen.<text:span text:style-name="T1">“</text:span><text:span text:style-name="T1"><text:note text:id="ftn4" text:note-class="footnote"><text:note-citation>4</text:note-citation><text:note-body>
-       <text:p text:style-name="P13">O. Buss, Muttersprachliche Gestalten bewerlet unter dem Gesichtspunkt der Ganzheit. ZAngPs 46. 1934.</text:p></text:note-body></text:note></text:span></text:p>
+       <text:p text:style-name="P13">O. Buss, Muttersprachliche Gestalten bewer<text:span text:style-name="T19">t</text:span>et unter dem Gesichtspunkt der Ganzheit. ZAngPs 46. 1934.</text:p></text:note-body></text:note></text:span></text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Wir können den Begriff von der Ganzheit oder von dem Ganzsein nicht logisch definieren, sondern es kann lediglich Ganzheitliches dargestellt werden,</text:p>
    <text:p text:style-name="P24"><text:soft-page-break/></text:p>
@@ -1297,7 +1302,7 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Die gleiche Erscheinung der Gestaltbildung tritt beim Lesen auf. Der Lesekundige liest nicht einzelne Buchstaben, sondern faßt das Wortganze als Gestalt auf. Die praktische Anwendung dieser Erkenntnis führt zur Entwicklung der bekannten Ganzlesemethode für das Erlernen des Lesens,</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Als Beispiel für die Gestaltauffassung auch auf akustischem Gebiet kann das militärische Hornsignal betrachtet werden. Die Bedeutung eines solchen Signals wird nicht verstanden durch das Erfassen einzelner isolierter Töne, sondern dadurch, daß der Tonkomplex in seiner Ganzheit, also als eine akustische Gestalt in ihrer für dieses Signal typischen Gesamtstruktur erfaßt wird. Ebenso setzt sich jede Melodie nicht aus einzelnen Tönen, sondern ans Tonkoinplexen, Teilgestalten zusammen.</text:p>
+   <text:p text:style-name="P24">Als Beispiel für die Gestaltauffassung auch auf akustischem Gebiet kann das militärische Hornsignal betrachtet werden. Die Bedeutung eines solchen Signals wird nicht verstanden durch das Erfassen einzelner isolierter Töne, sondern dadurch, daß der Tonkomplex in seiner Ganzheit, also als eine akustische Gestalt in ihrer für dieses Signal typischen Gesamtstruktur erfaßt wird. Ebenso setzt sich jede Melodie nicht aus einzelnen Tönen, sondern ans Tonko<text:span text:style-name="T18">m</text:span>plexen, Teilgestalten zusammen.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Diese lebendige Ganzheit der Dinge beschrankt sich nicht auf das nur augenblickliche Erfassen von Wahrnehmungsinhalten, sondern auch das Behalten und Reproduzieren irgendwelcher Eindrücke seelischen Geschehens und Erlebens im Gedächtnis erfolgt in solchen Gestalten.</text:p>
    <text:p text:style-name="P24"/>
@@ -1305,9 +1310,9 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Gestalten besitzen demnach eine höhere Reproduktionsfähigkeit als ungestaltete Komplexe.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Sollen also irgendwelche Inhalte eingeprägt und behalten werden, so daß das Reproduzieren schnell und sicher möglich ist, so müssen die Lernmethoden von derart ganzheitlich erfaßten, gestalteten Inhalten ausgehen. So beruht die schon erwähnte Ganzlesemetbode von Decroly<text:note text:id="ftn5" text:note-class="footnote"><text:note-citation>5</text:note-citation><text:note-body>
-      <text:p text:style-name="P13">Hamaide, Die Methode Decroly. Weimar, Böhlaus Nachf. 1928.</text:p></text:note-body></text:note> im Anfangsschulunterricht auf diesen Voraussetzungen, denn es werden nicht einzelne Buchstaben, sondern von Anfang au ganze Wortbilder eingeprägt, genan so wie ja auch später beim lesekundigen der Leseprozeß sich auf die Gestalt des ganzen Wortes stützt<text:note text:id="ftn6" text:note-class="footnote"><text:note-citation>6</text:note-citation><text:note-body>
-      <text:p text:style-name="P13">Kern, Ist unsere Lesemethode richtig? Freiburg (Breisgau). 1931.</text:p></text:note-body></text:note>. Die Erfolge der Ganzlesemetbode sprechen für die Richtigkeit dieses Verfahrens.</text:p>
+   <text:p text:style-name="P24">Sollen also irgendwelche Inhalte eingeprägt und behalten werden, so daß das Reproduzieren schnell und sicher möglich ist, so müssen die Lernmethoden von derart ganzheitlich erfaßten, gestalteten Inhalten ausgehen. So beruht die schon erwähnte Ganzlesemet<text:span text:style-name="T19">h</text:span>ode von Decroly<text:note text:id="ftn5" text:note-class="footnote"><text:note-citation>5</text:note-citation><text:note-body>
+      <text:p text:style-name="P13">Hamaide, Die Methode Decroly. Weimar, Böhlaus Nachf. 1928.</text:p></text:note-body></text:note> im Anfangsschulunterricht auf diesen Voraussetzungen, denn es werden nicht einzelne Buchstaben, sondern von Anfang au ganze Wortbilder eingeprägt, gena<text:span text:style-name="T17">u</text:span> so wie ja auch später beim lesekundigen der Leseprozeß sich auf die Gestalt des ganzen Wortes stützt<text:note text:id="ftn6" text:note-class="footnote"><text:note-citation>6</text:note-citation><text:note-body>
+      <text:p text:style-name="P13">Kern, Ist unsere Lesemethode richtig? Freiburg (Breisgau). 1931.</text:p></text:note-body></text:note>. Die Erfolge der Ganzlese<text:span text:style-name="T17">m</text:span>et<text:span text:style-name="T17">h</text:span>ode sprechen für die Richtigkeit dieses Verfahrens.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Ebenso wie mit Recht und Erfolg die Anwendung dieser Überlegungen auf optischem Gebiet zu einem Anlernverfahren für das Lesen führt, so werden auch für akustische Wahrnehmung dieselben Schlüsse für ein Verfahren zur Erlernung der Morsezeichen zu ziehen sein.</text:p>
    <text:p text:style-name="P24"/>
@@ -1319,21 +1324,21 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Es ist einleuchtend, da die psychischen Erscheinungen beim Aufnehmen der Morsezeichen beeinflußt werden durch das Tempo, mit dem die Zeichen aufeinanderfolgen. Dabei wird bei zunehmendem Tempo nicht etwa nur die Schwierigkeit des Aufnehmens wegen der erhöhten Beanspruchung der Auffassungsfähigkeit steigen, sondern es werden auch Änderungen 0 dem akustischen Gesamteindruck auftreten, die eng mit den gestaltbildenden Faktoren zusammenhängen.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Die wichtigste Aufgabe wird darin bestehen müssen, diese Abhängigkeit vom Tempo eingehend zu untersuchen, wobei sich auch erweisen wird, daß hieraus überhaupt fast alle anftanchenden Fragen zu klaren sind.</text:p>
+   <text:p text:style-name="P24">Die wichtigste Aufgabe wird darin bestehen müssen, diese Abhängigkeit vom Tempo eingehend zu untersuchen, wobei sich auch erweisen wird, daß hieraus überhaupt fast alle a<text:span text:style-name="T17">u</text:span>fta<text:span text:style-name="T17">u</text:span>chenden Fragen zu klaren sind.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Bei dieser Untersuchung ist nun nicht der zunächst nahe liegende Weg eingeschlagen worden, die psychischen Erscheinungen beim Hören, also beim Aufnehmen der Zeichen, zu untersuchen. Einer exakten experimentellen Beweisführung durch Untersuchung der Vorginge beim Hören, würden viele Schwierigkeiten im Wege stehen, wie später (S. 19) noch bei den zum Vergleich herangezogenen Versuchen dieser Art gezeigt werden wird.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Vielmehr ist die Untersuchung so durchgeführt worden, daß das Üben bei verschiedenem Tempo untersucht wurde, um festzustellen, in welchem Rhythmus die einzelnen Elemente jedes Morsezeichens bei den verschiedenen Geschwindigkeiten von getübten Funkern gegeben wurden. Diese Methode bietet die Möglichkeit, die erhaltene Zeitdauer für die Elemente und ihre Abstände innerhalb des Zeichens und von Zeichen zu Zeichen genauestens zu untersuchen.,</text:p>
+   <text:p text:style-name="P24">Vielmehr ist die Untersuchung so durchgeführt worden, daß das Üben bei verschiedenem Tempo untersucht wurde, um festzustellen, in welchem Rhythmus die einzelnen Elemente jedes Morsezeichens bei den verschiedenen Geschwindigkeiten von geübten Funkern gegeben wurden. Diese Methode bietet die Möglichkeit, die erhaltene Zeitdauer für die Elemente und ihre Abstände innerhalb des Zeichens und von Zeichen zu Zeichen genauestens zu untersuchen.,</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Die Berechtigung, aus der Art des Gebens auch auf die Vorginge heim Aufnehmen zu schließen, liegt darin, daß die Vp., die in einem Kopfhörer auch gleichzeitig das von ihr gegebene Zeichen hört, im allgemeinen denjenigen Rhythmus innerhalb des Zeichens geben wird, der ihr bei dem betreffenden Tempo nicht nur motorisch, sondern auch akustisch am angepaßtesten erscheint. Die Bestätigung dieser zunächst theoretischen Annahme wird später gegeben werden können, wenn die Ergebnisse der Gebeversuche mit der unmittelbaren Untersuchung der Vorgänge beim Aufnehmen der Zeichen bei verschiedener Geschwindigkeit verglichen werden, wobei sich eine gute Übereinstimmung zeigen wird.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Für die Gebeversuche können nur Vpn. gewählt werden, die gute Leistungen im Geben auf Grund langer Übung aufweisen, da nur bei ihnen die natürliche Einstellung auf den akustischen Rhythmus erfolgt, ohne von anderen störenden Momenten beeinflußt zu sein, Es müssen bei diesen Untersuchungen mehrere Vpn. herangezogen werden, da ja bekanntlich jeder Funker seine eigene Gebeweise hat. Wenn aber tatsächlich bestimmte allgemeine Zusammenhänge zwischen der Gestaltung des Morsezeichens und dem Tempo bestehen, so werden sich diese Beziehungen trotz kleiner individueller Unterschiede zigen müssen.</text:p>
+   <text:p text:style-name="P24">Für die Gebeversuche können nur Vpn. gewählt werden, die gute Leistungen im Geben auf Grund langer Übung aufweisen, da nur bei ihnen die natürliche Einstellung auf den akustischen Rhythmus erfolgt, ohne von anderen störenden Momenten beeinflußt zu sein, Es müssen bei diesen Untersuchungen mehrere Vpn. herangezogen werden, da ja bekanntlich jeder Funker seine eigene Gebeweise hat. Wenn aber tatsächlich bestimmte allgemeine Zusammenhänge zwischen der Gestaltung des Morsezeichens und dem Tempo bestehen, so werden sich diese Beziehungen trotz kleiner individueller Unterschiede z<text:span text:style-name="T17">e</text:span>igen müssen.</text:p>
    <text:p text:style-name="P24"/>
    <text:h text:style-name="P29" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc223_2461086041"/>I. Die Versuchsanordnung<text:bookmark-end text:name="__RefHeading___Toc223_2461086041"/></text:h>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24"><text:soft-page-break/>Entsprechend der Versuchsabsicht, die zeitlichen Verhältnisse beim Geben der Morsezeichen in verschiedenem Tempo exakt zu untersuchen, wurde folgende Versuchseinrichtung zur zeitlichen Registrierung benutzt.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Ein endloses Papierband, dessen Fläche berußt ist, wird über zwei Trommeln geführt (Heringsche Schleife). Die Antriebstrommel kann durch einen Motor mit beliebiger, aber jeweils konstanter Geschwindigkeit zur Umdrehung gebracht werden. Auf dem bernßten Papier schreibt ein elektromagnetischer Schreibhebel und eine Stimmgabel mit 100 Schwingungen/Sek. zur Markierung des Zeitablaufs.</text:p>
+   <text:p text:style-name="P24">Ein endloses Papierband, dessen Fläche berußt ist, wird über zwei Trommeln geführt (Heringsche Schleife). Die Antriebstrommel kann durch einen Motor mit beliebiger, aber jeweils konstanter Geschwindigkeit zur Umdrehung gebracht werden. Auf dem ber<text:span text:style-name="T17">u</text:span>ßten Papier schreibt ein elektromagnetischer Schreibhebel und eine Stimmgabel mit 100 Schwingungen/Sek. zur Markierung des Zeitablaufs.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Die Morsetaste ist mit dem Schreibhebel in Reihe geschaltet. Gleichzeitig hört der Funker durch Kopfhörer mit, so daß er den akustischen Eindruck des von ihm gegebenen Zeichens hat.</text:p>
    <text:p text:style-name="P24"/>
@@ -1345,7 +1350,7 @@
    <text:p text:style-name="P24"/>
    <text:h text:style-name="P29" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc225_2461086041"/>II. Auswertung der Versuchsergebnisse<text:bookmark-end text:name="__RefHeading___Toc225_2461086041"/></text:h>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Die so aufgezeichnete Folge der Morsezeichen ergibt durch Ausmessungen der Markierungen auf dem bernßten Band die zeitlichen Proportionen innerhalb der verschiedenen Zeichen und ihre Abstände.</text:p>
+   <text:p text:style-name="P24">Die so aufgezeichnete Folge der Morsezeichen ergibt durch Ausmessungen der Markierungen auf dem ber<text:span text:style-name="T17">u</text:span>ßten Band die zeitlichen Proportionen innerhalb der verschiedenen Zeichen und ihre Abstände.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Das Verhältnis zwischen den aufgezeichneten Lingen und den zugehörigen Zeiten errechnet sich für jede der durchgeführten Untersuchungen aus folgenden Versuchsdaten, von denen ein Zahlenbeispiel herausgegriffen sein soll.</text:p>
    <text:p text:style-name="P24"/>
@@ -1522,9 +1527,9 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P16"/>
-   <text:p text:style-name="P44">Berechnung der Gebegeschwindigkeit</text:p>
+   <text:p text:style-name="P46">Berechnung der Gebegeschwindigkeit</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Die Gebegeschwindigkeit ist an sich der Vp. bei jedem Versuch vorgeschrieben. Der Funker kann aber ein bestimmtes vorgeschriebenes Gebetempo nur in mehr oder weniger großer Annäherung einbalten, besonders wenn er niedriges Tempo geben soll. Für die Auswertung unserer Untersuchungen muß daher das tatsächlich eingehaltene Gebetempo aus den aufgezeichneten Gebeproben in folgender Weise errechnet werden:</text:p>
+   <text:p text:style-name="P24">Die Gebegeschwindigkeit ist an sich der Vp. bei jedem Versuch vorgeschrieben. Der Funker kann aber ein bestimmtes vorgeschriebenes Gebetempo nur in mehr oder weniger großer Annäherung ein<text:span text:style-name="T17">h</text:span>alten, besonders wenn er niedriges Tempo geben soll. Für die Auswertung unserer Untersuchungen muß daher das tatsächlich eingehaltene Gebetempo aus den aufgezeichneten Gebeproben in folgender Weise errechnet werden:</text:p>
    <table:table table:name="Table5" table:style-name="Table5">
     <table:table-column table:style-name="Table5.A"/>
     <table:table-column table:style-name="Table5.B"/>
@@ -1544,7 +1549,7 @@
       <text:p text:style-name="P40">Zeitfaktor:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P41">1 cm </text:p>
+      <text:p text:style-name="P42">1 cm </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
       <text:p text:style-name="P40"><text:span text:style-name="T13">= </text:span>t (sec.)</text:p>
@@ -1823,7 +1828,7 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Bei einer Gebefolge im Klartext wurde z. B. die mittlere Zeichendauer von der Häufigkeit der Buchstaben dieser Folge abhängen. Im Code-Text richtet sich die mittlere Zeichendauer nach der Zusammenstellung der Verschlüsselung. Das gesamte Alphabet der Buchstaben A—Z hat eine mittlere Zeichendauer die eine Zeit von 8,4 Punktlängen beträgt.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P40">Im vorliegenden Falle unserer aufgenommenen Gebeproben, die sich aus verhältnismäßig langen Morsezeichen zusammensetzt, beträgt die mittlere Zeichendauer der 10 gewählten Zeichen 10,2 Punktlängen. In Beziehung zu der mittleren Zeichendauer des Alphabets von A—Z gebracht, würde z. B. das Tempo unserer Gebefolge, wenn es absolut berechnet 25 Z/Min. hat, relativ <draw:frame draw:style-name="fr8" draw:name="Object3" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="3.401cm" svg:height="0.998cm" draw:z-index="28"><draw:object>
+   <text:p text:style-name="P40">Im vorliegenden Falle unserer aufgenommenen Gebeproben, die sich aus verhältnismäßig langen Morsezeichen zusammensetzt, beträgt die mittlere Zeichendauer der 10 gewählten Zeichen 10,2 Punktlängen. In Beziehung zu der mittleren Zeichendauer des Alphabets von A—Z gebracht, würde z. B. das Tempo unserer Gebefolge, wenn es absolut berechnet 25 Z/Min. hat, relativ <draw:frame draw:style-name="fr8" draw:name="Object3" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="3.401cm" svg:height="0.998cm" draw:z-index="26"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -1875,7 +1880,7 @@
        jAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=
       </office:binary-data>
      </draw:image>
-    </draw:frame><text:s/>betragen; statt absolut berechnet <text:span text:style-name="T13">85 Z/Min.</text:span> ; würde das Tempo relativ auf <draw:frame draw:style-name="fr8" draw:name="Object4" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="3.612cm" svg:height="0.998cm" draw:z-index="29"><draw:object>
+    </draw:frame><text:s/>betragen; statt absolut berechnet <text:span text:style-name="T13">85 Z/Min.</text:span> ; würde das Tempo relativ auf <draw:frame draw:style-name="fr8" draw:name="Object4" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="3.612cm" svg:height="0.998cm" draw:z-index="27"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -2173,9 +2178,9 @@
    <text:p text:style-name="P24">Zur besseren Übersicht der gegebenen Werte sind diese in Abb. 1 bis 4 in 4 Kurven für je eine Vp. dargestellt. Die Kurven zeigen die Abhängigkeit der zeitlichen Verhältnisse des Morsezeichens von der Gebegeschwindigkeit.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Die Maße für a,b, c, d sind auf der Ordinate in mm, das Tempo ist auf der Abszisse (1 Z/Min. = 2 mm) aufgetragen. Diese Kurven veranschaulichen daher die Beziehungen zwischen den Längen der Elemente des subjektiv gegebenen Morsezeichens und dem Tempo und zeigen schon bei oberflächlicher Betrachtung in ihrem grundsätzlich = üblichem Verlauf, insbesondere der Kurven I bis III — bei Vp. IV liegen später zu klärende Sonderverhältnisse vor —, daß eine bestimmte Gesetzmäßigkeit für die Abhängigkeit zwischen dem gegebenen Tempo und dem Zeitverhältnis der einzelnen Elemente des Morsezeichens besteht.</text:p>
-   <text:p text:style-name="P16"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" svg:width="11.642cm" draw:z-index="26">
+   <text:p text:style-name="P16"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" svg:width="11.642cm" draw:z-index="28">
      <draw:text-box fo:min-height="7.038cm">
-      <text:p text:style-name="P7"><draw:frame draw:style-name="fr6" draw:name="Image3" text:anchor-type="char" svg:width="9.779cm" style:rel-width="84%" svg:height="5.911cm" style:rel-height="scale" draw:z-index="27"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P7"><draw:frame draw:style-name="fr6" draw:name="Image3" text:anchor-type="char" svg:width="9.779cm" style:rel-width="84%" svg:height="5.911cm" style:rel-height="scale" draw:z-index="29"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAbgAAAEKCAIAAADvqteaAACTxUlEQVR4nO19d3xVRfr+3IRV
           qQkt1NA7qKDAKhZwAQvY22IBe1mxYQXEguL6VUHsoCiu69qwri7uoigq7rrKCoKCCwiEEgIJ
           CQkdlNzf8zvPntf3zrkt4ZJEmOeP+zn33HPnzJkz88zb5p1q+fn5Ji7S0tLiXxAOh/EZ8oCL
@@ -4834,13 +4839,13 @@
     <table:table-column table:style-name="Table4.A" table:number-columns-repeated="3"/>
     <table:table-row>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P51">b = 3 a,</text:p>
+      <text:p text:style-name="P53">b = 3 a,</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P51">c = a,</text:p>
+      <text:p text:style-name="P53">c = a,</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P51">d = 3 a.</text:p>
+      <text:p text:style-name="P53">d = 3 a.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -4859,7 +4864,7 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Dieses Zusammendrängen der einzelnen Elemente des Morsezeichens zu einer Gestalt tritt sehr deutlich hervor bei einem Vergleich des subjektiv gegebenen Zeichens mit den Abmessungen des Zeichens nach der internationalen Vereinbarung bei gleichem Tempo (graphische Darstellung Abb. 5 bis 8).</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Die Gegenüberstellung zeigt, wie sich bei dem betrachteten Tempo 25 Z)Min. die Strichlänge b der internationalen Abmessung langgezogen dahinstreckt. Besonders eindringlich wird dieses Hinstrecken der Strichlänge auf den Menschen bei dem akustischen Eindruck wirken, den ein solches Morsezeichen mit den internationalen Abmessungen bei der Höraufnahme bietet. Würde man bei langsamer Geschwindigkeit diese mathematischen Proportionen cinhalten, so entstünde beim Aufnehmen ein gequältes, langes Auseinanderziehen des einzelneu Zeichens, die akustische Gestalt des Zeichens würde vollständig auseinanderfallen. An dem Beispiel des subjektiv gegebenen Zeichens bestätigt sich die auch aus anderen psychologischen Untersuchungen bekannte Tatsache, daß Gestalten nach Zusammenschluß und Vollendung drängen.</text:p>
+   <text:p text:style-name="P24">Die Gegenüberstellung zeigt, wie sich bei dem betrachteten Tempo 25 Z/Min. die Strichlänge b der internationalen Abmessung langgezogen dahinstreckt. Besonders eindringlich wird dieses Hinstrecken der Strichlänge auf den Menschen bei dem akustischen Eindruck wirken, den ein solches Morsezeichen mit den internationalen Abmessungen bei der Höraufnahme bietet. Würde man bei langsamer Geschwindigkeit diese mathematischen Proportionen <text:span text:style-name="T17">e</text:span>inhalten, so entstünde beim Aufnehmen ein gequältes, langes Auseinanderziehen des einzelne<text:span text:style-name="T17">n</text:span> Zeichens, die akustische Gestalt des Zeichens würde vollständig auseinanderfallen. An dem Beispiel des subjektiv gegebenen Zeichens bestätigt sich die auch aus anderen psychologischen Untersuchungen bekannte Tatsache, daß Gestalten nach Zusammenschluß und Vollendung drängen.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Die graphische Darstellung Abb. 5 bis 7 zeigt, da mit zunehmenden Geschwindigkeiten die Verhältnisse für das Zustandekommen akustischer Ganzheiten, Gestalten, günstiger werden. Gleichzeitig nähern sich damit auch die Proportionen der internationalen Vereinbarung den psychisch günstigsten Bedingungen.</text:p>
    <text:p text:style-name="P24"/>
@@ -8921,18 +8926,18 @@
     <table:table-column table:style-name="Tabelle1.C"/>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A1" office:value-type="string">
-      <text:p text:style-name="P47">Zeichen</text:p>
+      <text:p text:style-name="P49">Zeichen</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B1" office:value-type="string">
-      <text:p text:style-name="P49">Mathem. Form</text:p>
+      <text:p text:style-name="P51">Mathem. Form</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B1" office:value-type="string">
-      <text:p text:style-name="P49">Individ. Form</text:p>
+      <text:p text:style-name="P51">Individ. Form</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P46">l</text:p>
+      <text:p text:style-name="P48">l</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P39"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T12"> ▄▄▄ ▄ </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T12">▄</text:span></text:span></text:p>
@@ -8943,7 +8948,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P46">f</text:p>
+      <text:p text:style-name="P48">f</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P39"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T12">▄ ▄ ▄▄▄ ▄</text:span></text:span></text:p>
@@ -8954,7 +8959,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P46">c</text:p>
+      <text:p text:style-name="P48">c</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P39"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T12">▄▄▄ ▄ ▄▄▄ ▄</text:span></text:span></text:p>
@@ -8965,7 +8970,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P46">q</text:p>
+      <text:p text:style-name="P48">q</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P39"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T12">▄▄▄ ▄▄▄ ▄ ▄▄▄</text:span></text:span></text:p>
@@ -8976,7 +8981,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P46">x</text:p>
+      <text:p text:style-name="P48">x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P39"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T12">▄▄▄ ▄ ▄ ▄▄▄</text:span></text:span></text:p>
@@ -8987,7 +8992,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P46">y</text:p>
+      <text:p text:style-name="P48">y</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P39"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T12">▄▄▄ ▄ ▄▄▄ ▄▄▄</text:span></text:span></text:p>
@@ -8998,7 +9003,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A2" office:value-type="string">
-      <text:p text:style-name="P46">k</text:p>
+      <text:p text:style-name="P48">k</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
       <text:p text:style-name="P39"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T12">▄▄▄ ▄ ▄▄▄</text:span></text:span></text:p>
@@ -9009,7 +9014,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tabelle1.A9" office:value-type="string">
-      <text:p text:style-name="P46">d</text:p>
+      <text:p text:style-name="P48">d</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B9" office:value-type="string">
       <text:p text:style-name="P39"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T12">▄▄▄ ▄ ▄</text:span></text:span></text:p>
@@ -9024,7 +9029,7 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Um diese Zusammenhänge leichter zu übersehen, wallen wir ein Beispiel aus dem optischen Gebiet. Auch hier ist die Aufnahme eines Wahrnehmungsinbaltes um so leichter, je mehr dieser Inhalt Gestaltcharakter hat.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P16"><draw:frame draw:style-name="fr3" draw:name="Image13" text:anchor-type="as-char" svg:width="17.198cm" svg:height="3.757cm" draw:z-index="32"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P16"><draw:frame draw:style-name="fr3" draw:name="Image13" text:anchor-type="as-char" svg:width="17.198cm" svg:height="3.757cm" draw:z-index="30"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAooAAACOCAIAAAA5GL7kAAAXKUlEQVR4nO2dfYhV1dfHb6lj
        NmXpOA0mOpWWjfbLpl/5UpCJYURl+igUUj29CGmmEmlILwPxJA/28kcRlBiU9qKSVFhSFmHm
        2D++VaaGQhhmLw6mTVlaks955sLFn3c899yz19r7u875fv6Imx7XXnPPPnvttfY63+l67Nix
@@ -9170,7 +9175,7 @@
    <text:p text:style-name="P24"/>
    <text:h text:style-name="P29" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc235_2461086041"/>I. Untersuchung und Kritik der bisherigen Ausbildungsverfahren.<text:bookmark-end text:name="__RefHeading___Toc235_2461086041"/></text:h>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P44">Die analytische Methode</text:p>
+   <text:p text:style-name="P46">Die analytische Methode</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Die Ausbildung für den Hörempfang nach diesen Verfahren beginnt im all<text:span text:style-name="T16">g</text:span>emeinen mit dem Auswendiglernen der optischen Symbole des Morsezeichens. In der Praxis werden die verschiedenartigsten Merkmethoden zum erleichterten Einprägen der Zeichen verwandt.</text:p>
    <text:p text:style-name="P24"/>
@@ -9193,16 +9198,16 @@
     <table:table-column table:style-name="Table3.I"/>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P41"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
+      <text:p text:style-name="P42"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P51">a</text:p>
+      <text:p text:style-name="P53">a</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P40"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P50">a</text:p>
+      <text:p text:style-name="P52">a</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -9211,27 +9216,27 @@
       <text:p text:style-name="P40"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P51">n</text:p>
+      <text:p text:style-name="P53">n</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P40"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P50">n</text:p>
+      <text:p text:style-name="P52">n</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P41"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
+      <text:p text:style-name="P42"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P51">u</text:p>
+      <text:p text:style-name="P53">u</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P40"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄▄▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P50">w</text:p>
+      <text:p text:style-name="P52">w</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -9240,27 +9245,27 @@
       <text:p text:style-name="P40"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P51">d</text:p>
+      <text:p text:style-name="P53">d</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P40"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄▄▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P50">g</text:p>
+      <text:p text:style-name="P52">g</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P41"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
+      <text:p text:style-name="P42"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> </text:span></text:span><text:span text:style-name="Morse_20_Code">▄▄▄</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P51">v</text:p>
+      <text:p text:style-name="P53">v</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P40"><text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄▄▄ ▄▄▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P50">j</text:p>
+      <text:p text:style-name="P52">j</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -9269,7 +9274,7 @@
       <text:p text:style-name="P40"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄ ▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P51">b</text:p>
+      <text:p text:style-name="P53">b</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P40"><text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄▄▄ ▄▄▄ ▄</text:span></text:span></text:p>
@@ -9362,11 +9367,11 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Diese analytische Ausbildungsweise ist heute vielfach schon abgelöst durch eine Methode, die den mühsamen Entwicklungsweg von der Zerlegung des Morsezeichens bis zur akustischen Gestaltwirkung überwunden hat.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P44">Die Klangbildmethode</text:p>
+   <text:p text:style-name="P46">Die Klangbildmethode</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Die Ausbildung beginnt auch hier mit niedrigem Hörtempo, aber das Morsezeichen wird von Anfang an zeitlich kurz zusammengezogen in seinem Charakter als Klangbild geboten. Es wird also so gegeben, wie die Zeichen s der Abb. 5 bis 7, d. h. das Zeichen erhält mm seinem akustischen Eindruck Gestaltcharakter, es wirkt als Klangbild. Die Umstellung von dem zerlegten Zeichen auf die akustische Gestalt des Zeichens wird herbei vermieden. Wie bei der analytischen Methode wird aber auch hier vielfach mit dem Auswendiglernen der optischen Symbole vor dem eigentlichen Beginn des Aufuebmens angefangen oder sie werden gleichzeitig gegeben. Da der Lernende bereits die optischen Symbole beherrscht, wird er auch hier zwangsläufig das gehörte Klangbild über das optische Symbol übersetzen wollen und das bedeutet wieder nichts anderes als ein Zerlegen des gestalteten akustischen Eindrucks im Teile. Das Klangbild muß aber nach dem Vorhergehenden unmittelbar als Ganzheit wirken und in dieser Klangeinheit unmittelbar mit dem Bedeutungsinhalt, dem Buchstaben, verbunden werden. So ist an dieser Stelle die Kenntnis des optischen Symbols, das die Neigung zur Zerlegung des Klangbildes hervorruft oder verstärkt, störend und besser zu vermeiden. Dieses Übersetzen über das optische Symbol wird noch durch eine weitere Erscheinung begünstigt, die aus dieser Methode des Gebens entsteht. Da das Zeichen selbst kurz gegeben wird, kann das langsame Tempo nur durch Vergrößerung der Pausen d zwischen den Zeichen erreicht werden (vgl. Zeichen s Abb. 5 bis 7 bei langsamem Tempo). Während dieser langen Pausen zwischen den einzelnen Klangbildern gewöhnt sich daher der Lernende das Nachdenken über das verklungene Klangbild an. Mit zunehmendem Hörtempo verkürzt sich aber die Pause d zwischen den Klangbildern mehr und mehr und schließlich wird mit fortschreitendem Übungsstand ein Tempo erreicht, bei dem die Pause d so kurz wird, daß das Nachdenken über das soeben gehörte Morsezeichen immer schwieriger und endlich unmöglich geworden ist. Dieser Fall tritt bei einem Hörtempo ein, das um 50 Z/Min. schwankt, bei maß also der Schüler seine psychische Einstellung beim Aufnehmen der Zeichen umstellen, Die Kurven in Abb. 10 zeigen, daß die geschilderten Erscheinungen tatsächlich auf die Ausbildung wesentlichen Einfluß haben. Diese Kurven stellen den Leistungsfortschritt während einer mehrwöchentlichen Ausbildung nach der Klangbildmethode dar. Es sind in Abb. 10 vier solcher Kurven aus einer großen Zahl<text:note text:id="ftn8" text:note-class="footnote"><text:note-citation>8</text:note-citation><text:note-body>
-      <text:p text:style-name="P52">Die Kurven sind freundlicherweise von der Deutschen Verkehrsfliegerschule Braunschweig zur Verfügung gestellt worden.</text:p></text:note-body></text:note> <text:soft-page-break/>herausgegriffen, die aber den allgemeinen typischen Verlauf bei dieser Ausbildung zeigen<text:note text:id="ftn9" text:note-class="footnote"><text:note-citation>9</text:note-citation><text:note-body>
-      <text:p text:style-name="P52">Die gleiche Plateaubildung zeigt sich bei einer von Giese (Methoden der Wirtschaftspsychologie, Handbuch der biologischen Arbeitsmethoden, 1927, auf S. 333) veröffentlichten Kurve von amerikanischen Anlernverfahren. Das Plauteau liegt hier bei ungefähr 60 Z/Min. und erstreckt sich auf etwa 6 Übungswochen.</text:p></text:note-body></text:note>. Die Leistungskurven geben in Abhängigkeit von der Ausbildungsdauer eines Lehrganges die Steigerung im Tempo der Aufnahme an, Diese Ausbildungsdauer ist auf der Abszisse in Wochen aufgetragen, wobei zwar die tägliche Übungszeit eine Rolle spielt; da diese tägliche Ausbildung aber relativ gleich bleibt, kann sie vernachlässigt werden.</text:p>
+   <text:p text:style-name="P24">Die Ausbildung beginnt auch hier mit niedrigem Hörtempo, aber das Morsezeichen wird von Anfang an zeitlich kurz zusammengezogen in seinem Charakter als Klangbild geboten. Es wird also so gegeben, wie die Zeichen s der Abb. 5 bis 7, d. h. das Zeichen erhält mm seinem akustischen Eindruck Gestaltcharakter, es wirkt als Klangbild. Die Umstellung von dem zerlegten Zeichen auf die akustische Gestalt des Zeichens wird herbei vermieden. Wie bei der analytischen Methode wird aber auch hier vielfach mit dem Auswendiglernen der optischen Symbole vor dem eigentlichen Beginn des Auf<text:span text:style-name="T19">n</text:span>e<text:span text:style-name="T19">h</text:span>mens angefangen oder sie werden gleichzeitig gegeben. Da der Lernende bereits die optischen Symbole beherrscht, wird er auch hier zwangsläufig das gehörte Klangbild über das optische Symbol übersetzen wollen und das bedeutet wieder nichts anderes als ein Zerlegen des gestalteten akustischen Eindrucks im Teile. Das Klangbild muß aber nach dem Vorhergehenden unmittelbar als Ganzheit wirken und in dieser Klangeinheit unmittelbar mit dem Bedeutungsinhalt, dem Buchstaben, verbunden werden. So ist an dieser Stelle die Kenntnis des optischen Symbols, das die Neigung zur Zerlegung des Klangbildes hervorruft oder verstärkt, störend und besser zu vermeiden. Dieses Übersetzen über das optische Symbol wird noch durch eine weitere Erscheinung begünstigt, die aus dieser Methode des Gebens entsteht. Da das Zeichen selbst kurz gegeben wird, kann das langsame Tempo nur durch Vergrößerung der Pausen d zwischen den Zeichen erreicht werden (vgl. Zeichen s Abb. 5 bis 7 bei langsamem Tempo). Während dieser langen Pausen zwischen den einzelnen Klangbildern gewöhnt sich daher der Lernende das Nachdenken über das verklungene Klangbild an. Mit zunehmendem Hörtempo verkürzt sich aber die Pause d zwischen den Klangbildern mehr und mehr und schließlich wird mit fortschreitendem Übungsstand ein Tempo erreicht, bei dem die Pause d so kurz wird, daß das Nachdenken über das soeben gehörte Morsezeichen immer schwieriger und endlich unmöglich geworden ist. Dieser Fall tritt bei einem Hörtempo ein, das um 50 Z/Min. schwankt, bei maß also der Schüler seine psychische Einstellung beim Aufnehmen der Zeichen umstellen, Die Kurven in Abb. 10 zeigen, daß die geschilderten Erscheinungen tatsächlich auf die Ausbildung wesentlichen Einfluß haben. Diese Kurven stellen den Leistungsfortschritt während einer mehrwöchentlichen Ausbildung nach der Klangbildmethode dar. Es sind in Abb. 10 vier solcher Kurven aus einer großen Zahl<text:note text:id="ftn8" text:note-class="footnote"><text:note-citation>8</text:note-citation><text:note-body>
+      <text:p text:style-name="P41">Die Kurven sind freundlicherweise von der Deutschen Verkehrsfliegerschule Braunschweig zur Verfügung gestellt worden.</text:p></text:note-body></text:note> <text:soft-page-break/>herausgegriffen, die aber den allgemeinen typischen Verlauf bei dieser Ausbildung zeigen<text:note text:id="ftn9" text:note-class="footnote"><text:note-citation>9</text:note-citation><text:note-body>
+      <text:p text:style-name="P41">Die gleiche Plateaubildung zeigt sich bei einer von Giese (Methoden der Wirtschaftspsychologie, Handbuch der biologischen Arbeitsmethoden, 1927, auf S. 333) veröffentlichten Kurve von amerikanischen Anlernverfahren. Das Plateau liegt hier bei ungefähr 60 Z/Min. und erstreckt sich auf etwa 6 Übungswochen.</text:p></text:note-body></text:note>. Die Leistungskurven geben in Abhängigkeit von der Ausbildungsdauer eines Lehrganges die Steigerung im Tempo der Aufnahme an, Diese Ausbildungsdauer ist auf der Abszisse in Wochen aufgetragen, wobei zwar die tägliche Übungszeit eine Rolle spielt; da diese tägliche Ausbildung aber relativ gleich bleibt, kann sie vernachlässigt werden.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P16"><draw:frame draw:style-name="fr1" draw:name="Frame10" text:anchor-type="as-char" svg:width="11.509cm" draw:z-index="20">
      <draw:text-box fo:min-height="7.541cm">
@@ -10121,35 +10126,35 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">a)</text:p>
+      <text:p text:style-name="P47">a)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">U<text:span text:style-name="T2">mweg Über das optische Symbol I₁ II₁</text:span></text:p>
+      <text:p text:style-name="P47">U<text:span text:style-name="T2">mweg Über das optische Symbol I₁ II₁</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P53">Ausschalten der optischen Symbole.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table2.1">
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">b)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">Z<text:span text:style-name="T2">erfall der akustischen Gestalt des Zeichens I₃</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">Z<text:span text:style-name="T2">eichen in Form des Klangbildes geben.</text:span></text:p>
+      <text:p text:style-name="P43">Ausschalten der optischen Symbole.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">c)</text:p>
+      <text:p text:style-name="P47">b)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">U<text:span text:style-name="T2">mstellung vom Hören des zerlegten Zeichens auf Horen des Klangbildes I₄</text:span></text:p>
+      <text:p text:style-name="P47">Z<text:span text:style-name="T2">erfall der akustischen Gestalt des Zeichens I₃</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">K<text:span text:style-name="T2">langbild sofort bei Beginn der Anlernung geben.</text:span></text:p>
+      <text:p text:style-name="P47">Z<text:span text:style-name="T2">eichen in Form des Klangbildes geben.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P47">c)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P47">U<text:span text:style-name="T2">mstellung vom Hören des zerlegten Zeichens auf Horen des Klangbildes I₄</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P47">K<text:span text:style-name="T2">langbild sofort bei Beginn der Anlernung geben.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
@@ -10174,46 +10179,46 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">a)</text:p>
+      <text:p text:style-name="P47">a)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">R<text:span text:style-name="T2">aten, welches Zeichen kommen könnte I₂</text:span></text:p>
+      <text:p text:style-name="P47">R<text:span text:style-name="T2">aten, welches Zeichen kommen könnte I₂</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">G<text:span text:style-name="T2">eben des Zeichens als Klangbild.</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table2.1">
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">b)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">N<text:span text:style-name="T2">achdenken über das Zeichen während der laugen Pausen II₂</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">G<text:span text:style-name="T2">eben in höherem Tempo.</text:span></text:p>
+      <text:p text:style-name="P47">G<text:span text:style-name="T2">eben des Zeichens als Klangbild.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">c)</text:p>
+      <text:p text:style-name="P47">b)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">U<text:span text:style-name="T2">mstellen vom Nachdenken und Übersetzen auf Bedeutungseinheit zwischen akustischem Zeichen und Buchstaben I₅, II₃</text:span></text:p>
+      <text:p text:style-name="P47">N<text:span text:style-name="T2">achdenken über das Zeichen während der laugen Pausen II₂</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">S<text:span text:style-name="T2">chon bei Beginn der Anlernung hohes Tempo.</text:span></text:p>
+      <text:p text:style-name="P47">G<text:span text:style-name="T2">eben in höherem Tempo.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">d)</text:p>
+      <text:p text:style-name="P47">c)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">U<text:span text:style-name="T2">mstellung im Gesamtrhythmus I₆, II₃,</text:span></text:p>
+      <text:p text:style-name="P47">U<text:span text:style-name="T2">mstellen vom Nachdenken und Übersetzen auf Bedeutungseinheit zwischen akustischem Zeichen und Buchstaben I₅, II₃</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P45">M<text:span text:style-name="T2">it hohem Tempo beginnen und dies beibehalten.</text:span></text:p>
+      <text:p text:style-name="P47">S<text:span text:style-name="T2">chon bei Beginn der Anlernung hohes Tempo.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P47">d)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P47">U<text:span text:style-name="T2">mstellung im Gesamtrhythmus I₆, II₃,</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P47">M<text:span text:style-name="T2">it hohem Tempo beginnen und dies beibehalten.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -10245,7 +10250,7 @@
    <text:p text:style-name="P24">Man denke vergleichsweise an das Beispiel vom Soldaten, der seine Griffe lernt.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Ehrenstein beschreibt diesen Übungsvorgang in seiner „Einführung in die Ganzheitspsychologie“<text:note text:id="ftn10" text:note-class="footnote"><text:note-citation>10</text:note-citation><text:note-body>
-      <text:p text:style-name="P52">Ehrenstein, Einführung in die Ganzheitspsychologie. Leipzig 1934.</text:p></text:note-body></text:note> wie folgt:</text:p>
+      <text:p text:style-name="P41">Ehrenstein, Einführung in die Ganzheitspsychologie. Leipzig 1934.</text:p></text:note-body></text:note> wie folgt:</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">„Zuerst muß der Soldat jede Teilbewegung mit voller Beteiligung des Bewußtseins ausführen. Diese Aufgabe erfordert bei den ersten Übungen in der Regel seine ganze Aufmerksamkeit. Der gut einexerzierte Soldat dagegen kann während der Ausführung des Griffes an irgendetwas anderes denken, ohne daß seine Bewegung dadurch an Genauigkeit einbüßen müßte. Aus bewußt ausgeführten Bewegungsfolgen entstehen unbewußt ablaufende Einstellungsganzheiten. Der biologische Zweck aller Übung ist in der Entlastung des Bewußtseins durch unbewußt arbeitende Einstellungen zu suchen.“</text:p>
    <text:p text:style-name="P24"/>
@@ -10256,7 +10261,7 @@
    <text:p text:style-name="P24">Diese Tempogestaltung bat außerdem noch Einfluß auf de Frage nach der Bedeutung des Rhythmus für die Anlernung. Von einem gewissen Tempo an bieten sich die Morsezeichen dem Ohr als eine taktmäßig gegliederte Reizfolge. Das regelmäßige Auf und Ab sich folgender Morsezeichen und Pausen erzeugt beim Hörenden einen die Klangbilder begleitenden Rhythmus.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Es ist bekannt, daß bei allen Arbeitsvorgängen der Rhythmus fördernd wirkt, da er die Arbeitsantriebe erleichtert<text:note text:id="ftn11" text:note-class="footnote"><text:note-citation>11</text:note-citation><text:note-body>
-      <text:p text:style-name="P52">Bücher, Arbeit und Rhythmus. Leipzig 1924.</text:p></text:note-body></text:note>, So wird auch hier der Rhythmus, der durch die Folge der Zeichen in bestimmtem Tempo entsteht, die Leistung günstig beeinflussen können, falls die Anlernverhältnisse diese Wirkungen günstig gestalten. Das ist aber bei allen bisherigen Methoden nicht der Fall. Durch das Geben in bestimmtem Tempo wird dem Lernenden ein Rhythmus aufgezwungen, der nicht in jedem Falle seiner eigenen psychischen Anlage, seinem Eigenrhythmus zu entsprechen braucht. In diesem Falle muß sich der Lernende allmählich auf diesen Rhythmus einstellen, bis der Rhythmus überhaupt fordernde Wirkungen ausüben kann. Ist diese Einstellung noch nicht er<text:span text:style-name="T15">f</text:span>olgt, so kann der aufgezwungene Rhythmus sogar störend wirken. Wenn nun bei den bisherigen Anlernverfahren bei der allmählichen Temposteigerung auch immer wieder der Rhythmus geändert wird, so muß der Lernende auch hier immer wieder Umstellungen vornehmen, die wiederum die Anlernung erschweren und daher auch verlängern.</text:p>
+      <text:p text:style-name="P41">Bücher, Arbeit und Rhythmus. Leipzig 1924.</text:p></text:note-body></text:note>, So wird auch hier der Rhythmus, der durch die Folge der Zeichen in bestimmtem Tempo entsteht, die Leistung günstig beeinflussen können, falls die Anlernverhältnisse diese Wirkungen günstig gestalten. Das ist aber bei allen bisherigen Methoden nicht der Fall. Durch das Geben in bestimmtem Tempo wird dem Lernenden ein Rhythmus aufgezwungen, der nicht in jedem Falle seiner eigenen psychischen Anlage, seinem Eigenrhythmus zu entsprechen braucht. In diesem Falle muß sich der Lernende allmählich auf diesen Rhythmus einstellen, bis der Rhythmus überhaupt fordernde Wirkungen ausüben kann. Ist diese Einstellung noch nicht er<text:span text:style-name="T15">f</text:span>olgt, so kann der aufgezwungene Rhythmus sogar störend wirken. Wenn nun bei den bisherigen Anlernverfahren bei der allmählichen Temposteigerung auch immer wieder der Rhythmus geändert wird, so muß der Lernende auch hier immer wieder Umstellungen vornehmen, die wiederum die Anlernung erschweren und daher auch verlängern.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Bei dem neuen Verfahren wird das Tempo und damit auch der Rhythmus über die ganze Ausbildung gleich gehalten, so daß diese Umstellungshemmungen fortfallen.</text:p>
    <text:p text:style-name="P24"/>
@@ -10292,7 +10297,7 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Das Ausbildungsverfahren verwendet einen Vordruck “um Niederschreiben der Buchstaben nach folgender Anordnung:</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P16"><draw:frame draw:style-name="fr4" draw:name="Image14" text:anchor-type="as-char" svg:width="17.59cm" svg:height="5.495cm" draw:z-index="33"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P16"><draw:frame draw:style-name="fr4" draw:name="Image14" text:anchor-type="as-char" svg:width="17.59cm" svg:height="5.495cm" draw:z-index="31"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAq0AAADWCAIAAAB0RCzXAAAyv0lEQVR4nO2deXgUxdr26xCy
        yBIRiBFIBE8UWVQEWRQv8QJcQDwgkKN4IgQQAhh4WRUUUUDBg+IFAooIUeCAhkVBJSCb2wEx
        BAKJ4QiibIEACchmQghJ/OpNv8w3Z6anZ6a7puu5J/X7gytTTNfcc1c9VU9Xd/VU/fPPP5lC
@@ -10566,7 +10571,7 @@
    <text:p text:style-name="P24">Es ist zu erkennen, daß die akustische Gestalt des Klangbildes durch diese Tonverschiedenheit von Punkt und Strich besonders hervorgehoben wird. Damit wird sowo<text:span text:style-name="T15">h</text:span>l die Unterscheidung der verschiedenen Klangbilder erleichtert, wie auch gleichzeitig die Bildung der sofortigen Bedeutungseinheit zwischen akustischen Zeichen und Buchstaben (Zahl, Interpunktion) gefördert.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24"><text:soft-page-break/>Diese Überlegungen führten zu dem Versuch, nicht erst auf dem Umweg über das Lautieren diese charakteristische Formung des Morsezeichens zu erreichen, sondern dadurch, daß das Zeichen selbst melodiehaft gestaltet wurde, indem Punkte und Striche in verschiedenen Tonhöhen gegeben werden<text:note text:id="ftn12" text:note-class="footnote"><text:note-citation>12</text:note-citation><text:note-body>
-      <text:p text:style-name="P52">Die Anregung zu diesem Versuch wurde von Herrn Dr. Ing. Hanenberg gegeben.</text:p></text:note-body></text:note>. Das Geben in zwei verschiedenen Tonhöhen wurde durch eine mechanische Gebeeinrichtung erreicht, die weiter unten (S. 67) beschrieben wird. Der Strich wird dabei in etwas höherem Ton gegeben als der Punkt, jedoch darf der Tonunterschied nur klein sein, um das Klangbild nicht zu stark zu verändern und die spätere Überführung auf einen Ton nicht zu erschweren.</text:p>
+      <text:p text:style-name="P41">Die Anregung zu diesem Versuch wurde von Herrn Dr. Ing. Hanenberg gegeben.</text:p></text:note-body></text:note>. Das Geben in zwei verschiedenen Tonhöhen wurde durch eine mechanische Gebeeinrichtung erreicht, die weiter unten (S. 67) beschrieben wird. Der Strich wird dabei in etwas höherem Ton gegeben als der Punkt, jedoch darf der Tonunterschied nur klein sein, um das Klangbild nicht zu stark zu verändern und die spätere Überführung auf einen Ton nicht zu erschweren.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Es ist nämlich nicht erforderlich, diese Zweitonmethode bis zu<text:span text:style-name="T15">m</text:span> Ende der Ausbildung beizubehalten. Das Zweitonverfahren dient lediglich dazu, dem Anfänger die Einführung in die Tätigkeit der Höraufnahme zu erleichtern. Nach einem gewissen fortgeschrittenen Stande der Ausbildung wird man wieder auf einen Ton zurückgehen. Wir nähern daher allmählich, für den Lernenden unmerklich, die beiden Töne immer mehr aneinander bis nur ein Ton erklingt. Bei unseren Kursen haben wir ungefähr ein Drittel bis die Hälfte des Ausbildungspensums im Zweitonverfahren gegeben, dann wurde allmählich auf einen Ton zurückgeschaltet. Selbstverständlich wäre es nicht falsch, die ganze Ausbildung bei 60 Z/Min. im Zweitonverfahren durchzuführen, denn das Umschalten auf einen Ton bereitet später keine Schwierigkeiten. Jedoch genügt es nach unseren Erfahrungen schon, wenn die Ausbildung im Zweitonverfahren nur im ersten Teil der Anlernung verwendet wird, da der Lernende, wenn er einmal an diese melodische Wirkung des Zeichens gewöhnt ist, auch bei einem Ton die Melodie immer subjektiv hineinhört und damit selbst das Klangbild charakteristisch gestaltet.</text:p>
    <text:p text:style-name="P24"/>
@@ -10597,7 +10602,7 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Die auf Grund dieser Überlegungen und sonstigen praktischen Erfahrungen für unser Verfahren gewählte Reihenfolge der Buchstaben ist auf S. 56 gegeben.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Tritt in der Reibe der so nacheinander einzuführenden Buchstaben nur ein solcher auf, der größere Schwierigkeiten bereitet, so wird dadurch das Tempo der Ausbildung an dieser Stelle verlangsamt, da <text:soft-page-break/>längere Zeit bis zur völligen Festigung des Z<text:span text:style-name="T15">e</text:span>ichens benötigt wird. Aus diesem Grunde werden in den Leistungskurven der Ausbildung an diesen Stellen kleine Plateaubildungen auftreten (vgl. Abb. 11). Diese beruhen aber nicht wie bei den bisherigen Verfahren auf grundsätzlichen Schwierigkeiten der Umstellung und ähnlichen früher schon behandelten Faktoren. Sie haben ihren Grund nur in den Schwierigkeiten bei der Erfassung schwierigerer Buchstaben, die in der Natur der Sache hegen und nicht zu vermeiden, höchstens in ihrem Auswirkungs<text:span text:style-name="T14">aff</text:span>umfang entsprechend den vorher erwähnten Maßnahmen zu beeinflussen sind.</text:p>
+   <text:p text:style-name="P24">Tritt in der Reibe der so nacheinander einzuführenden Buchstaben nur ein solcher auf, der größere Schwierigkeiten bereitet, so wird dadurch das Tempo der Ausbildung an dieser Stelle verlangsamt, da <text:soft-page-break/>längere Zeit bis zur völligen Festigung des Z<text:span text:style-name="T15">e</text:span>ichens benötigt wird. Aus diesem Grunde werden in den Leistungskurven der Ausbildung an diesen Stellen kleine Plateaubildungen auftreten (vgl. Abb. 11). Diese beruhen aber nicht wie bei den bisherigen Verfahren auf grundsätzlichen Schwierigkeiten der Umstellung und ähnlichen früher schon behandelten Faktoren. Sie haben ihren Grund nur in den Schwierigkeiten bei der Erfassung schwierigerer Buchstaben, die in der Natur der Sache hegen und nicht zu vermeiden, höchstens in ihrem Auswirkungsumfang entsprechend den vorher erwähnten Maßnahmen zu beeinflussen sind.</text:p>
    <text:p text:style-name="P24"/>
    <text:h text:style-name="P32" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc263_2461086041"/>β) Unterscheidung ähnlicher Buchstaben.<text:bookmark-end text:name="__RefHeading___Toc263_2461086041"/></text:h>
    <text:p text:style-name="P24"/>
@@ -10614,7 +10619,7 @@
    <text:p text:style-name="P34">Der Strich ertönt ja dreifach länger als der Punkt, so daß auch die Unterscheidung von drei und vier Strichen bei hohem Tempo leichter möglich ist, als bei drei und vier Punkten. Aus dein gleichen Grunde entstehen auch weniger Schwierigkeiten beim Auseinanderhalten der Klangbilder z. B. für die Buchstaben g <text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄▄▄ ▄</text:span></text:span> und 6 <text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄ ▄ ▄ ▄</text:span></text:span> oder w <text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄▄▄ ▄▄▄</text:span></text:span> und j <text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄▄▄ ▄▄▄ ▄▄▄</text:span></text:span>. Solche Zeichen, deren optisches Symbol Spiegelbilder sind, geben trotz ihrer optischen Ähnlichkeit als akustische Gestalten nur wenig Verwechslungsmöglichkeit. Zeichen wie v <text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄ ▄ ▄▄▄</text:span></text:span> und b <text:span text:style-name="Morse_20_Code">▄▄▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄ ▄ ▄</text:span></text:span> sind in ihren Klangbildern zu sehr unterschiedlich, als daß sie verwechselt werden könnten,</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24"><text:soft-page-break/>Wenn daher gelegentlich geschlossen wird, da diese ähnlich und daher schwer zu unterscheiden wären<text:note text:id="ftn13" text:note-class="footnote"><text:note-citation>13</text:note-citation><text:note-body>
-      <text:p text:style-name="P52">Biegel, Eine Eignungsprüfung für Funkentelegraphisten, PsychotechnZ, Jg. 6, H. 2 1931</text:p></text:note-body></text:note>, so verfällt man wieder in den Fehler, vom optischen Symbol, statt von der akustischen Gestalt auszugehen.</text:p>
+      <text:p text:style-name="P41">Biegel, Eine Eignungsprüfung für Funkentelegraphisten, PsychotechnZ, Jg. 6, H. 2 1931</text:p></text:note-body></text:note>, so verfällt man wieder in den Fehler, vom optischen Symbol, statt von der akustischen Gestalt auszugehen.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P34">Um für den Lernenden bei der Einführung in die Tätigkeit der Höraufnahme unnötige Schwierigkeiten zu vermeiden, muß auch die Frage der Unterscheidung ähnlicher Buchstaben in der Reihenfolge der zuzuschaltenden Buchstaben berücksichtigt werden. Wenn die Ausbildung mit ähnlich klingenden Zeichen einsetzt, so werden unnötigerweise gleich am Anfang an die Konzentration, die der Lernende aufzubringen hat, besonders hohe Anforderungen gestellt. War haben einen solchen Versuch in der Form durchgeführt, da die Anlernung mit der Darbietung der Zeichen für e (<text:span text:style-name="Morse_20_Code">▄</text:span>), i (<text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄</text:span></text:span>), s (<text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄ ▄</text:span></text:span>), h (<text:span text:style-name="Morse_20_Code">▄</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T10"> ▄ ▄ ▄</text:span></text:span>) begann. Man könnte annehmen, daß dadurch gerade im Anfang das Ohr im Unterscheiden feiner Unterschiede besonders gut geschult würde. Es bat sich jedoch gezeigt, daß dabei eben die negativen Wirkungen, die aus den großen Anforderungen an die Konzentration entstehen, die Vorteile einer solchen Hörschulung übertreffen. Aus diesem Grunde wird man das Anlernen besser mit Zeichen beginnen, die sich <text:span text:style-name="T14">m</text:span>erkbar voneinander abheben. Allmählich hört der Lernende die Feinheiten der Unterschiede von Klangbildern schärfer heraus und sein Gehör wird auf diese Weise im Laufe der fortschreitenden Ausbildung auf das Heraushören der Unterschiede geschult.</text:p>
    <text:p text:style-name="P24"/>
@@ -10639,7 +10644,7 @@
    <text:p text:style-name="P24">Diese Überlegungen führen überhaupt dazu, auch beim Erlernen der Morsezeichen die in Betracht kommenden Erkenntnisse aus der psychologischen Untersuchung des Gedächtnisses und des Lernens zu berücksichtigen,</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Für den vorlegenden Zweck interessieren vor allem die Ergebnisse über die Wirkung der Wiederholungen und ihre Verteilung auf den Lernerfolg. So bat z. B. Jost<text:note text:id="ftn14" text:note-class="footnote"><text:note-citation>14</text:note-citation><text:note-body>
-      <text:p text:style-name="P52">Jost, Die Assoziationsfähigkeit in ihrer Abhängigkeit von der Verteilung der Wiederholungen. ZPsyehol 14. 1897.</text:p></text:note-body></text:note> gefunden:</text:p>
+      <text:p text:style-name="P41">Jost, Die Assoziationsfähigkeit in ihrer Abhängigkeit von der Verteilung der Wiederholungen. ZPsyehol 14. 1897.</text:p></text:note-body></text:note> gefunden:</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">„Je mehr man eine Anzahl von Wiederholungen verteilt, zeitlich auseinanderzieht, desto schneller erlernt man und desto besser behält man.“</text:p>
    <text:p text:style-name="P24"/>
@@ -10655,22 +10660,22 @@
     <table:table-column table:style-name="Table1.G"/>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P46">auf</text:p>
+      <text:p text:style-name="P48">auf</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P48">3</text:p>
+      <text:p text:style-name="P50">3</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P46">Tage</text:p>
+      <text:p text:style-name="P48">Tage</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P46">zu</text:p>
+      <text:p text:style-name="P48">zu</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P46">je</text:p>
+      <text:p text:style-name="P48">je</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P48">8</text:p>
+      <text:p text:style-name="P50">8</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P21">Wiederholungen</text:p>
@@ -10681,7 +10686,7 @@
       <text:p text:style-name="P21">„</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P48">6</text:p>
+      <text:p text:style-name="P50">6</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P21">„</text:p>
@@ -10693,7 +10698,7 @@
       <text:p text:style-name="P21">„</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P48">4</text:p>
+      <text:p text:style-name="P50">4</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P21">„</text:p>
@@ -10704,7 +10709,7 @@
       <text:p text:style-name="P21">„</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P48">12</text:p>
+      <text:p text:style-name="P50">12</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P21">„</text:p>
@@ -10716,7 +10721,7 @@
       <text:p text:style-name="P21">„</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P48">2</text:p>
+      <text:p text:style-name="P50">2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P21">„</text:p>
@@ -10749,7 +10754,7 @@
    <text:p text:style-name="P24">Die Ausbildung schritt dann in der Art fort, da in den aufeinanderfolgenden Übungsstunden der bereits beherrschte Stoff immer erst wiederholt wurde. Es erwies sich dabei — wie auch in anderen Fällen —, daß das bereits einmal Gelernte bei der ersten Wiederholung lebhaft aufgenommen wird.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Jeder Übungserfolg — ganz gleich um welche Art der Übung es sich handelt — steigt erst schnell, dann langsam an<text:note text:id="ftn15" text:note-class="footnote"><text:note-citation>15</text:note-citation><text:note-body>
-      <text:p text:style-name="P52">Rupp, Psych. Grundlagen der Anlernung. PsychZ, Jg. 2, H. 2. 1927.</text:p></text:note-body></text:note>. Es ist natürlich nicht möglich, daß in der zweiten Übungsstunde von jeden Lernenden abermals drei oder vier neue Klangbilder hinzugenommen werden können.</text:p>
+      <text:p text:style-name="P41">Rupp, Psych. Grundlagen der Anlernung. PsychZ, Jg. 2, H. 2. 1927.</text:p></text:note-body></text:note>. Es ist natürlich nicht möglich, daß in der zweiten Übungsstunde von jeden Lernenden abermals drei oder vier neue Klangbilder hinzugenommen werden können.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Wenn der durchschnittliche Auffassungsumfang des Lernenden so groß wäre, dann würden wir ja z. B. bei 30 einzuübenden Morsezeichen mit 10 Wiederholungen bereits am Ziele sein können.</text:p>
    <text:p text:style-name="P24"/>
@@ -11743,8 +11748,8 @@
    <text:p text:style-name="P24">Aus dem Verlauf der Kurven ist zu ersehen, daß die Ausbildung bei dem Zweitonverfahren 24 Halbstunden, bei dem parallellaufenden Eintonverfahren 27 Halbstunden beanspruchte. Die Vpn. waren in bezug auf Eignung annähernd gleichwertig.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P38">Wenn man die Leistungskurven beider parallellaufender Lehrgänge vergleicht, so ist festzustellen, du die Kurve für die Zweitonausbildung vor allem im Anfang steiler ansteigt, als die für das Eintonverfahren. Dieser Anstieg erklärt sich aus der Konzentrationsentlastung des Lernenden durch die verstärkte Klang: bildwirkung des Morsezeichens nach dem Zweitonverfahren, die sich ja auch besonders beim Beginn der Ausbildung auswirkte.</text:p>
-   <text:p text:style-name="P43">Buchstabenfolge im Anlernversuch</text:p>
-   <text:p text:style-name="P16"><draw:frame draw:style-name="fr3" draw:name="Image15" text:anchor-type="as-char" svg:width="14.87cm" svg:height="21.544cm" draw:z-index="30"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P45">Buchstabenfolge im Anlernversuch</text:p>
+   <text:p text:style-name="P16"><draw:frame draw:style-name="fr3" draw:name="Image15" text:anchor-type="as-char" svg:width="14.87cm" svg:height="21.544cm" draw:z-index="32"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAjIAAAOJCAIAAACI1F8MAAKdIklEQVR4nOyddXhbx/a1dduG
        mRrmpEnDzAwNc8MMDjMzMzPHYWZmcNBhZmZwmMFtv/d35rn6FEtnzsiWbKX3rD/yyO1oNLD3
        XmsfmP3LP//8YzFhwoQJEyY8A7+E9ABMmDBhwoSJ/w+TlkyYMGHChAfBpCUTJkyYMOFBMGnJ
@@ -14923,9 +14928,9 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P43">Buchstabenfolge</text:p>
+   <text:p text:style-name="P45">Buchstabenfolge</text:p>
    <text:p text:style-name="P21">beim Anlernkursus I (s. Abb. 11)</text:p>
-   <text:p text:style-name="P16"><draw:frame draw:style-name="fr3" draw:name="Image16" text:anchor-type="as-char" svg:width="10.821cm" svg:height="8.625cm" draw:z-index="31"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P16"><draw:frame draw:style-name="fr3" draw:name="Image16" text:anchor-type="as-char" svg:width="10.821cm" svg:height="8.625cm" draw:z-index="33"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAZkAAAFGCAIAAAA3r3VjAACYsElEQVR4nO29dXwUSffGO/su
        uyxuiy2L6+Lu7u7u7u7u7u5uwd1Z3N3dHRIgEFyWvd/bdbfv/JJMdc0kEyDU80c+PVDdXXLO
        c55T3V0V4t9//7VpaGhofOcI8bUroKGhoREI0FymoaERHKC5TENDIzhAc5mGhkZwwDfBZc+f
@@ -16329,7 +16334,7 @@
    <text:p text:style-name="P24">Berücksichtigt man noch, daß die Ausbildung, von der die Kurven in Abb. 10 stammen, in ganz regelmäßigem schulmäßigen Betrieb, also unter wesentlich günstigeren Bedingungen als bei unseren Kursen stattfanden, so ergibt sich daraus eine recht erhebliche Überlegenheit des neuen Verfahrens.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Das Gleiche zeigt sich, wenn man den bei diesem Verfahren benötigten Zeitaufwand vergleicht mit den in Ausbildungsvorschriften für Funker auf verschiedenen Gebieten auf Grund langer Erfahrung festgesetzten Ausbildungszeiten, denn auch diese sehen ganz wesentlich längere Übungszeiten vor<text:note text:id="ftn16" text:note-class="footnote"><text:note-citation>16</text:note-citation><text:note-body>
-      <text:p text:style-name="P52">Vgl. Angabe von Giess, Methoden der Wirtschaftspsychologie im Handbuch der biologischen Arbeitsmethoden, Berlin-Wien 1927, über die Untersuchungen von Bryan und Harter.</text:p></text:note-body></text:note>.</text:p>
+      <text:p text:style-name="P41">Vgl. Angabe von Gies<text:span text:style-name="T19">e</text:span>, Methoden der Wirtschaftspsychologie im Handbuch der biologischen Arbeitsmethoden, Berlin-Wien 1927, über die Untersuchungen von Bryan und Harter.</text:p></text:note-body></text:note>.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Dabei ist besonders zu betonen, daß diese Überlegenheit nicht durch besonders starke Beanspruchung des Funkschülers erreicht wird, sondern im Gegenteil dadurch, daß infolge der Anpassung der Anlernmethode au die psychische Struktur des Menschen alle unnötigen Hemmungen beseitigt werden, die, wie festgestellt wurde, vor allen in den verschiedenen Umstellungsvorgängen bei dem Tempo 60 Z/Min. legen.</text:p>
    <text:p text:style-name="P24"><text:soft-page-break/></text:p>
@@ -16345,12 +16350,12 @@
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Die Eignungsuntersuchungen gehen vielfach so vor — früher noch stärker als heute —, daß die verschiedenen Anlagerichtungen für sich mit jeweils besonders auf diese Anlagen eingestellten Aufgaben untersucht und diese dann in Verbindung mit der Gesamtgestaltung der Persönlichkeit gebracht werden.</text:p>
    <text:p text:style-name="P24"/>
-   <text:p text:style-name="P24">Wenn man trotz der immer vorhandenen Einheit der Persönlichkeit doch solche einzelnen Anlagen untersucht, so hat dies seinen Grund darin, da im allgemeinen bei dem verschiedenerlei Berufstätigkeiten des -gleiehen Berufes die erforderlichen Grundanlagen in den verschiedensten Wirkungszusammenhängen auftreten können. Soll z. B. ein Tischler ein Teilstück eines Gegenstandes bearbeiten, so ist die Leistung wesentlich bedingt durch seine Handgeschicklichkeit. Macht er dagegen einen Entwurf für einen herzustellenden Gegenstand, so treten andere Anlagen in Funktion, vor allem räumliches Vorstellungsvermögen und technisch-konstruktives Denken. Beide Anlagegruppen, also sowohl Handgeschicklichkeit als auch technisches Denken treten jedoch in einem Wirkungszusammenhang auf beim Zusammenbau eines Fertigungsgegenstandes.</text:p>
+   <text:p text:style-name="P24">Wenn man trotz der immer vorhandenen Einheit der Persönlichkeit doch solche einzelnen Anlagen untersucht, so hat dies seinen Grund darin, da im allgemeinen bei dem verschiedenerlei Berufstätigkeiten des -glei<text:span text:style-name="T19">c</text:span>hen Berufes die erforderlichen Grundanlagen in den verschiedensten Wirkungszusammenhängen auftreten können. Soll z. B. ein Tischler ein Teilstück eines Gegenstandes bearbeiten, so ist die Leistung wesentlich bedingt durch seine Handgeschicklichkeit. Macht er dagegen einen Entwurf für einen herzustellenden Gegenstand, so treten andere Anlagen in Funktion, vor allem räumliches Vorstellungsvermögen und technisch-konstruktives Denken. Beide Anlagegruppen, also sowohl Handgeschicklichkeit als auch technisches Denken treten jedoch in einem Wirkungszusammenhang auf beim Zusammenbau eines Fertigungsgegenstandes.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Im Gegensatz zu einer solchen Berufstätigkeit, die in den Einzeltätigkeiten des Berufes vielfältig ist, sehen wir bei der Haupttätigkeit des Funkers, die im Aufnehmen und Geben der Morsezeichen besteht, immer wieder den gleichen Arbeitsablaut. Diese Haupttätigkeit ist dadurch charakterisiert, daß eine Reihe von Einzelanlagen immer in dem gleichen bestimmten Wirkungskomplex vorhanden sein müssen, wobei es nicht nur darauf ankommt, da die Einzelanlagen an sich vorhanden sind, sondern daß sie in diesem für die Berufstätigkeit des Funkers typischen Gesamtkomplex auftreten. Daher liegt auch der Grundgedanke nahe, nicht die Einzelanlagen in einer Eignungsuntersuchung festzustellen, sondern in einer wirklichkeitsnahen Komplexprobe die Einstellungsfähigkeit auf diesen Gesamtkomplex zu prüfen. Betrachtet man von diesem Grundgedanken aus die bisherigen Verfahren der Eignungsuntersuchung, so ergibt sich folgendes.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24"><text:soft-page-break/>Die in der Literatur veröffentlichten älteren Abhandlungen über „Eignungsprüfung von Funkern“<text:note text:id="ftn17" text:note-class="footnote"><text:note-citation>17</text:note-citation><text:note-body>
-      <text:p text:style-name="P42"><text:span text:style-name="T2">Klutke, Psychotechnische Eignungsprüfung für Funker. ZPraktischerPs 4. 1923. </text:span><text:span text:style-name="T3">—</text:span><text:span text:style-name="T2"> Lapmann, Die psychische Eignung des Funkentelegraphisten, SchPsBeruf, H. 9. 1919.</text:span></text:p></text:note-body></text:note> unters<text:span text:style-name="T14">u</text:span>chen gesondert Einzelanlagen, die zur Funkertätigkeit erforderlich sind. Diese Arbeiten berücksichtigen nicht oder zu wenig, da<text:span text:style-name="T13">ß</text:span> die <text:span text:style-name="T14">v</text:span>orbau denen Grundlagen nur von Bedeutung sein können, wenn sie in den erforderlichen Wirkungszusammenhang treten können. Die Sicherheit der Diagnose wird daher bei einer solchen Methode beeinträchtigt sein können.</text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T2">Klutke, Psychotechnische Eignungsprüfung für Funker. ZPraktischerPs 4. 1923. </text:span><text:span text:style-name="T3">—</text:span><text:span text:style-name="T2"> Lapmann, Die psychische Eignung des Funkentelegraphisten, SchPsBeruf, H. 9. 1919.</text:span></text:p></text:note-body></text:note> unters<text:span text:style-name="T14">u</text:span>chen gesondert Einzelanlagen, die zur Funkertätigkeit erforderlich sind. Diese Arbeiten berücksichtigen nicht oder zu wenig, da<text:span text:style-name="T13">ß</text:span> die <text:span text:style-name="T14">v</text:span>orbau denen Grundlagen nur von Bedeutung sein können, wenn sie in den erforderlichen Wirkungszusammenhang treten können. Die Sicherheit der Diagnose wird daher bei einer solchen Methode beeinträchtigt sein können.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Eine Arbeit, die bereits eine Untersuchung der Ganzheit der psychischen Erscheinungen beim Hörempfang als Grundlage wählt, ist die Eignungsprüfung für Funker von Biegel¹.</text:p>
    <text:p text:style-name="P24"/>
@@ -16377,7 +16382,7 @@
    <text:p text:style-name="P24">Die Vorteile einer Eignungsprüfung nach dem vorliegenden Verfahren beruhen vor allem in der großen Sicherheit des Verfahrens, die sich darin zeigt, daß bei den vielen ausgebildeten Personen (ca. 100) keine der auf Grund der ersten zwei Halbstunden gestellten Diagnosen zu einem Fehlurteil führte. Ein weiterer Vorzug ist in der Einfachheit der Untersuchung und ihrer Hilfsmittel zu erblicken, da keinerlei Apparatur erforderlich ist außer der Höranlage, die für die Anlernung schon vorhanden ist. Nach Entwicklung dieses Verfahrens erscheint es jedoch noch notwendig, auf die anfangs erwähnte Eignungsprüfung von Biegel näher einzugehen, weil hier bereits eine Untersuchung der Gesamtheit der psychischen Vorgänge beim Hörempfang vorlegt.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24"><text:soft-page-break/>Biegel<text:note text:id="ftn18" text:note-class="footnote"><text:note-citation>18</text:note-citation><text:note-body>
-      <text:p text:style-name="P52">Biegel. Eine Eignungsprüfung für Funkentelegraphisten, PsychotechnZ, J. 6, H. 2. 1931.</text:p></text:note-body></text:note> beginnt die Eignungsprüfung mit Darbietung von drei Klangbildern bei einem Hörtempo, das bei etwa 40 Z/Min. liegt. Das Tempo wird dann in 5 verschiedenen Stufen gesteigert bis zu einer Tempo von 90 Z/Min. Die Zeichen werden hierbei, nach unserer Einstellung durchaus richtig, gleich als Klangbilder gegeben. Bei dem Anfangstempo treten noch keine groben Schwierigkeiten im Aufnehmen der Hörfolge auf, denn die Pause d zwischen 2 Klangbildern beträgt 1 Sek. und der Prüfling kann in dieser Zeit durch Nachdenken das Zeichen richtig erfassen. Mit zunehmendem Tempo wird aber das Nachdenken in der Pause d immer weniger möglich sein. Wir hatten vorhergehend entwickelt, daß sich aus diesen Gründen bei den heute noch üblichen Anlernverfahren in einem bestimmten Tempobereich (um Tempo 50 Z/Min.) eine grundsätzliche, langwierige Umstellung bei dem Lernenden vollziehen muß (S. 32). Ja, diese Umstellungsphase der Ausbildung bedeutet für manche eben letzten Endes ungeeignete Personen unüberwindliche Schwierigkeiten. Nach einer Ausbildungszeit, die bis zu diesem Umstellungstempo bereits Wochen gedauert hat, muß der Lernende schließlich erkennen, daß er den Forderungen des praktischen Funkverkehrs nicht genügt. Insofern als im Funkverkehr mit Geschwindigkeiten im Hören und Geben gerechnet wird, die über der Plateaubildung der Hörkurve legen, können und müssen grundsätzlich die psychischen Bedingungen dieser hohen Geschwindigkeit allem als Voraussetzung für die Eignung bestimmend sein.</text:p>
+      <text:p text:style-name="P41">Biegel. Eine Eignungsprüfung für Funkentelegraphisten, PsychotechnZ, J. 6, H. 2. 1931.</text:p></text:note-body></text:note> beginnt die Eignungsprüfung mit Darbietung von drei Klangbildern bei einem Hörtempo, das bei etwa 40 Z/Min. liegt. Das Tempo wird dann in 5 verschiedenen Stufen gesteigert bis zu einer Tempo von 90 Z/Min. Die Zeichen werden hierbei, nach unserer Einstellung durchaus richtig, gleich als Klangbilder gegeben. Bei dem Anfangstempo treten noch keine groben Schwierigkeiten im Aufnehmen der Hörfolge auf, denn die Pause d zwischen 2 Klangbildern beträgt 1 Sek. und der Prüfling kann in dieser Zeit durch Nachdenken das Zeichen richtig erfassen. Mit zunehmendem Tempo wird aber das Nachdenken in der Pause d immer weniger möglich sein. Wir hatten vorhergehend entwickelt, daß sich aus diesen Gründen bei den heute noch üblichen Anlernverfahren in einem bestimmten Tempobereich (um Tempo 50 Z/Min.) eine grundsätzliche, langwierige Umstellung bei dem Lernenden vollziehen muß (S. 32). Ja, diese Umstellungsphase der Ausbildung bedeutet für manche eben letzten Endes ungeeignete Personen unüberwindliche Schwierigkeiten. Nach einer Ausbildungszeit, die bis zu diesem Umstellungstempo bereits Wochen gedauert hat, muß der Lernende schließlich erkennen, daß er den Forderungen des praktischen Funkverkehrs nicht genügt. Insofern als im Funkverkehr mit Geschwindigkeiten im Hören und Geben gerechnet wird, die über der Plateaubildung der Hörkurve legen, können und müssen grundsätzlich die psychischen Bedingungen dieser hohen Geschwindigkeit allem als Voraussetzung für die Eignung bestimmend sein.</text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P24">Gerade diese grundsätzlichen und entscheidenden Gesichtspunkte übersieht nun aber die Biegelsche Methode trotz mancher richtiger Ansätze. Es mag dies wohl darin begründet sein, daß Biegel ihre Eignungsuntersuchungen nicht auf so eingehenden Studien aller Vorginge beim Hörempfang aufgebaut hat, wie dies in der vorliegenden Untersuchung geschehen ist. Zunächst ist festzustellen, daß eine brauchbare Leistung bei den Eignungsproben Biegels mit niedrigem Tempo für die Leistung bei höherem in der Praxis geforderten Tempo keine eindeutige Prognose ermöglicht.</text:p>
    <text:p text:style-name="P24"/>
