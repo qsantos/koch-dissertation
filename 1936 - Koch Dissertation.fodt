@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-15T21:08:41.125402327</dc:date><meta:editing-duration>PT19H35M51S</meta:editing-duration><meta:editing-cycles>74</meta:editing-cycles><meta:generator>LibreOffice/7.5.6.2$Linux_X86_64 LibreOffice_project/50$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="18" meta:object-count="4" meta:page-count="55" meta:paragraph-count="603" meta:word-count="20068" meta:character-count="143651" meta:non-whitespace-character-count="124125"/></office:meta>
+ <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-16T07:49:37.575280333</dc:date><meta:editing-duration>PT19H41M7S</meta:editing-duration><meta:editing-cycles>75</meta:editing-cycles><meta:generator>LibreOffice/7.5.6.2$Linux_X86_64 LibreOffice_project/50$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="18" meta:object-count="4" meta:page-count="55" meta:paragraph-count="603" meta:word-count="20068" meta:character-count="143651" meta:non-whitespace-character-count="124125"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">232070</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">268436</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">44427</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">19846</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17224</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">13418</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">240462</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">25972</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">273011</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">232070</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">268436</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">44425</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">251913</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">285658</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
-     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">true</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
      <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
@@ -73,7 +73,7 @@
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2085554</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2128863</config:config-item>
    <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
@@ -161,7 +161,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -1869,34 +1869,38 @@
        WgAvAE0AaQBuAC4AjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=
       </office:binary-data>
      </draw:image>
-    </draw:frame><text:s/>betragen; statt absolut berechnet <text:span text:style-name="T13">85 Z/Min.</text:span> ; würde das Tempo relativ auf <draw:frame draw:style-name="fr8" draw:name="Object4" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="4.263cm" svg:height="1cm" draw:z-index="27"><draw:object>
+    </draw:frame><text:s/>betragen; statt absolut berechnet <text:span text:style-name="T13">85 Z/Min.</text:span> ; würde das Tempo relativ auf <draw:frame draw:style-name="fr8" draw:name="Object4" text:anchor-type="as-char" svg:y="-0.621cm" svg:width="3.718cm" svg:height="1cm" draw:z-index="27"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
          <mrow>
-          <mn>85</mn>
-          <mo stretchy="false">⋅</mo>
-          <mfrac>
-           <mn>10</mn>
-           <mi>,</mi>
-          </mfrac>
-         </mrow>
-         <mn>2</mn>
-         <mn>8</mn>
-         <mi>,</mi>
-         <mrow>
-          <mn>4</mn>
+          <mrow>
+           <mn>85</mn>
+           <mo stretchy="false">⋅</mo>
+           <mfrac>
+            <mrow>
+             <mn>10</mn>
+             <mi>,</mi>
+             <mn>2</mn>
+            </mrow>
+            <mrow>
+             <mn>8</mn>
+             <mi>,</mi>
+             <mn>4</mn>
+            </mrow>
+           </mfrac>
+          </mrow>
           <mo stretchy="false">=</mo>
           <mn>100</mn>
          </mrow>
          <mtext>Z/Min.</mtext>
         </mrow>
-        <annotation encoding="StarMath 5.0">85 cdot frac 10,2 8,4 = 100 &quot;Z/Min.&quot;</annotation>
+        <annotation encoding="StarMath 5.0">85 cdot frac {10,2} {8,4} = 100 &quot;Z/Min.&quot;</annotation>
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAagQAADo
-       AwAAXgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAKcQAADnAwAAlQAB
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYYOAADo
+       AwAAXgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAIUOAADnAwAAlQAB
        AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEASAAAAAUAQgAAABAATGliZXJhdGlv
        biBTZXJpZgAAAAAAAKcBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAAAA
        AIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAAAAAAAAYQIAAAIA
@@ -1906,34 +1910,34 @@
        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
-       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
+       AAACADEwpwEAAAAAAgACADEAMACMAAEAAAAAAIsAAQACAAAAHwCKAAEASAAAAAUAQgAAABAA
+       TGliZXJhdGlvbiBTZXJpZgAAAAAAAKcBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMA
+       AAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAAA9
+       BAAAcgEAAAEALGoAAAAAAAEAAQAsAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBIAAAABQBCAAAA
+       EABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApwEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/
+       AwAAAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAA
+       ANwEAAByAQAAAQAy1AAAAAAAAQABADIAjAABAAAAAACLAAEAAgAAAB8AhQABAAUAAAAAAAAA
+       AYQAAQAFAAAAAAAAAACKAAEAQgAAAAUAPAAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAA
+       AAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP//
+       //8AhgABAAQAAAAAAAAAZwABABAAAABGAgAA9wEAALcFAAALAgAAjAABAAAAAACLAAEAAgAA
        AB8AigABAEgAAAAFAEIAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACnAQAAAAAAAAAABQAA
        AAAAAAD/AwAAAAAAAAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
       </office:binary-data>
      </draw:image>
