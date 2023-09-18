@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-17T17:38:46.391328032</dc:date><meta:editing-duration>PT22H59M25S</meta:editing-duration><meta:editing-cycles>81</meta:editing-cycles><meta:generator>LibreOffice/7.5.6.2$Linux_X86_64 LibreOffice_project/50$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="18" meta:object-count="4" meta:page-count="55" meta:paragraph-count="603" meta:word-count="20067" meta:character-count="143650" meta:non-whitespace-character-count="124125"/></office:meta>
+ <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-18T06:27:20.138112618</dc:date><meta:editing-duration>PT23H5M6S</meta:editing-duration><meta:editing-cycles>82</meta:editing-cycles><meta:generator>LibreOffice/7.5.6.2$Linux_X86_64 LibreOffice_project/50$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="18" meta:object-count="4" meta:page-count="55" meta:paragraph-count="603" meta:word-count="20067" meta:character-count="143649" meta:non-whitespace-character-count="124124"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">544953</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">573809</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">44427</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">20784</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">20652</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">560373</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">20565</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">579877</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">544953</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">573809</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">44425</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">565736</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">594591</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -73,7 +73,7 @@
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2231703</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2268989</config:config-item>
    <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
@@ -161,7 +161,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -8857,7 +8857,7 @@
    <text:h text:style-name="P35" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc231_2461086041"/>b) Individuelle Gestaltung einzelner Morsezeichen<text:bookmark-end text:name="__RefHeading___Toc231_2461086041"/></text:h>
    <text:p text:style-name="P29">Die eben besprochenen Untersuchungen weisen schon darauf hin, daß innerhalb der gefundenen allgemeinen Gesetzmäßigkeiten auch noch Besonderheiten auftreten, die von der individuellen Eigenart des Gebers abhängig sind und so zu einem typischen, individuell bedingten Klangbild des Morsezeichens Führen, trotzdem es insgesamt seinen ganzheitlichen, gestalteten Charakter behält.</text:p>
    <text:p text:style-name="P29">Es ist im Funkverkehr eine häutig beobachtete Tatsache, daß die Funker auf den verschiedenen Sendestationen sich gegenseitig an der bestimmten Art ihres Gebens erkennen. Jeder Funker hat eine Gebeweise, die für ihn typisch zu nennen ist und von seiner motorischen und rhythmischen Einstellung abhängt.</text:p>
-   <text:p text:style-name="P29">Infolgedessen wird auch das subjektiv gegebene Zeichen in seinem akustischen Eindruck auch bei Geschwindigkeiten, bei denen infolge der :Anpassung an die psychische Veranlagung die Abmessungen der internationalen Vereinbarung mit denjenigen des subjektiven Zeichens übereinstimmen, gewisse Abweichungen aufweisen.</text:p>
+   <text:p text:style-name="P29">Infolgedessen wird auch das subjektiv gegebene Zeichen in seinem akustischen Eindruck auch bei Geschwindigkeiten, bei denen infolge der Anpassung an die psychische Veranlagung die Abmessungen der internationalen Vereinbarung mit denjenigen des subjektiven Zeichens übereinstimmen, gewisse Abweichungen aufweisen.</text:p>
    <text:p text:style-name="P29">Das Klangbild ist in mehr oder weniger großer Annäherung an die Übereinstimmung mit den mathematischen Proportionen gebunden, aber es ist außerdem <text:span text:style-name="T21">„</text:span>typisch<text:span text:style-name="T21">“</text:span> gestaltet.</text:p>
    <text:p text:style-name="P29">Wenn man bei einem höheren Tempo (60—100 Z/Min.) eine beliebige Folge von Morsezeichen aufnimmt, die von Hand gegeben werden, und dann die gleiche Folge bei gleicher Geschwindigkeit mit den genau eingehaltenen mathematischen Abmessungen darbietet (durch automatische Gebevorrichtung), so ist die Verschiedenartigkeit beider Klangbildarten deutlich herauszuhören.</text:p>
    <text:p text:style-name="P29">Beim Heraushören dieser Unterschiede der beiden Klangbildarten hat man eine ähnliche Empfindung, als wenn ein Musikwerk von einem automatischen Musikinstrument (Orchestrion) heruntergespielt oder von der Hand eines geübten Musikers vorgetragen wird.</text:p>
