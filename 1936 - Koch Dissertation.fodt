@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-21T07:55:40.048839096</dc:date><meta:editing-duration>P1DT2H2M21S</meta:editing-duration><meta:editing-cycles>95</meta:editing-cycles><meta:generator>LibreOffice/7.5.6.2$Linux_X86_64 LibreOffice_project/50$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="18" meta:object-count="4" meta:page-count="55" meta:paragraph-count="603" meta:word-count="20067" meta:character-count="143646" meta:non-whitespace-character-count="124121"/></office:meta>
+ <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-21T07:57:42.448825261</dc:date><meta:editing-duration>P1DT2H4M23S</meta:editing-duration><meta:editing-cycles>96</meta:editing-cycles><meta:generator>LibreOffice/7.5.6.2$Linux_X86_64 LibreOffice_project/50$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:image-count="18" meta:object-count="4" meta:page-count="55" meta:paragraph-count="603" meta:word-count="20067" meta:character-count="143646" meta:non-whitespace-character-count="124121"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">922103</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">925952</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">44427</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">20784</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">14958</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">925707</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">22772</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">933237</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">922103</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">925952</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">44425</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">942885</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">946734</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -947,7 +947,10 @@
   <style:style style:name="T29" style:family="text">
    <style:text-properties officeooo:rsid="00235105"/>
   </style:style>
-  <style:style style:name="T30" style:family="text"/>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties officeooo:rsid="0023a7cb"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text"/>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none"/>
   </style:style>
@@ -10171,7 +10174,7 @@
    <text:p text:style-name="P29">Der Lernende wird zuerst in den Rhythmus des Ausbildungstempos 60 Z/Min. eingeführt. Da dieser Rhythmus aufgezwungen ist und daher nicht immer dem Eigenrhythmus des Lernenden zu entsprechen braucht, stellt sich der Schüler je nach seiner Veranlagung mehr oder weniger schnell darauf ein, so daß die Schalung mit einer Einstellung auf den Rhythmus beginnen muß. Hierbei geht man zweckmäßig von zwei sich gut unterscheidenden Klangbildern aus, die mittels automatischer Gebevorrichtung (S. 66) dargeboten wurden, um das Tempo genau einzuhalten. In der Praxis ist es bei Anwendung chiffrierten Textes üblich, Buchstabengruppen von je 5 Zeichen zusammenzustellen, die mit entsprechend merkbaren Pausen zwischen den Fünfergruppen gegeben werden. An diese allgemeine Einrichtung des praktischen Funkverkehrs sollte der Lernende von Anfang an gewöhnt werden, so daß diese Buchstabengruppierung bei unserer Ausbildung von Anfang an durchgeführt wurde.</text:p>
    <text:p text:style-name="P29">Mehr oder weniger schwer hört der Lernende aus den beiden ersten regellos nacheinander dargebotenen Klangbildern die akustische Gestalt des einzelnen Zeichens heraus. Die zu den Klangbildern gehörigen Buchstaben werden noch nicht genannt, denn der Lernende soll vorläufig nur durch das Mithören der Gebefolge auf die akustische Gestalt des Zeichens und auf den Rhythmus eingestellt werden.</text:p>
    <text:p text:style-name="P29">Manche Personen sind sofort von diesem Rhythmus erfaßt weil der aufgedrängte Rhythmus mit ihrem Eigenrhythmus übereinstimmt oder verwandt ist.</text:p>
-   <text:p text:style-name="P29">Das Ausbildungsverfahren verwendet einen Vordruck “um Niederschreiben der Buchstaben nach folgender Anordnung:</text:p>
+   <text:p text:style-name="P29">Das Ausbildungsverfahren verwendet einen Vordruck <text:span text:style-name="T30">z</text:span>um Niederschreiben der Buchstaben nach folgender Anordnung:</text:p>
    <text:p text:style-name="P17"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Image14" text:anchor-type="as-char" svg:width="17.59cm" svg:height="5.495cm" draw:z-index="31"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAq0AAADWCAIAAAB0RCzXAAAyv0lEQVR4nO2deXgUxdr26xCy
        yBIRiBFIBE8UWVQEWRQv8QJcQDwgkKN4IgQQAhh4WRUUUUDBg+IFAooIUeCAhkVBJSCb2wEx
