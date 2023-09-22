@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-21T19:36:22.453125766</dc:date><meta:editing-duration>P1DT13H34M32S</meta:editing-duration><meta:editing-cycles>149</meta:editing-cycles><meta:generator>LibreOffice/7.5.6.2$Linux_X86_64 LibreOffice_project/50$Build-2</meta:generator><meta:document-statistic meta:table-count="8" meta:image-count="18" meta:object-count="4" meta:page-count="48" meta:paragraph-count="604" meta:word-count="21884" meta:character-count="131586" meta:non-whitespace-character-count="110249"/></office:meta>
+ <office:meta><meta:creation-date>2023-09-11T20:53:47.208581493</meta:creation-date><dc:date>2023-09-22T08:34:43.010211307</dc:date><meta:editing-duration>P1DT13H35M18S</meta:editing-duration><meta:editing-cycles>150</meta:editing-cycles><meta:generator>LibreOffice/7.5.6.2$Linux_X86_64 LibreOffice_project/50$Build-2</meta:generator><meta:document-statistic meta:table-count="8" meta:image-count="18" meta:object-count="4" meta:page-count="48" meta:paragraph-count="604" meta:word-count="21884" meta:character-count="131586" meta:non-whitespace-character-count="110249"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">505866</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">932475</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">37594</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">17586</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16792</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">12023</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">519204</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">18383</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">943801</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">505866</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">932475</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">37592</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">523450</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">949265</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -73,7 +73,7 @@
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3605533</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3705862</config:config-item>
    <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
@@ -162,7 +162,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -1065,95 +1065,95 @@
   <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="003522b4"/>
   </style:style>
-  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
+  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0037041d"/>
+  </style:style>
+  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="001ce7b8" officeooo:paragraph-rsid="001ce7b8"/>
   </style:style>
-  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Footnote">
-   <style:text-properties officeooo:paragraph-rsid="001ce7b8"/>
-  </style:style>
-  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Footnote">
    <style:text-properties officeooo:paragraph-rsid="001ce7b8"/>
   </style:style>
   <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="001ce7b8"/>
+  </style:style>
+  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
    <style:text-properties officeooo:paragraph-rsid="00135da4"/>
   </style:style>
-  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties officeooo:paragraph-rsid="0012949c"/>
   </style:style>
-  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="00204d4c"/>
   </style:style>
-  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0025d58a"/>
   </style:style>
-  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="00289320" officeooo:paragraph-rsid="00289320"/>
   </style:style>
-  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="00289320" officeooo:paragraph-rsid="00289320"/>
   </style:style>
-  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="00289320" officeooo:paragraph-rsid="00289320"/>
   </style:style>
-  <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
-  </style:style>
-  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
-   <style:paragraph-properties fo:break-before="page"/>
   </style:style>
   <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
    <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="0036f2ed" officeooo:paragraph-rsid="0036f2ed"/>
   </style:style>
-  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0036f2ed"/>
   </style:style>
-  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="en" fo:country="US"/>
   </style:style>
-  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties fo:language="en" fo:country="US"/>
   </style:style>
-  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ce7b8" officeooo:paragraph-rsid="001ce7b8"/>
   </style:style>
-  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="en" fo:country="US"/>
   </style:style>
-  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="US"/>
   </style:style>
-  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:language="en" fo:country="US"/>
-  </style:style>
-  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Heading_20_5">
+  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="en" fo:country="US"/>
   </style:style>
   <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties fo:language="en" fo:country="US"/>
+  </style:style>
+  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Heading_20_5">
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="003522b4"/>
   </style:style>
-  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="002db4dc"/>
   </style:style>
-  <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
    <style:text-properties fo:language="en" fo:country="US"/>
   </style:style>
-  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
    <style:text-properties fo:language="en" fo:country="US"/>
-  </style:style>
-  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0037041d"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="000b49e0"/>
@@ -1313,6 +1313,9 @@
   </style:style>
   <style:style style:name="T53" style:family="text">
    <style:text-properties officeooo:rsid="0037041d"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties officeooo:rsid="00388c06"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none"/>
@@ -1672,7 +1675,7 @@
     </text:table-of-content-source>
     <text:index-body>
      <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
-      <text:p text:style-name="P129">Table of Contents</text:p>
+      <text:p text:style-name="P130">Table of Contents</text:p>
      </text:index-title>
      <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2_2461086041" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">A. Introduction<text:tab/>4</text:a></text:p>
      <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc213_2461086041" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">B. General Considerations for the Study of Radio Activity<text:tab/>5</text:a></text:p>
@@ -1714,7 +1717,7 @@
    <text:p text:style-name="P96"/>
    <text:h text:style-name="P83" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc2_2461086041"/>A. Introduction<text:bookmark-end text:name="__RefHeading___Toc2_2461086041"/></text:h>
    <text:p text:style-name="P97">The goal of all work-psychological investigations must be to <text:span text:style-name="T35">find</text:span> <text:span text:style-name="T35">opportunities with the most </text:span>impact for human work. This is achieved by <text:span text:style-name="T35">considering</text:span> <text:span text:style-name="T35">both </text:span>the psychological <text:span text:style-name="T35">structure of the worker </text:span>and the <text:span text:style-name="T36">work conditions under which the work is performed</text:span>. The adaptation between man and work can be achieved in two different ways with fundamentally different starting points, either man or work, but <text:span text:style-name="T35">with </text:span>the same goal.</text:p>
-   <text:p text:style-name="P123"><text:span text:style-name="T27">If one starts from the human being, the task of work-psychology will consist in recognizing the individual human being in his psychological structure by means of a thorough examination (aptitude examination), in order to find for him a job which corresponds to his aptitudes, for which he is thus really &quot;called&quot;, according to the actual meaning of the term </text:span><text:span text:style-name="T32">“</text:span>vocation<text:span text:style-name="T36">”</text:span><text:span text:style-name="T27">.</text:span></text:p>
+   <text:p text:style-name="P124"><text:span text:style-name="T27">If one starts from the human being, the task of work-psychology will consist in recognizing the individual human being in his psychological structure by means of a thorough examination (aptitude examination), in order to find for him a job which corresponds to his aptitudes, for which he is thus really &quot;called&quot;, according to the actual meaning of the term </text:span><text:span text:style-name="T32">“</text:span>vocation<text:span text:style-name="T36">”</text:span><text:span text:style-name="T27">.</text:span></text:p>
    <text:p text:style-name="P97">The professional activity, however, is not only conditioned by aptitudes, but is largely composed of certain practicable skills, for which the original aptitudes are only a prerequisite. In the correct pursuit of this way of work for the adaptation of man to his work, the development of psychologically correct training procedures will arise as a further task of industrial psychology, which are to develop the actual professional skills from the basic aptitudes determined in the aptitude test.</text:p>
    <text:p text:style-name="P97">However, this adaptation of the human being to his work will not yet lead to full success for the work, since even the best suited and semi-skilled occupational representative cannot have a full effect on his work if the working conditions themselves are not now in turn also adapted to the human being in his entire psychological and physical structure. This leads to the second <text:span text:style-name="T36">approach of </text:span>work-psychological, which <text:span text:style-name="T36">is</text:span> to start from the investigation of all working conditions. This investigation will have to be directed not only to the design of the special conditions of the work to be performed, such as the design of the workplace, the tools, the machine, accident prevention measures, working posture, etc., but also to the general working conditions, such as the design of the working space, the working hours, break regulations, etc.</text:p>
    <text:p text:style-name="P97">While the aptitude tests are geared to the psychological attitude of the individual in his or her own particular way, the tests of the working conditions must naturally be based on the normal psychological and physical constitution of the working person, and the conditions must be designed for this person in such a way that they are adapted as far as possible to this normal performance.</text:p>
@@ -1991,7 +1994,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P97">It should also be noted that the transmission rate depends on the Morse code from which a transmission sequence is composed, since there are longer and shorter <text:span text:style-name="T41">sequences</text:span>.</text:p>
-   <text:p text:style-name="P131"><text:span text:style-name="T27">If one </text:span><text:span text:style-name="T33">chooses the duration of a &quot;dot length&quot; </text:span><text:span text:style-name="T27">as a unit of measurement for the character duration of a Morse character (i.e. for the time during which the character sounds), then, for example, as an extreme case in international </text:span><text:span text:style-name="T33">Morse</text:span><text:span text:style-name="T27">, the character duration of the letter e (</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="T27">) to ch (</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span><text:span text:style-name="T27">) is 1</text:span><text:span text:style-name="T33"> to </text:span><text:span text:style-name="T27">15:</text:span></text:p>
+   <text:p text:style-name="P132"><text:span text:style-name="T27">If one </text:span><text:span text:style-name="T33">chooses the duration of a &quot;dot length&quot; </text:span><text:span text:style-name="T27">as a unit of measurement for the character duration of a Morse character (i.e. for the time during which the character sounds), then, for example, as an extreme case in international </text:span><text:span text:style-name="T33">Morse</text:span><text:span text:style-name="T27">, the character duration of the letter e (</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="T27">) to ch (</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span><text:span text:style-name="T27">) is 1</text:span><text:span text:style-name="T33"> to </text:span><text:span text:style-name="T27">15:</text:span></text:p>
    <text:p text:style-name="P65"><draw:frame draw:style-name="fr3" draw:name="Image17" text:anchor-type="as-char" svg:width="14.579cm" svg:height="1.852cm" draw:z-index="3"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAicAAABGCAIAAACYBaNcAAAxX0lEQVR4nO2deZgU1fX3qwfz
        U9G4sYiAMC4oIAIquAREIgqCoFERUXHDKIiK4gKRKIa4oKiAgKgRiOAal6CggokbKC64ABJU
@@ -2586,7 +2589,7 @@
     <table:table-column table:style-name="Table8.B"/>
     <table:table-row table:style-name="Table8.1">
      <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-      <text:p text:style-name="P128"><draw:frame draw:style-name="fr5" draw:name="Image3 Copy 1" text:anchor-type="as-char" svg:width="8.793cm" style:rel-width="100%" svg:height="5.29cm" style:rel-height="scale" draw:z-index="18"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P129"><draw:frame draw:style-name="fr5" draw:name="Image3 Copy 1" text:anchor-type="as-char" svg:width="8.793cm" style:rel-width="100%" svg:height="5.29cm" style:rel-height="scale" draw:z-index="18"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAbgAAAEKCAIAAADvqteaAACTxUlEQVR4nO19d3xVRfr+3IRV
           qQkt1NA7qKDAKhZwAQvY22IBe1mxYQXEguL6VUHsoCiu69qwri7uoigq7rrKCoKCCwiEEgIJ
           CQkdlNzf8zvPntf3zrkt4ZJEmOeP+zn33HPnzJkz88zb5p1q+fn5Ji7S0tLiXxAOh/EZ8oCL
@@ -3955,10 +3958,10 @@
     </table:table-row>
     <table:table-row table:style-name="Table8.2">
      <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-      <text:p text:style-name="P126">F<text:span text:style-name="T29">ig</text:span><text:span text:style-name="T27">. </text:span><text:span text:style-name="T27"><text:sequence text:ref-name="refAbb.0" text:name="Abb." text:formula="ooow:Abb.+1" style:num-format="1">1</text:sequence></text:span><text:span text:style-name="T27">. </text:span><text:span text:style-name="T34">subject</text:span><text:span text:style-name="T27"> I</text:span></text:p>
+      <text:p text:style-name="P127">F<text:span text:style-name="T29">ig</text:span><text:span text:style-name="T27">. </text:span><text:span text:style-name="T27"><text:sequence text:ref-name="refAbb.0" text:name="Abb." text:formula="ooow:Abb.+1" style:num-format="1">1</text:sequence></text:span><text:span text:style-name="T27">. </text:span><text:span text:style-name="T34">subject</text:span><text:span text:style-name="T27"> I</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-      <text:p text:style-name="P127">F<text:span text:style-name="T27">ig. </text:span><text:span text:style-name="T27"><text:sequence text:ref-name="refAbb.1" text:name="Abb." text:formula="ooow:Abb.+1" style:num-format="1">2</text:sequence></text:span><text:span text:style-name="T27">. </text:span><text:span text:style-name="T34">subject</text:span><text:span text:style-name="T27"> II</text:span></text:p>
+      <text:p text:style-name="P128">F<text:span text:style-name="T27">ig. </text:span><text:span text:style-name="T27"><text:sequence text:ref-name="refAbb.1" text:name="Abb." text:formula="ooow:Abb.+1" style:num-format="1">2</text:sequence></text:span><text:span text:style-name="T27">. </text:span><text:span text:style-name="T34">subject</text:span><text:span text:style-name="T27"> II</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table8.3">
@@ -5227,10 +5230,10 @@
     </table:table-row>
     <table:table-row table:style-name="Table8.4">
      <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-      <text:p text:style-name="P125">F<text:span text:style-name="T27">ig. </text:span><text:span text:style-name="T27"><text:sequence text:ref-name="refAbb.2" text:name="Abb." text:formula="ooow:Abb.+1" style:num-format="1">3</text:sequence></text:span><text:span text:style-name="T27">. </text:span><text:span text:style-name="T34">subject</text:span><text:span text:style-name="T27"> III</text:span></text:p>
+      <text:p text:style-name="P126">F<text:span text:style-name="T27">ig. </text:span><text:span text:style-name="T27"><text:sequence text:ref-name="refAbb.2" text:name="Abb." text:formula="ooow:Abb.+1" style:num-format="1">3</text:sequence></text:span><text:span text:style-name="T27">. </text:span><text:span text:style-name="T34">subject</text:span><text:span text:style-name="T27"> III</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-      <text:p text:style-name="P125">F<text:span text:style-name="T27">ig. </text:span><text:span text:style-name="T27"><text:sequence text:ref-name="refAbb.3" text:name="Abb." text:formula="ooow:Abb.+1" style:num-format="1">4</text:sequence></text:span><text:span text:style-name="T27">. </text:span><text:span text:style-name="T34">subject</text:span><text:span text:style-name="T27"> IV.</text:span></text:p>
+      <text:p text:style-name="P126">F<text:span text:style-name="T27">ig. </text:span><text:span text:style-name="T27"><text:sequence text:ref-name="refAbb.3" text:name="Abb." text:formula="ooow:Abb.+1" style:num-format="1">4</text:sequence></text:span><text:span text:style-name="T27">. </text:span><text:span text:style-name="T34">subject</text:span><text:span text:style-name="T27"> IV.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table8.5">
@@ -5248,7 +5251,7 @@
     <table:table-column table:style-name="Table6.B"/>
     <table:table-row table:style-name="Table6.1">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P128"><draw:frame draw:style-name="fr5" draw:name="Image5" text:anchor-type="as-char" svg:width="8.793cm" style:rel-width="100%" svg:height="6.911cm" style:rel-height="scale" draw:z-index="14"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P129"><draw:frame draw:style-name="fr5" draw:name="Image5" text:anchor-type="as-char" svg:width="8.793cm" style:rel-width="100%" svg:height="6.911cm" style:rel-height="scale" draw:z-index="14"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAkQAAAHICAIAAAAgGGIzAADRXUlEQVR4nO39Z5wcxfU9Dlcv
           Spu0QTkighAgggyIDMaErzFJAgHGJJMRIHIwORgMGBuDySCEyMnkHGxyEIgsskB5ldNqswQ7
           z/33+fV97lT1zPTMTureOi/m09NTHaqm6p66oW51icViKgGS/GTCcZxEd/j1119/+eWXkpKS
@@ -6248,7 +6251,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P128"><draw:frame draw:style-name="fr5" draw:name="Image6 Copy 1" text:anchor-type="as-char" svg:width="8.797cm" style:rel-width="100%" svg:height="7.082cm" style:rel-height="scale" draw:z-index="15"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P129"><draw:frame draw:style-name="fr5" draw:name="Image6 Copy 1" text:anchor-type="as-char" svg:width="8.797cm" style:rel-width="100%" svg:height="7.082cm" style:rel-height="scale" draw:z-index="15"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAkUAAAHUCAIAAAC7zsvtAACs9klEQVR4nO19d5wlVbXurmam
           03TPTE9iEgMSBSQKAlcEERBUwIsCXoJyVaKSniiKKKiACohKFJWoKMiDiwiiGAgqZpEgCCiZ
           YQITO3cPM+etW9+v1ltn76rq6qbPqdp11vdH/+rUqaquvc/e61tprz2hUqmYYkC+SRAE8iR/
@@ -7086,7 +7089,7 @@
     </table:table-row>
     <table:table-row table:style-name="Table6.1">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P128"><draw:frame draw:style-name="fr5" draw:name="Image7" text:anchor-type="as-char" svg:width="8.793cm" style:rel-width="100%" svg:height="10.054cm" style:rel-height="scale" draw:z-index="16"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P129"><draw:frame draw:style-name="fr5" draw:name="Image7" text:anchor-type="as-char" svg:width="8.793cm" style:rel-width="100%" svg:height="10.054cm" style:rel-height="scale" draw:z-index="16"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAhcAAAJkCAIAAAAtDZRwAAC1k0lEQVR4nO29eZwkRbU2HNkz
           09t09+wbA4w4gGyCoiyvC6CAqICCLIIgCopXRZFFXq8gKKAoIOAOXJELegXcUC+LuCAIioKC
           7IsCA8PM0MzW+zo9nd/55fPm+U5FZFVnVVdWZWaf54/+ZWVlZmdERZznbHFiuu/7RqFQKBSK
@@ -7954,7 +7957,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P128"><draw:frame draw:style-name="fr5" draw:name="Image8" text:anchor-type="as-char" svg:width="8.797cm" style:rel-width="100%" svg:height="8.003cm" style:rel-height="scale" draw:z-index="17"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P129"><draw:frame draw:style-name="fr5" draw:name="Image8" text:anchor-type="as-char" svg:width="8.797cm" style:rel-width="100%" svg:height="8.003cm" style:rel-height="scale" draw:z-index="17"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAhYAAAHmCAIAAACgX1AAAACUGUlEQVR4nO29ebwcVbX3XR1O
           zjzlZCIzISQMhkEEGWVQ9ArIeBVwYBCBBxAZBEQQBXlEEQRBrqgMF70EmWRS4CLgZZKIEEFm
           w5wEyJwzz0n6XU//bq139d7V1XX6VHdXVa/vH+dTXV3dp/buXfu319prr12VTqcdRVEURRk5
@@ -9319,10 +9322,10 @@
       <text:p text:style-name="P74">l</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30"> ▄▄▄ ▄ ▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30"> ▄▄▄ ▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">   ▄▄▄ ▄ ▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">   ▄▄▄ ▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -9330,10 +9333,10 @@
       <text:p text:style-name="P74">f</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄ ▄ ▄▄▄ ▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄ ▄ ▄▄▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄ ▄ ▄▄▄   ▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄ ▄ ▄▄▄   ▄</text:span></text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -9341,10 +9344,10 @@
       <text:p text:style-name="P74">c</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄ ▄▄▄ ▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄ ▄▄▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄   ▄▄▄ ▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄   ▄▄▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -9352,10 +9355,10 @@
       <text:p text:style-name="P74">q</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄▄▄ ▄ ▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄▄▄ ▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄▄▄   ▄ ▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄▄▄   ▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -9363,10 +9366,10 @@
       <text:p text:style-name="P74">x</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄ ▄ ▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄ ▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄   ▄ ▄ ▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄   ▄ ▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -9374,10 +9377,10 @@
       <text:p text:style-name="P74">y</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄ ▄▄▄ ▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄ ▄▄▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄   ▄ ▄▄▄ ▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄   ▄ ▄▄▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -9385,10 +9388,10 @@
       <text:p text:style-name="P74">k</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄ ▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B2" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄   ▄ ▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄   ▄ ▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -9396,10 +9399,10 @@
       <text:p text:style-name="P74">d</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B9" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄ ▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄ ▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabelle1.B9" office:value-type="string">
-      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄   ▄ ▄</text:span></text:span></text:p>
+      <text:p text:style-name="P123"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T30">▄▄▄   ▄ ▄</text:span></text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -9523,7 +9526,7 @@
    <text:p text:style-name="P97">The observation of the above figures reveals at first sight that the whole figure is characterized by the shape character of the parts. This effect is so strong that it appears even with very short observation in the tachistoscope, i.e., as four pairs of lines are seen. The overall shape is divided into partial shapes. The more the perceptual content stimulates the emergence of the partial shapes, the more clearly we perceive the division of the overall shape. Thus, in <text:span text:style-name="T47">series</text:span> 1, if all lines are equally spaced, no partial shapes will appear, which has the consequence that the number of lines is also recognized only uncertainly by tachistoscopic observation. In <text:span text:style-name="T47">series</text:span> 2, on the other hand, partial figures appear, which are even more noticeable in <text:span text:style-name="T47">series </text:span>3 because of the smaller distance between the lines belonging to a pair.</text:p>
    <text:p text:style-name="P97"><text:soft-page-break/>We now observe the same phenomenon of partial shapes standing out from the overall shape in the acoustic field with the different shapes of <text:span text:style-name="T47">effectively sent </text:span>Morse code. The radio operator can hear certain partial shapes in the Morse code, which are formed according to the kind of stimuli, which the Morse code in question gives by its form, or also according to the individual arrangement.</text:p>
    <text:p text:style-name="P97">Accordingly, <text:span text:style-name="T47">the operator</text:span> will also emphasize these partial forms when transmitting and thus color the character individually. From this point of view, let us consider, for example, the shape of the letter c.</text:p>
-   <text:p text:style-name="P143">Not every radio operator will take this sign as an unstructured whole: <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span>. record. <text:span text:style-name="T47">M</text:span>ore often, one observes a breakdown into two partial forms: <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4">   </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span> (da<text:span text:style-name="T53">h</text:span> dit ... da<text:span text:style-name="T53">h</text:span> dit). <text:span text:style-name="T47">Or, m</text:span>ore rarely, into <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4">   </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span> (da<text:span text:style-name="T53">h</text:span> dit da<text:span text:style-name="T53">h</text:span> ... dit), a main partial form, as it were, to which the short dot is then attached.</text:p>
+   <text:p text:style-name="P118">Not every radio operator will take this sign as an unstructured whole: <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span>. record. <text:span text:style-name="T47">M</text:span>ore often, one observes a breakdown into two partial forms: <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4">   </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span> (da<text:span text:style-name="T53">h</text:span> dit ... da<text:span text:style-name="T53">h</text:span> dit). <text:span text:style-name="T47">Or, m</text:span>ore rarely, into <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T4">   </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span> (da<text:span text:style-name="T53">h</text:span> dit da<text:span text:style-name="T53">h</text:span> ... dit), a main partial form, as it were, to which the short dot is then attached.</text:p>
    <text:p text:style-name="P89">Similarly, the other characters in Table 1 are subdivided into subforms, but this table also shows that this phenomenon occurs only with those characters that suggest a subdivision. This is shown by the fact that partial shapes do not appear, for example, with the character s (<text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T6"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5">▄</text:span></text:span>) or similar characters.</text:p>
    <text:p text:style-name="P102">The tendency to divide the whole into partial shapes is especially noticeable in the samples of beginners, but even more experienced radio operators often have difficulties in getting rid of this tendency.</text:p>
    <text:p text:style-name="P102">In addition to this division into sub-forms, some other individual peculiarities, which influence the design of the Morse code, should be mentioned only briefly.</text:p>
@@ -9540,13 +9543,13 @@
    <text:p text:style-name="P97">Some examples can be mentioned:</text:p>
    <text:list text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P140">Composition of characters from 1, 2, 3, 4 dots gives the mnemonic e i s h,</text:p>
+     <text:p text:style-name="P141">Composition of characters from 1, 2, 3, 4 dots gives the mnemonic e i s h,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P140"><text:span text:style-name="T48">T</text:span>he combination of characters from 1, 2, 3, 4 <text:span text:style-name="T48">dashes</text:span> gives the mnemonic t m o c h</text:p>
+     <text:p text:style-name="P141"><text:span text:style-name="T48">T</text:span>he combination of characters from 1, 2, 3, 4 <text:span text:style-name="T48">dashes</text:span> gives the mnemonic t m o c h</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P140">Characters that are related in structure are combined to form a scheme:</text:p>
+     <text:p text:style-name="P141">Characters that are related in structure are combined to form a scheme:</text:p>
     </text:list-item>
    </text:list>
    <table:table table:name="Table3" table:style-name="Table3">
@@ -9561,7 +9564,7 @@
     <table:table-column table:style-name="Table3.I"/>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P121"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P105">a</text:p>
@@ -9590,7 +9593,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P121"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P105">u</text:p>
@@ -9619,7 +9622,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P121"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span></text:p>
+      <text:p text:style-name="P122"><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T31"> </text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T27">▄▄▄</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:p text:style-name="P105">v</text:p>
@@ -9703,22 +9706,22 @@
    <text:p text:style-name="P97">If we briefly summarize the various disadvantages of this training method, the most important points are as follows:</text:p>
    <text:list text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P141">Learning with a detour via the optical symbol.</text:p>
+     <text:p text:style-name="P142">Learning with a detour via the optical symbol.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P141">Guessing what sign might come, distraction.</text:p>
+     <text:p text:style-name="P142">Guessing what sign might come, distraction.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P141">The decomposed sign does not correspond to the <text:span text:style-name="T48">psychological</text:span> structure of the human being.</text:p>
+     <text:p text:style-name="P142">The decomposed sign does not correspond to the <text:span text:style-name="T48">psychological</text:span> structure of the human being.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P141">Switching from decomposed characters to listening to the designed unit.</text:p>
+     <text:p text:style-name="P142">Switching from decomposed characters to listening to the designed unit.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P141">Switching from guessing and translating via the visual symbol to the immediate sound image-letter connection.</text:p>
+     <text:p text:style-name="P142">Switching from guessing and translating via the visual symbol to the immediate sound image-letter connection.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P141"><text:span text:style-name="T48">Adaptation to</text:span> the overall rhythm.</text:p>
+     <text:p text:style-name="P142"><text:span text:style-name="T48">Adaptation to</text:span> the overall rhythm.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P97">All these disadvantages lead to an aggravation and slowing down of the learning process.</text:p>
@@ -10889,15 +10892,15 @@
    <text:p text:style-name="P89">According to experience gained <text:span text:style-name="T52">from </text:span>longer training courses, at higher speeds, the Morse code <text:span text:style-name="T52">characters</text:span> which can be easily confused are those in which the basic acoustic structure is the same and the distinguishing characteristics are only slight. Therefore, in addition to the aforementioned sound patterns of s and h, the signs for u <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄▄▄</text:span></text:span> and of v <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄ ▄▄▄</text:span></text:span> or of d <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄</text:span></text:span> and b <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄ ▄</text:span></text:span> are easily confused by the beginner at a higher speed.</text:p>
    <text:p text:style-name="P103">These signs are acoustic figures whose optical symbols are composed in such a way that before or after the dash, the dots act as prefixes or suffixes, so to speak.</text:p>
    <text:p text:style-name="P97">The <text:span text:style-name="T52">sound image</text:span> of two such confusable <text:span text:style-name="T52">characters </text:span>is little changed in its overall effect, because the time difference in which the two or three dots are heard as a prefix or suffix is very small at high speed. Thus, the ear must already be trained to distinguish these similarities.</text:p>
-   <text:p text:style-name="P120">At a higher speed, it is less difficult to distinguish between characters whose optical symbols are composed of dash lengths, e.g. o <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄▄▄ ▄▄▄</text:span></text:span> and ch <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄▄▄ ▄▄▄ ▄▄▄</text:span></text:span><text:span text:style-name="T5">.</text:span></text:p>
-   <text:p text:style-name="P120"><text:soft-page-break/>The dash <text:span text:style-name="T52">is</text:span> three times longer than the dot, so that the distinction between three and four dashes is easier at high speed than with three and four dots. For <text:span text:style-name="T52">the</text:span> same reason, fewer difficulties arise in keeping the sound patterns apart, for example, for the letters g <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄▄▄ ▄</text:span></text:span> and 6 <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄ ▄ ▄</text:span></text:span> or w <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄▄▄ ▄▄▄</text:span></text:span> and j <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄▄▄ ▄▄▄ ▄▄▄</text:span></text:span>. Such characters, whose optical symbols are mirror images, give little possibility of confusion despite their optical similarity as acoustic shapes. Characters such as v <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄ ▄▄▄</text:span></text:span> and b <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄ ▄</text:span></text:span> are too different in their sound images to be confused.</text:p>
+   <text:p text:style-name="P121">At a higher speed, it is less difficult to distinguish between characters whose optical symbols are composed of dash lengths, e.g. o <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄▄▄ ▄▄▄</text:span></text:span> and ch <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄▄▄ ▄▄▄ ▄▄▄</text:span></text:span><text:span text:style-name="T5">.</text:span></text:p>
+   <text:p text:style-name="P121"><text:soft-page-break/>The dash <text:span text:style-name="T52">is</text:span> three times longer than the dot, so that the distinction between three and four dashes is easier at high speed than with three and four dots. For <text:span text:style-name="T52">the</text:span> same reason, fewer difficulties arise in keeping the sound patterns apart, for example, for the letters g <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄▄▄ ▄</text:span></text:span> and 6 <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄ ▄ ▄</text:span></text:span> or w <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄▄▄ ▄▄▄</text:span></text:span> and j <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄▄▄ ▄▄▄ ▄▄▄</text:span></text:span>. Such characters, whose optical symbols are mirror images, give little possibility of confusion despite their optical similarity as acoustic shapes. Characters such as v <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄ ▄▄▄</text:span></text:span> and b <text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄▄▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄ ▄</text:span></text:span> are too different in their sound images to be confused.</text:p>
    <text:p text:style-name="P89">If, therefore, it is occasionally concluded that these would be similar and therefore difficult to distinguish<text:note text:id="ftn13" text:note-class="footnote"><text:note-citation>13</text:note-citation><text:note-body>
       <text:p text:style-name="P86">Biegel, Eine Eignungsprüfung für Funkentelegraphisten, PsychotechnZ, Jg. 6, H. 2 1931</text:p></text:note-body></text:note>, one again falls into the error of starting from the optical symbol instead of the acoustic shape.</text:p>
    <text:p text:style-name="P89">In order to avoid unnecessary difficulties for the learner during the introduction to the activity of <text:span text:style-name="T52">receiving</text:span>, the question of distinguishing similar letters in the order of the letters to be added must also be taken into account. If the training starts with similar sounding characters, then unnecessarily at the very beginning particularly high demands are made on the concentration which the learner has to exert. We have made such an attempt in the form, as the learning began with the presentation of the characters for e (<text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span>), i (<text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄</text:span></text:span>), <text:span text:style-name="T2">s (</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄</text:span></text:span><text:span text:style-name="T2">), h (</text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T2">▄</text:span></text:span><text:span text:style-name="Morse_20_Code"><text:span text:style-name="T5"> ▄ ▄ ▄</text:span></text:span><text:span text:style-name="T2">)</text:span>. One could assume that this would train the ear especially well in the beginning in distinguishing fine differences. However, it has been shown that the negative effects resulting from the great demands on concentration exceed the advantages of such auditory training. For this reason, it is better to begin the training with signs that are noticeably different from each other. Gradually, the learner hears the subtleties of the differences of sound patterns more sharply, and in this way his hearing is trained to hear the differences as the training progresses.</text:p>
    <text:p text:style-name="P103">These points of view are also taken into account when listing the order of the letters (p. 56).</text:p>
    <text:h text:style-name="P94" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc265_2461086041"/>γ) The <text:span text:style-name="T52">P</text:span>ractice of <text:span text:style-name="T52">G</text:span>roups of <text:span text:style-name="T52">L</text:span>etters<text:bookmark-end text:name="__RefHeading___Toc265_2461086041"/></text:h>
    <text:p text:style-name="P117">As already mentioned <text:span text:style-name="T52">recently</text:span>, it is important <text:span text:style-name="T52">that the </text:span>progress<text:span text:style-name="T52">ion in the</text:span> course <text:span text:style-name="T52">only adds new Morse code characters when the learner is able to easily grasps the previous ones</text:span>. In this way, the radio instructor avoids the disturbances that exceeding the scope of understanding would bring to the learner. How easily the learner&apos;s comprehension range can be exceeded was shown by experiments in which we always practiced groups of letters during a training course and then added <text:span text:style-name="T52">a</text:span> whole group <text:span text:style-name="T52">at a time </text:span>to the previously practiced characters.</text:p>
-   <text:p text:style-name="P97">We started the training at a speed of 90 to 100 char/min., with <text:span text:style-name="T52">characters</text:span> whose optical symbols are composed only of dashes: t, m, o, ch (1 <text:span text:style-name="T52">to </text:span>4 dashes). After an appropriate duration of practice and sufficient confidence of the subjects in picking up this group of letters, which was practiced according to our new method, we stopped the practice of this group. Instead, a new group of letters would now be practiced in the same way : <text:span text:style-name="T52">those whose optical symbols </text:span>consisted only of dots: e, i, 5, b (1 <text:span text:style-name="T52">to </text:span>4 dots). When these two groups were brought together in a mixed manner, the certainty of reception in our subjects was very low. In a way, we had to restart the training of these eight <text:span text:style-name="T52">characters</text:span> almost from the beginning, until these two groups were mastered together. In itself, the high speed of training will bear some blame for the disturbance, because the demand on concentration is particularly high as a result. In addition, in this case the coincidence of similar sound <text:span text:style-name="T52">images</text:span>, especially the signs of s and b, has an effect, which are incredibly difficult to distinguish at the high speed of 100 char/min., as has already been explained. Since each group was previously mastered perfectly, these reasons cannot all be responsible for the failure of the test persons. Only by combining the two groups is the range of <text:soft-page-break/>perception suddenly extended to such an extent that the <text:span text:style-name="T52">reception</text:span> is no longer successful and long practice is then necessary.</text:p>
+   <text:p text:style-name="P97">We started the training at a speed of 90 to 100 char/min., with <text:span text:style-name="T52">characters</text:span> whose optical symbols are composed only of dashes: t, m, o, ch (1 <text:span text:style-name="T52">to </text:span>4 dashes). After an appropriate duration of practice and sufficient confidence of the subjects in picking up this group of letters, which was practiced according to our new method, we stopped the practice of this group. Instead, a new group of letters would now be practiced in the same way : <text:span text:style-name="T52">those whose optical symbols </text:span>consisted only of dots: e, i, <text:span text:style-name="T54">s</text:span>, <text:span text:style-name="T54">h</text:span> (1 <text:span text:style-name="T52">to </text:span>4 dots). When these two groups were brought together in a mixed manner, the certainty of reception in our subjects was very low. In a way, we had to restart the training of these eight <text:span text:style-name="T52">characters</text:span> almost from the beginning, until these two groups were mastered together. In itself, the high speed of training will bear some blame for the disturbance, because the demand on concentration is particularly high as a result. In addition, in this case the coincidence of similar sound <text:span text:style-name="T52">images</text:span>, especially the signs of s and b, has an effect, which are incredibly difficult to distinguish at the high speed of 100 char/min., as has already been explained. Since each group was previously mastered perfectly, these reasons cannot all be responsible for the failure of the test persons. Only by combining the two groups is the range of <text:soft-page-break/>perception suddenly extended to such an extent that the <text:span text:style-name="T52">reception</text:span> is no longer successful and long practice is then necessary.</text:p>
    <text:p text:style-name="P97">After the aforementioned eight characters were picked up reasonably confidently, we stopped practicing this group further, as before.</text:p>
    <text:p text:style-name="P97">Now we practiced a group of the three letters d, b, g and then again u, v, w separately. Both groups brought together showed the same insufficient result as when the first two practice groups were connected.</text:p>
    <text:p text:style-name="P97">When we added the first characters of the previously mastered group of eight letters to the last group - d, b, g, u, v, w <text:span text:style-name="T52">—</text:span> after the appropriate practice time, it turned out that these first characters were as good as forgotten again.</text:p>
@@ -16615,46 +16618,46 @@
    <text:h text:style-name="P80" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc287_2461086041"/>Bibliography<text:bookmark-end text:name="__RefHeading___Toc287_2461086041"/></text:h>
    <text:list text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P142">Biegel, Eine Eignungsprüfung für Funkertelegraphisten. PsychotechnZ, Jg. 6. H. 2, 1931.</text:p>
+     <text:p text:style-name="P143">Biegel, Eine Eignungsprüfung für Funkertelegraphisten. PsychotechnZ, Jg. 6. H. 2, 1931.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142"><text:soft-page-break/>Biegel, Das Anlernen der Höraufnahme durch Funkentelegraphisten. PsychotechnZ, Jg. 8, H. 5. 1932.</text:p>
+     <text:p text:style-name="P143"><text:soft-page-break/>Biegel, Das Anlernen der Höraufnahme durch Funkentelegraphisten. PsychotechnZ, Jg. 8, H. 5. 1932.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Buss, Muttersprachliches Gestalten bewertet unter dem Gesichtspunkt der Ganzheit. ZAngPs 46. 1934.</text:p>
+     <text:p text:style-name="P143">Buss, Muttersprachliches Gestalten bewertet unter dem Gesichtspunkt der Ganzheit. ZAngPs 46. 1934.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Bücher Arbeit und Rhythmus. Leipzig 1924.</text:p>
+     <text:p text:style-name="P143">Bücher Arbeit und Rhythmus. Leipzig 1924.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Ehrenstein, Einführung in die Ganzheitspsychologie. Leipzig 1934.</text:p>
+     <text:p text:style-name="P143">Ehrenstein, Einführung in die Ganzheitspsychologie. Leipzig 1934.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Fröbes, Lehrbuch der experimentellen Psychologie. Freiburg i. Br. 1917.</text:p>
+     <text:p text:style-name="P143">Fröbes, Lehrbuch der experimentellen Psychologie. Freiburg i. Br. 1917.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Giese, Psychotechnik. Breslau 1928.</text:p>
+     <text:p text:style-name="P143">Giese, Psychotechnik. Breslau 1928.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Hamaide, Die Methode Decroly. Weimar, Hermann Böhlaus Nachf. 1928.</text:p>
+     <text:p text:style-name="P143">Hamaide, Die Methode Decroly. Weimar, Hermann Böhlaus Nachf. 1928.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Jost, Die Assoziationsfähigkeit in ihrer Abhängigkeit von der Verteilung der Wiederholungen. ZPs 14. 1897.</text:p>
+     <text:p text:style-name="P143">Jost, Die Assoziationsfähigkeit in ihrer Abhängigkeit von der Verteilung der Wiederholungen. ZPs 14. 1897.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Kern, Ist unsere Lesemethode richtig? Freiburg i. Br. 1931.</text:p>
+     <text:p text:style-name="P143">Kern, Ist unsere Lesemethode richtig? Freiburg i. Br. 1931.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Klutke, Psychotechnische Eignungsprüfung für Funker. PrakPs 4. 1922/23.</text:p>
+     <text:p text:style-name="P143">Klutke, Psychotechnische Eignungsprüfung für Funker. PrakPs 4. 1922/23.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Krueger, Über psychische Ganzheit. NeuwPsStud 1. Leipzig 1926.</text:p>
+     <text:p text:style-name="P143">Krueger, Über psychische Ganzheit. NeuwPsStud 1. Leipzig 1926.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Lipmann, Die psychologische Eignung der Funkentelegraphisten. SchrPs Beruf H. 9. Leipzig 1918—1920.</text:p>
+     <text:p text:style-name="P143">Lipmann, Die psychologische Eignung der Funkentelegraphisten. SchrPs Beruf H. 9. Leipzig 1918—1920.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P142">Rupp, Psychologische Grundlagen der Anlernung. PsychotechnZ, Jg. 2, H. 2. 1927.</text:p>
+     <text:p text:style-name="P143">Rupp, Psychologische Grundlagen der Anlernung. PsychotechnZ, Jg. 2, H. 2. 1927.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P83" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc289_2461086041"/>Resume<text:bookmark-end text:name="__RefHeading___Toc289_2461086041"/></text:h>
